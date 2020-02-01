@@ -11,11 +11,11 @@ const Result: React.FC<Props> = () => {
 
   return (
     <>
-      <HeadingTitle title="検索結果" />
+      <HeadingTitle title="Search Results" />
       {list.filter(Boolean).map((result, i) =>
         <Equipment
           key={i}
-          title={`10件検索: 装備${i + 1} `}
+          title={`Set ${i + 1} `}
           result={result}
           initState={i === 0}
         />

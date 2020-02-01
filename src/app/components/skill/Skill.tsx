@@ -12,7 +12,7 @@ interface Props {
 
 const Skills: React.FC<Props> = ({ skillFilter, setSkillFilter, skillList }) =>
   <div className="App-skill">
-    <HeadingTitle title="スキル" />
+    <HeadingTitle title="Skills" />
     <SkillFilter value={skillFilter} setValue={setSkillFilter} />
     <Skill skillList={skillList} />
   </div>

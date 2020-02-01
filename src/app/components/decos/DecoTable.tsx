@@ -18,7 +18,7 @@ const DecoTable: React.FC<Props> = ({ decoList, decos, setDeco }) =>
     <tbody>
       <tr>
         <th></th>
-        <th>個数</th>
+        <th>Amount</th>
       </tr>
       {decoList.map((name) =>
         <tr key={name}>

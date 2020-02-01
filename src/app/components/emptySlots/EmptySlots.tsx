@@ -68,24 +68,24 @@ const EmptySlots: React.FC<Props> = () => {
   const slot4Count = slot4?.z ?? '-'
 
   return (
-    <Accordion title={`空きスロット数 ${slot1 ? slot1.z : ''}`}>
+    <Accordion title={`Unused slots: ${slot1 ? slot1.z : ''}`}>
       <div className="EmptySlots-content">
         <table className="EmptySlots-table">
           <tbody>
             <tr>
-              <th className="EmptySlots-text">空きスロット数 Lv1以上</th>
+              <th className="EmptySlots-text">Unused Lv1+ slots</th>
               <td className="EmptySlots-slot">{slot1Count}</td>
             </tr>
             <tr>
-              <th className="EmptySlots-text">空きスロット数 Lv2以上</th>
+              <th className="EmptySlots-text">Unused Lv2+ slots</th>
               <td className="EmptySlots-slot">{slot2Count}</td>
             </tr>
             <tr>
-              <th className="EmptySlots-text">空きスロット数 Lv3以上</th>
+              <th className="EmptySlots-text">Unused Lv3+ slots</th>
               <td className="EmptySlots-slot">{slot3Count}</td>
             </tr>
             <tr>
-              <th className="EmptySlots-text">空きスロット数 Lv4以上</th>
+              <th className="EmptySlots-text">Unused Lv4 slots</th>
               <td className="EmptySlots-slot">{slot4Count}</td>
             </tr>
           </tbody>

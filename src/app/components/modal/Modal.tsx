@@ -37,7 +37,7 @@ const Modal: React.FC<Props> = ({ title, className, onClose, children }) => {
           {children}
         </div>
         <div className="Modal-actions">
-          <Button label="閉じる" onClick={onClose} />
+          <Button label="Close" onClick={onClose} />
         </div>
       </div>
     </div>,

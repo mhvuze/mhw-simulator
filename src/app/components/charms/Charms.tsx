@@ -29,13 +29,13 @@ const Charms: React.FC<Props> = () => {
   ), [filter])
 
   const checkFromDisplay = () => {
-    if (!confirm('表示をすべてチェックしますか')) return
+    if (!confirm('You are about to include all charms.')) return
 
     clearFromList(getDisplayList(charmList))
   }
 
   const uncheckFromDisplay = () => {
-    if (!confirm('表示をすべて除外しますか')) return
+    if (!confirm('You are about to exclude all charms.')) return
 
     ignoreFromList(getDisplayList(charmList))
   }
@@ -43,20 +43,20 @@ const Charms: React.FC<Props> = () => {
   return (
     <div>
       <p>
-        検索で護石を除外する場合、下記のチェックを外してください。
+        Exclude charms by unchecking them below.
         <br />
-        内容は自動的に保存されますが、開発の都合でリセットされることがあります。
+        Your selection will be saved but may be reset due to development reasons.
       </p>
       <TextFild
         type="text"
         value={filter}
         onChange={e => { setFilter(e.currentTarget.value) }}
-        placeholder="フィルタ: 護石名 or スキル"
+        placeholder="Filter: Name or Skill"
         datalist={skillList}
       />
       <div>
-        <Button label="表示をすべてチェック" onClick={checkFromDisplay} />
-        <Button label="表示をすべて除外" onClick={uncheckFromDisplay} />
+        <Button label="Include all" onClick={checkFromDisplay} />
+        <Button label="Exclude all" onClick={uncheckFromDisplay} />
       </div>
       <CharmTable charmGroups={charmList} ignoreArmors={ignoreArmors} toggleIgnoreArmors={toggle} />
     </div>

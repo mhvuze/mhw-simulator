@@ -9,7 +9,7 @@ interface Props {
 const Header: React.FC<Props> = () =>
   <header className="Header">
     <h1 className="Header-title">
-      MHW:ICEBORNE スキルシミュ
+      MHW:ICEBORNE Skill Simulator
     </h1>
     <HeaderNav />
   </header>

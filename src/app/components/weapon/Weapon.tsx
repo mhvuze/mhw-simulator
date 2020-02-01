@@ -12,7 +12,7 @@ const Weapon: React.FC<Props> = () => {
 
   return (
     <div>
-      <HeadingTitle title="武器" />
+      <HeadingTitle title="Weapon" />
       <WeaponSlots />
       {skill !== 'yws_none' && <WeaponSkills />}
     </div>

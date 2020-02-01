@@ -22,7 +22,7 @@ const SkillFilter: React.FC<Props> = ({ value, setValue }) => {
         className="SkillFilter-input"
         value={value}
         onChange={onChange}
-        placeholder="フィルタ: スキル名 or カテゴリ"
+        placeholder="Filter: Skill or Category"
         datalist={value ? undefined : categories}
       />
     </div>

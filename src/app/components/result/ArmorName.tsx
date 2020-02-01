@@ -36,25 +36,25 @@ const ArmorName: React.FC<Props> = ({ name, type }) => {
   return (
     <>
       <span className={`ArmorName ${name ? 'on' : ''}`} onClick={name ? toggleModal : undefined}>
-        {name || '装備なし'}
+        {name || 'No Equipment'}
       </span>
       {info &&
         <Modal title={name} onClose={toggleModal}>
           <Table className="ArmorName-table">
             <tbody>
               <tr>
-                <th colSpan={3}>防御力</th>
-                <th colSpan={5}>属性耐性</th>
+                <th colSpan={3}>Defense</th>
+                <th colSpan={5}>Elemental</th>
               </tr>
               <tr>
-                <th>初期</th>
-                <th>最大</th>
-                <th>ｶｽﾀﾑ</th>
-                <th>火</th>
-                <th>水</th>
-                <th>雷</th>
-                <th>氷</th>
-                <th>龍</th>
+                <th>Base</th>
+                <th>Max.</th>
+                <th>Aug.</th>
+                <th>Fire</th>
+                <th>Water</th>
+                <th>Thunder</th>
+                <th>Ice</th>
+                <th>Dragon</th>
               </tr>
               <tr>
                 <td>{info.def}</td>
@@ -70,7 +70,7 @@ const ArmorName: React.FC<Props> = ({ name, type }) => {
           </Table>
           <SlotTable slots={[info.slot1, info.slot2, info.slot3]} />
           <SkillTable skillList={info.skill} />
-          <p>検索で防具を除外する場合、下記のチェックを外してください。</p>
+          <p>Uncheck the armor piece below to exclude it.</p>
           <label>
             <input type="checkbox" checked={!isIgnore} onChange={toggleArmor} />
             {' '}

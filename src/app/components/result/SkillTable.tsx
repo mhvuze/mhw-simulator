@@ -11,8 +11,8 @@ const SkillTable: React.FC<Props> = ({ skillList }) =>
   <Table>
     <tbody>
       <tr>
-        <th>スキル名</th>
-        <th className="SkillTable-number">ポイント</th>
+        <th>Skill Name</th>
+        <th className="SkillTable-number">Points</th>
       </tr>
       {skillList.map(({ name, value }) =>
         <tr key={name}>

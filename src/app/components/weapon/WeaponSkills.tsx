@@ -17,9 +17,9 @@ const WeaponSkills: React.FC<Props> = () => {
 
   return (
     <div className="WeaponSkills">
-      <div>覚醒スキル</div>
+      <div>Awakened Ability</div>
       <Select value={skill} onChange={onChange}>
-        <option value="yws_auto">自動</option>
+        <option value="yws_auto">Auto</option>
         {weaponSkills.map(skill =>
           <option key={skill} value={`yws_${skill}`}>{skill}</option>
         )}

@@ -10,9 +10,9 @@ interface Props {
 }
 
 const list: [string, React.FC][] = [
-  ['防具設定', Armors],
-  ['護石設定', Charms],
-  ['装飾品設定', Decos],
+  ['Armor Settings', Armors],
+  ['Charm Settings', Charms],
+  ['Deco Settings', Decos],
 ]
 
 const HeaderNav: React.FC<Props> = () => {

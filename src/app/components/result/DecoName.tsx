@@ -35,7 +35,7 @@ const DecoName: React.FC<Props> = ({ name }) => {
         <Modal title={name} onClose={toggleModal}>
           <SlotTable slots={[info.slot1]} />
           <SkillTable skillList={info.skill} />
-          <p>検索で装飾品の所持数を制限する場合、下記にその個数を指定してください。</p>
+          <p>Enter the maximum amount you want to use below.</p>
           <label>
             {name}
             {' '}

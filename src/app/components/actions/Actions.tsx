@@ -54,9 +54,9 @@ const Actions: React.FC<Props> = ({ skillList, resetSkillScroll, scrollOutputAre
 
   return (
     <div className="Actions">
-      <Button label="検索" onClick={onSearchResult} primary />
-      <Button label="クリア" onClick={onClear} />
-      <Button label="追加スキルβ" onClick={onSearchSkill} />
+      <Button label="Search" onClick={onSearchResult} primary />
+      <Button label="Reset" onClick={onClear} />
+      <Button label="Extra Skills (β)" onClick={onSearchSkill} />
     </div>
   )
 }

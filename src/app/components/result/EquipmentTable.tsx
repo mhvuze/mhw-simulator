@@ -15,57 +15,57 @@ const EquipmentTable: React.FC<Props> = ({ equipment }) =>
   <Table className="EquipmentTable">
     <tbody>
       <tr>
-        <th>防御力</th>
+        <th>Defense</th>
         <td>{equipment.def}</td>
       </tr>
       {equipment.weaponSkill !== 'none' && (
         <tr>
-          <th>覚醒スキル</th>
+          <th>Awakened Skill</th>
           <td>{equipment.weaponSkill}</td>
         </tr>
       )}
       <tr>
-        <th>頭装備</th>
+        <th>Head</th>
         <td><ArmorName type="head" name={equipment.head} /></td>
       </tr>
       <tr>
-        <th>胴装備</th>
+        <th>Body</th>
         <td><ArmorName type="body" name={equipment.body} /></td>
       </tr>
       <tr>
-        <th>腕装備</th>
+        <th>Arms</th>
         <td><ArmorName type="arm" name={equipment.arm} /></td>
       </tr>
       <tr>
-        <th>腰装備</th>
+        <th>Waist</th>
         <td><ArmorName type="wst" name={equipment.wst} /></td>
       </tr>
       <tr>
-        <th>足装備</th>
+        <th>Legs</th>
         <td><ArmorName type="leg" name={equipment.leg} /></td>
       </tr>
       <tr>
-        <th>護石</th>
+        <th>Charm</th>
         <td><CharmName name={equipment.charm} /></td>
       </tr>
       <tr>
-        <th>装飾品例</th>
+        <th>Decos</th>
         <td>
           <ul className="EquipmentTable-decos">
             {equipment.decos.map(({ name, value }) =>
               <li key={name}><DecoName name={name} />x{value}</li>
             )}
             {!!equipment.slot1 &&
-              <li>空きスロット【１】x{equipment.slot1}</li>
+              <li>Unused Lv1 Slot x{equipment.slot1}</li>
             }
             {!!equipment.slot2 &&
-              <li>空きスロット【２】x{equipment.slot2}</li>
+              <li>Unused Lv2 Slot x{equipment.slot2}</li>
             }
             {!!equipment.slot3 &&
-              <li>空きスロット【３】x{equipment.slot3}</li>
+              <li>Unused Lv3 Slot x{equipment.slot3}</li>
             }
             {!!equipment.slot4 &&
-              <li>空きスロット【４】x{equipment.slot4}</li>
+              <li>Unused Lv4 Slot x{equipment.slot4}</li>
             }
           </ul>
         </td>

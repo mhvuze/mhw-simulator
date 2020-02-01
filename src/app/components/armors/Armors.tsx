@@ -37,13 +37,13 @@ const Armors: React.FC<Props> = () => {
   ), [filter])
 
   const checkFromDisplay = () => {
-    if (!confirm('表示をすべてチェックしますか')) return
+    if (!confirm('You are about to include all armor pieces.')) return
 
     clearFromList(getDisplayList(armorGroups))
   }
 
   const uncheckFromDisplay = () => {
-    if (!confirm('表示をすべて除外しますか')) return
+    if (!confirm('Your are about to exclude all armor pieces.')) return
 
     ignoreFromList(getDisplayList(armorGroups))
   }
@@ -51,20 +51,20 @@ const Armors: React.FC<Props> = () => {
   return (
     <div>
       <p>
-        検索で防具を除外する場合、下記のチェックを外してください。
+        Exclude armor pieces by unchecking them below.
         <br />
-        内容は自動的に保存されますが、開発の都合でリセットされることがあります。
+        Your selection will be saved but may be reset due to development reasons.
       </p>
       <TextFild
         type="text"
         value={filter}
         onChange={e => { setFilter(e.currentTarget.value) }}
-        placeholder="フィルタ: 防具名 or スキル"
+        placeholder="Filter: Name or Skill"
         datalist={skillList}
       />
       <div>
-        <Button label="表示をすべてチェック" onClick={checkFromDisplay} />
-        <Button label="表示をすべて除外" onClick={uncheckFromDisplay} />
+        <Button label="Include all" onClick={checkFromDisplay} />
+        <Button label="Exclude all" onClick={uncheckFromDisplay} />
       </div>
       <ArmorTable armorGroups={armorGroups} ignoreArmors={ignoreArmors} toggleIgnoreArmors={toggle} />
     </div>

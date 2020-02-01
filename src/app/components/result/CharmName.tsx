@@ -25,12 +25,12 @@ const CharmName: React.FC<Props> = ({ name }) => {
   return (
     <>
       <span className={`CharmName ${name ? 'on' : ''}`} onClick={name ? toggleModal : undefined}>
-        {name || '装備なし'}
+        {name || 'No Equipment'}
       </span>
       {info &&
         <Modal title={name} onClose={toggleModal}>
           <SkillTable skillList={info.skill} />
-          <p>検索で防具を除外する場合、下記のチェックを外してください。</p>
+          <p>Uncheck the charm below to exclude it.</p>
           <label>
             <input type="checkbox" checked={!isIgnore} onChange={toggleArmor} />
             {' '}

@@ -11,7 +11,7 @@ const SlotTable: React.FC<Props> = ({ slots }) =>
   <Table className="SlotTable">
     <tbody>
       <tr>
-        <td>スロット</td>
+        <td>Slots</td>
         <td className="SlotTable-slot">
           {slots.filter(Boolean).map(slot => `【${slot}】`).join('')}
         </td>

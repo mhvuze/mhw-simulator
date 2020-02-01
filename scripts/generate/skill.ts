@@ -1,7 +1,7 @@
 import { readCsv } from '../util/fileUtil'
 import fromEntries from '../util/fromEntries'
 
-const SERIES_SKILL = 'シリーズスキル'
+const SERIES_SKILL = 'Set Bonus'
 
 export const getSkillList = async () => {
   const csv = await readCsv('./lib/fetched/skill.csv')

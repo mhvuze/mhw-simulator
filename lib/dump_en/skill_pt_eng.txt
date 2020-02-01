@@ -1,0 +1,651 @@
+Unavailable
+Unavailable
+Unavailable
+Poison Resistance
+Invalid Message
+Reduces damage while poisoned.
+Paralysis Resistance
+Invalid Message
+Reduces the duration of paralysis.
+Sleep Resistance
+Invalid Message
+Reduces the duration of sleep.
+Stun Resistance
+Invalid Message
+Reduces stun duration.
+Muck Resistance
+Invalid Message
+Reduces impairments to mobility<LINE>while stuck in monster muck.
+Blast Resistance
+Invalid Message
+Grants protection against blastblight.
+Bleeding Resistance
+Invalid Message
+Grants protection against bleeding.
+Iron Skin
+Invalid Message
+Grants protection against<LINE>Defense Down.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Earplugs
+Invalid Message
+Grants protection from<LINE>large monsters' roars.
+Windproof
+Invalid Message
+Grants protection against wind<LINE>pressure.
+Tremor Resistance
+Invalid Message
+Grants protection against ground<LINE>tremors.
+Dungmaster
+Invalid Message
+Makes monsters hit with slinger<LINE>dung pods more likely to run.
+Unavailable
+Unavailable
+Unavailable
+Effluvial Expert
+Invalid Message
+Nullifies or reduces environmental<LINE>damage in the Rotten Vale.
+Heat Guard
+Invalid Message
+Nullifies damage from heat.
+Unavailable
+Unavailable
+Unavailable
+Attack Boost
+Invalid Message
+Increases attack power.<LINE>Also improves affinity at<LINE>higher levels.
+Defense Boost
+Invalid Message
+Increases defense. Level up<LINE>to improve resistances as well.
+Health Boost
+Invalid Message
+Increases health.
+Recovery Up
+Invalid Message
+Increases the amount recovered<LINE>when restoring health.
+Recovery Speed
+Invalid Message
+Speeds healing of recoverable<LINE>damage (the red portion of the<LINE>health gauge).
+Fire Resistance
+Invalid Message
+Increases fire resistance.<LINE>Also improves defense at<LINE>higher levels.
+Water Resistance
+Invalid Message
+Increases water resistance.<LINE>Also improves defense at<LINE>higher levels.
+Ice Resistance
+Invalid Message
+Increases ice resistance.<LINE>Also improves defense at<LINE>higher levels.
+Thunder Resistance
+Invalid Message
+Increases thunder resistance.<LINE>Also improves defense at<LINE>higher levels.
+Dragon Resistance
+Invalid Message
+Increases dragon resistance.<LINE>Also improves defense at<LINE>higher levels.
+Blight Resistance
+Invalid Message
+Grants protection against all<LINE>elemental blights.
+Fire Attack
+Invalid Message
+Increases fire element attack power.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has<LINE>a maximum limit.)</STYL>
+Water Attack
+Invalid Message
+Increases water element attack power.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has<LINE>a maximum limit.)</STYL>
+Ice Attack
+Invalid Message
+Increases ice element attack power.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has<LINE>a maximum limit.)</STYL>
+Thunder Attack
+Invalid Message
+Increases thunder element attack power.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has<LINE>a maximum limit.)</STYL>
+Dragon Attack
+Invalid Message
+Increases dragon element attack power.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental attack power has<LINE>a maximum limit.)</STYL>
+Poison Attack
+Invalid Message
+Increases the rate of poison buildup.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+Paralysis Attack
+Invalid Message
+Increases the rate of paralysis buildup.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+Sleep Attack
+Invalid Message
+Increases the rate of sleep buildup.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+Blast Attack
+Invalid Message
+Increases the rate of blast buildup.<LINE><STYL MOJI_YELLOW_DEFAULT>(Elemental buildup has a maximum limit.)</STYL>
+Normal Shots
+Invalid Message
+Increases the attack power<LINE>of normal ammo and<LINE>normal arrows.
+Piercing Shots
+Invalid Message
+Increases the attack power<LINE>of piercing ammo and Dragon<LINE>Piercer.
+Spread/Power Shots
+Invalid Message
+Increases the attack power<LINE>of spread ammo, power shot<LINE>arrows, and Thousand Dragons.
+Poison Functionality
+Invalid Message
+Allows you to apply poison<LINE>coatings.
+Para Functionality
+Invalid Message
+Allows you to apply paralysis<LINE>coatings.
+Sleep Functionality
+Invalid Message
+Allows you to apply sleep<LINE>coatings.
+Unavailable
+Unavailable
+Unavailable
+Blast Functionality
+Invalid Message
+Allows you to apply blast<LINE>coatings.
+Free Elem/Ammo Up
+Invalid Message
+Unlocks your weapon's hidden element.<LINE>Also increases bowgun loading capacity.<LINE><STYL MOJI_YELLOW_DEFAULT>(There is a cap to loading capacity.)</STYL>
+Critical Eye
+Invalid Message
+Increases affinity.
+Critical Boost
+Invalid Message
+Increases the damage of<LINE>critical hits.
+Weakness Exploit
+Invalid Message
+Increases the affinity of attacks<LINE>that exploit a monster weak spot.
+Unavailable
+Unavailable
+Unavailable
+Focus
+Invalid Message
+Increases the fill rate for weapons<LINE>with gauges and the charge rate<LINE>for weapons with charge attacks.
+Power Prolonger
+Invalid Message
+Allows long swords, dual blades, insect<LINE>glaives, switch axes, and charge blades<LINE>to stay powered up longer.
+Handicraft
+Invalid Message
+Extends the weapon sharpness gauge.<LINE>However, it will not increase the gauge<LINE>past its maximum.
+Critical Draw
+Invalid Message
+Increases affinity when<LINE>performing draw attacks.
+Partbreaker
+Invalid Message
+Makes it easier to break or<LINE>sever parts of large monsters.
+Slugger
+Invalid Message
+Makes it easier to stun monsters.
+Stamina Thief
+Invalid Message
+Increases certain attacks'<LINE>ability to exhaust monsters.
+Master Mounter
+Invalid Message
+Makes it easier to mount monsters.
+Airborne
+Invalid Message
+Increases the damage caused by<LINE>jumping attacks.
+Latent Power
+Invalid Message
+Temporarily increases affinity and<LINE>reduces stamina depletion when<LINE>certain conditions are met.
+Agitator
+Invalid Message
+Increases attack power and<LINE>affinity when large monsters<LINE>become enraged.
+Peak Performance
+Invalid Message
+Increases attack when<LINE>your health is full.
+Heroics
+Invalid Message
+Increases attack power and defense<LINE>when health drops to 35% or lower.
+Fortify
+Invalid Message
+Temporarily increases your attack<LINE>and defense every time you faint<LINE><STYL MOJI_YELLOW_DEFAULT>up to 2 times</STYL>.
+Resentment
+Invalid Message
+Increases attack when you have<LINE>recoverable damage (the red<LINE>portion of your health gauge).
+Resuscitate
+Invalid Message
+Improves evasion and reduces<LINE>stamina depletion when afflicted<LINE>with abnormal status effects.
+Horn Maestro
+Invalid Message
+Increases the effect duration of<LINE>hunting horn melodies.
+Capacity Boost
+Invalid Message
+Increases the gunlance's<LINE>shell capacity and charge<LINE>blade's phial capacity.
+Special Ammo Boost
+Invalid Message
+Increases the power of bowgun<LINE>special ammo, Dragon Piercer,<LINE>and Thousand Dragons.
+Artillery
+Invalid Message
+Strengthens explosive attacks like<LINE>gunlance shells, Wyvern's Fire, charge<LINE>blade phial attacks, and sticky ammo.
+Heavy Artillery
+Invalid Message
+Increases the firepower of<LINE>ballistae and cannons.
+Marathon Runner
+Invalid Message
+Slows down stamina depletion<LINE>for actions which continuously<LINE>drain stamina (such as dashing).
+Constitution
+Invalid Message
+Reduces stamina depletion<LINE>when performing stamina-draining<LINE>moves such as evading, etc.
+Leap of Faith
+Invalid Message
+Allows you to do a dive-evade when<LINE>facing towards large monsters, and<LINE>extends the dive-evade distance.
+Stamina Surge
+Invalid Message
+Speeds up stamina recovery.
+Hunger Resistance
+ 
+Reduces maximum stamina depletion over<LINE>time. However, does not work against<LINE>cold environments that reduce stamina.
+Evade Window
+Invalid Message
+Extends the invulnerability<LINE>period when evading.
+Evade Extender
+Invalid Message
+Increases evade distance.
+Guard
+Invalid Message
+Reduces knockbacks and stamina<LINE>depletion when guarding.
+Quick Sheath
+Invalid Message
+Speeds up weapon sheathing.
+Wide-Range
+Invalid Message
+Allows the effects of certain<LINE>items to also affect nearby allies.
+Item Prolonger
+Invalid Message
+Extends the duration<LINE>of some item effects.
+Free Meal
+Invalid Message
+Gives you a predetermined<LINE>chance of consuming a food<LINE>or drink item for free.
+Speed Eating
+Invalid Message
+Increases meat-eating and<LINE>item-consumption speed.
+Speed Sharpening
+Invalid Message
+Speeds up weapon sharpening<LINE>when using a whetstone.
+Unavailable
+Unavailable
+Unavailable
+Bombardier
+Invalid Message
+Increases the damage<LINE>of explosive items.
+Unavailable
+Unavailable
+Unavailable
+Mushroomancer
+Invalid Message
+Lets you digest mushrooms that<LINE>would otherwise be inedible and<LINE>gain their advantageous effects.
+Master Fisher
+Invalid Message
+Improves your skill at fishing.
+BBQ Master
+Invalid Message
+Improves your skill at cooking<LINE>meat.
+Pro Transporter
+Invalid Message
+Increases your speed while<LINE>transporting items and decreases<LINE>the likelihood of dropping them.
+Master Gatherer
+Invalid Message
+Allows you to gather more quickly,<LINE>and also prevents attacks from<LINE>knocking you back while gathering.
+Honey Hunter
+Invalid Message
+Increases the quantity of honey you<LINE>receive when gathering in the field.
+Carving Pro
+Invalid Message
+Prevents knockback from<LINE>attacks while carving.
+Divine Blessing
+Invalid Message
+Has a predetermined chance of<LINE>reducing the damage you take.
+Palico Rally
+Invalid Message
+Powers up Palicoes.
+Botanist
+Invalid Message
+Increases the quantity of herbs<LINE>and other consumable items you<LINE>gather.
+Geologist
+Invalid Message
+Increases the number of times<LINE>you can use a gathering point.
+Maximum Might
+Invalid Message
+Increases affinity as long as stamina<LINE>is kept full for a period of time.
+Invalid Message
+Invalid Message
+Increases the loading capacity for<LINE>slinger ammo obtained in the field.
+Stealth
+Invalid Message
+Makes it easier for monsters<LINE>to lose sight of you.
+Flinch Free
+Invalid Message
+Prevents knockbacks and other<LINE>reactions to small damage.
+Scoutfly Range Up
+Invalid Message
+Expands your scoutflies'<LINE>detection range.
+Speed Crawler
+Invalid Message
+Increases movement speed<LINE>while crouching.
+Jump Master
+Invalid Message
+Prevents attacks from knocking<LINE>you back during a jump.
+Survival Expert
+Invalid Message
+Extra health is recovered from<LINE>environmental interactables like<LINE>Sporepuffs or Wiggly Litchi.
+Aquatic/Polar Mobility
+Invalid Message
+Lets you move more freely in water.<LINE>Also prevents you from being slowed down<LINE>by terrain effects, such as deep snow.
+Unavailable
+Unavailable
+Unavailable
+Cliffhanger
+Invalid Message
+Decreases stamina depletion when evading<LINE>while clinging to walls or ivy, or when<LINE>moving while grappling onto an enemy.
+Blindsider
+Invalid Message
+Improves the effectiveness<LINE>of flash attacks and items.
+Unavailable
+Unavailable
+Unavailable
+Scholar
+Invalid Message
+Speeds up progress on research levels<LINE>and special investigations. <STYL MOJI_YELLOW_DEFAULT>(Effect is<LINE>applied at the quest results screen.)</STYL>
+Entomologist
+Invalid Message
+Decreases the chances of destroying<LINE>the bodies of small insect monsters,<LINE>allowing them to be carved.
+Effluvia Resistance
+Invalid Message
+Gain a resistance to effluvial<LINE>buildup.
+Scenthound
+Invalid Message
+Increases your scoutflies' gauge<LINE>fill rate when you find tracks and<LINE>other traces left by monsters.
+Forager's Luck
+Invalid Message
+Increases the chance of finding<LINE>rare gathering points.
+Detector
+Invalid Message
+Shows rare gathering points on<LINE>the Wildlife Map.
+Tool Specialist
+Invalid Message
+Reduces the recharge time<LINE>for specialized tools.
+Unavailable
+Unavailable
+Unavailable
+Affinity Sliding
+Invalid Message
+Sliding increases your affinity<LINE>for a short time.
+Elderseal Boost
+Invalid Message
+Increases the Elderseal of<LINE>weapons and dragon ammo.
+Intimidator
+Invalid Message
+Reduces the chances small monsters<LINE>will attack after spotting you.<LINE><STYL MOJI_YELLOW_DEFAULT>(No effect on certain monsters.)</STYL>
+Anjanath Power
+Invalid Message
+Unavailable
+Nergigante Hunger
+Invalid Message
+Unavailable
+Vaal Hazak Vitality
+Invalid Message
+Unavailable
+Rathalos Power
+Invalid Message
+Unavailable
+Diablos Power
+Invalid Message
+Unavailable
+Kirin Blessing
+Invalid Message
+Unavailable
+Pink Rathian Mastery
+Invalid Message
+Unavailable
+Anjanath Will
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Rathalos Mastery
+Invalid Message
+Unavailable
+Diablos Mastery
+Invalid Message
+Unavailable
+Kirin Favor
+Invalid Message
+Unavailable
+Uragaan Protection
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Bazelgeuse Protection
+Invalid Message
+Unavailable
+Teostra Technique
+Invalid Message
+Unavailable
+Kushala Daora Flight
+Invalid Message
+Unavailable
+Xeno'jiiva Divinity
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zorah Magdaros Mastery
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guild Guidance
+Invalid Message
+Unavailable
+Commission Guidance
+Invalid Message
+Unavailable
+Legiana Blessing
+Invalid Message
+Unavailable
+Legiana Favor
+Invalid Message
+Unavailable
+Odogaron Power
+Invalid Message
+Unavailable
+Odogaron Mastery
+Invalid Message
+Unavailable
+Bow Charge Plus
+Bow Charge Plus
+Increases max bow charge<LINE>level by one.
+Mind's Eye/Ballistics
+Mind's Eye/Ballistics
+Prevents attacks from being deflected.<LINE>Also shortens the distance before ammo<LINE>and arrows reach maximum power.
+Guard Up
+Guard Up
+Allows you to guard against<LINE>ordinarily unblockable attacks.
+Protective Polish
+Protective Polish
+Weapon sharpness does not<LINE>decrease for a set time after<LINE>sharpening.
+Non-elemental Boost
+Non-elemental Boost
+Powers up non-elemental<LINE>weapons you have equipped.
+Guts
+Invalid Message
+Above a certain health threshold,<LINE>you withstand an attack that would<LINE>normally cart you (once only).
+Hasten Recovery
+Invalid Message
+Regenerates your health as you<LINE>continually attack a monster.<LINE>Recovery varies by weapon.
+Razor Sharp/Spare Shot
+Invalid Message
+Halves sharpness loss. For bows<LINE>and bowguns, shots have a chance<LINE>not to expend coatings or ammo.
+Lunastra Favor
+Invalid Message
+Unavailable
+Soul of the Dragoon
+Invalid Message
+Unavailable
+Critical Element
+Invalid Message
+Increases elemental damage<LINE>(fire, water, thunder, ice, dragon)<LINE>when landing critical hits.
+Critical Status
+Invalid Message
+Increases abnormal status effect<LINE>damage (paralysis, poison, sleep,<LINE>blast) when landing critical hits.
+Witcher's Knowledge
+Invalid Message
+Unavailable
+Astera Blessing
+Invalid Message
+Unavailable
+Zinogre Essence
+Invalid Message
+Unavailable
+Tigrex Essence
+Invalid Message
+Unavailable
+Nargacuga Essence
+Invalid Message
+Unavailable
+Brachydios Essence
+Invalid Message
+Unavailable
+Glavenus Essence
+Invalid Message
+Unavailable
+Silver Rathalos Essence
+Invalid Message
+Unavailable
+Gold Rathian Essence
+Invalid Message
+Unavailable
+Shara Ishvalda Divinity
+Invalid Message
+Unavailable
+Namielle Divinity
+Invalid Message
+Unavailable
+Velkhana Divinity
+Invalid Message
+Unavailable
+Ancient Divinity
+Invalid Message
+Unavailable
+Commission Alchemy
+Invalid Message
+Unavailable
+Instructor's Guidance
+Invalid Message
+Unavailable
+Anjanath Dominance
+Invalid Message
+Unavailable
+Rathian Essence
+Rathian Essence
+Unavailable
+Provoker
+Invalid Message
+Increases the attention drawn<LINE>when attacking a monster.
+Offensive Guard
+Invalid Message
+Temporarily increases attack<LINE>power after executing<LINE>a perfectly-timed guard.
+Coalescence
+Invalid Message
+Temporarily enhances attacks<LINE>after recovering from blights<LINE>or abnormal status.
+Safe Landing
+Invalid Message
+Allows you to quickly recover from heavy<LINE>attacks that blow you back when you<LINE>have your weapon unsheathed.
+Barioth Hidden Art
+Invalid Message
+Unavailable
+Rathalos Essence
+Invalid Message
+Unavailable
+Diablos Ambition
+Invalid Message
+Unavailable
+Legiana Ambition
+Invalid Message
+Unavailable
+Odogaron Essence
+Invalid Message
+Unavailable
+Uragaan Ambition
+Invalid Message
+Unavailable
+Bazelgeuse Ambition
+Invalid Message
+Unavailable
+Deviljho Essence
+Invalid Message
+Unavailable
+Vaal Soulvein
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Kirin Divinity
+Invalid Message
+Unavailable
+Guild Pride
+Invalid Message
+Unavailable
+Zorah Magdaros Essence
+Invalid Message
+Unavailable
+Lunastra Essence
+Invalid Message
+Unavailable
+Nergigante Ambition
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Bludgeoner
+Invalid Message
+Raises attack as your weapon loses<LINE>sharpness. Also boosts ranged weapon<LINE>melee attacks and odds of stunning.
+Adrenaline
+Invalid Message
+Temporarily reduces stamina<LINE>depletion when health is at 40%<LINE>or lower.
+Coldproof
+Invalid Message
+Nullifies the effects of<LINE>cold weather.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Joyful Blessing
+Invalid Message
+Unavailable
+Appreciation Blessing
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable

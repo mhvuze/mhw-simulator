@@ -1,0 +1,752 @@
+Unavailable
+Leather
+Hunter's
+Anja
+Jagras
+Bone
+Alloy
+Kestodon
+Gajau
+Vespoid
+Kulu
+Pukei
+Jyura
+Barroth
+Kadachi
+Chainmail
+Unavailable
+Hornetaur
+Unavailable
+King Beetle
+Rathian
+Girros
+Tzitzi
+Lumu
+High Metal
+Death Stench
+Legiana
+Baan
+Odogaron
+Unavailable
+Ingot
+Unavailable
+Rathalos
+Diablos
+Kirin
+Brigade
+Unavailable
+Leather<ICON ALPHA>
+Leather<ICON BETA>
+Chainmail<ICON ALPHA>
+Chainmail<ICON BETA>
+Hunter's<ICON ALPHA>
+Hunter's<ICON BETA>
+Bone<ICON ALPHA>
+Bone<ICON BETA>
+Alloy<ICON ALPHA>
+Alloy<ICON BETA>
+Gajau<ICON ALPHA>
+Gajau<ICON BETA>
+Kestodon<ICON ALPHA>
+Kestodon<ICON BETA>
+Vespoid<ICON ALPHA>
+Vespoid<ICON BETA>
+Gastodon<ICON ALPHA>
+Gastodon<ICON BETA>
+Barnos<ICON ALPHA>
+Barnos<ICON BETA>
+Hornetaur<ICON ALPHA>
+Hornetaur<ICON BETA>
+Unavailable
+Unavailable
+Jagras<ICON ALPHA>
+Jagras<ICON BETA>
+Kulu<ICON ALPHA>
+Kulu<ICON BETA>
+Pukei<ICON ALPHA>
+Pukei<ICON BETA>
+Jyura<ICON ALPHA>
+Jyura<ICON BETA>
+Barroth<ICON ALPHA>
+Barroth<ICON BETA>
+Kadachi<ICON ALPHA>
+Kadachi<ICON BETA>
+Rathian<ICON ALPHA>
+Rathian<ICON BETA>
+Girros<ICON ALPHA>
+Girros<ICON BETA>
+Tzitzi<ICON ALPHA>
+Tzitzi<ICON BETA>
+Lumu<ICON ALPHA>
+Lumu<ICON BETA>
+Odogaron<ICON ALPHA>
+Odogaron<ICON BETA>
+Dodogama<ICON ALPHA>
+Dodogama<ICON BETA>
+Lavasioth<ICON ALPHA>
+Lavasioth<ICON BETA>
+Rath Heart<ICON ALPHA>
+Rath Heart<ICON BETA>
+High Metal<ICON ALPHA>
+High Metal<ICON BETA>
+Ingot<ICON ALPHA>
+Ingot<ICON BETA>
+Anja<ICON ALPHA>
+Anja<ICON BETA>
+Legiana<ICON ALPHA>
+Legiana<ICON BETA>
+Baan<ICON ALPHA>
+Baan<ICON BETA>
+Vaal Hazak<ICON ALPHA>
+Vaal Hazak<ICON BETA>
+Rathalos<ICON ALPHA>
+Rathalos<ICON BETA>
+Diablos<ICON ALPHA>
+Diablos<ICON BETA>
+Kirin<ICON ALPHA>
+Kirin<ICON BETA>
+Nergigante<ICON ALPHA>
+Nergigante<ICON BETA>
+Uragaan<ICON ALPHA>
+Uragaan<ICON BETA>
+Rath Soul<ICON ALPHA>
+Rath Soul<ICON BETA>
+Diablos Nero<ICON ALPHA>
+Diablos Nero<ICON BETA>
+Bazel<ICON ALPHA>
+Bazel<ICON BETA>
+King Beetle<ICON ALPHA>
+King Beetle<ICON BETA>
+Brigade<ICON ALPHA>
+Brigade<ICON BETA>
+Damascus<ICON ALPHA>
+Damascus<ICON BETA>
+Dober<ICON ALPHA>
+Dober<ICON BETA>
+Xeno'jiiva<ICON ALPHA>
+Xeno'jiiva<ICON BETA>
+Teostra<ICON ALPHA>
+Teostra<ICON BETA>
+Kushala<ICON ALPHA>
+Kushala<ICON BETA>
+Skull<ICON ALPHA>
+Skull<ICON BETA>
+Death Stench<ICON ALPHA>
+Death Stench<ICON BETA>
+Guild Cross<ICON ALPHA>
+Guild Cross<ICON BETA>
+Unavailable
+Unavailable
+Zorah<ICON ALPHA>
+Zorah<ICON BETA>
+Commission<ICON ALPHA>
+Commission<ICON BETA>
+Unavailable
+Unavailable
+Brigade
+Guild Cross
+Blossom
+Diver
+Harvest
+Orion
+Faux Felyne<ICON ALPHA>
+Mosswine Mask<ICON ALPHA>
+Gala Suit
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Bushi "Sabi"
+Bushi "Sabi"
+Bayek
+Bushi "Sabi"
+Shamos
+Shamos<ICON ALPHA>
+Shamos<ICON BETA>
+Butterfly
+Butterfly<ICON ALPHA>
+Butterfly<ICON BETA>
+Bushi "Sabi"
+Bushi "Sabi"
+Origin
+Bushi "Homare"
+Bushi "Homare"
+Bushi "Homare"
+Bushi "Homare"
+Bushi "Homare"
+Unavailable
+Strategist<ICON ALPHA>
+Unavailable
+Dragonking<ICON ALPHA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Kulve Taroth<ICON ALPHA>
+Kulve Taroth<ICON BETA>
+Blossom
+Diver
+Harvest
+Orion
+Gala Suit
+Samurai
+Deviljho<ICON ALPHA>
+Deviljho<ICON BETA>
+Unavailable
+Bushi "Sabi"
+Bushi "Homare"
+Drachen<ICON ALPHA>
+Blossom<ICON ALPHA>
+Diver<ICON ALPHA>
+Harvest<ICON ALPHA>
+Orion<ICON ALPHA>
+Gala Suit<ICON ALPHA>
+Butterfly
+Butterfly<ICON ALPHA>
+Butterfly<ICON BETA>
+Queen Beetle
+Queen Beetle<ICON ALPHA>
+Queen Beetle<ICON BETA>
+Vaal Hazak<ICON GAMMA>
+Kirin<ICON GAMMA>
+Teostra<ICON GAMMA>
+Kushala<ICON GAMMA>
+Nergigante<ICON GAMMA>
+Zorah<ICON GAMMA>
+Xeno'jiiva<ICON GAMMA>
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Azure Starlord<ICON ALPHA>
+Dante<ICON ALPHA>
+Lunastra<ICON ALPHA>
+Lunastra<ICON BETA>
+Sealed Eyepatch<ICON ALPHA>
+Shadow Shades<ICON ALPHA>
+Kulu-Ya-Ku Head<ICON ALPHA>
+Wiggler Head<ICON ALPHA>
+Butterfly
+Death Stench
+Shadow Shades
+Dante
+Drachen
+Mosswine Mask
+Faux Felyne
+Commission
+Sealed Eyepatch
+Wiggler Head
+Origin
+Beetle
+Unavailable
+Skull Mask
+Kulu-Ya-Ku Head
+HARDUMMY
+Lunastra<ICON GAMMA>
+Geralt<ICON ALPHA>
+Ciri<ICON ALPHA>
+Geralt of Rivia
+Ciri
+Kulve Taroth<ICON GAMMA>
+Defender<ICON ALPHA>
+Direwolf+
+Unavailable
+Bone<ICON ALPHA>+
+Bone<ICON BETA>+
+Alloy<ICON ALPHA>+
+Alloy<ICON BETA>+
+Vespoid<ICON ALPHA>+
+Vespoid<ICON BETA>+
+Hornetaur<ICON ALPHA>+
+Hornetaur<ICON BETA>+
+Kestodon<ICON ALPHA>+
+Kestodon<ICON BETA>+
+Gajau<ICON ALPHA>+
+Gajau<ICON BETA>+
+Shamos<ICON ALPHA>+
+Shamos<ICON BETA>+
+Gastodon<ICON ALPHA>+
+Gastodon<ICON BETA>+
+Barnos<ICON ALPHA>+
+Barnos<ICON BETA>+
+Wulg<ICON ALPHA>+
+Wulg<ICON BETA>+
+Cortos<ICON ALPHA>+
+Cortos<ICON BETA>+
+Jagras<ICON ALPHA>+
+Jagras<ICON BETA>+
+Tzitzi<ICON ALPHA>+
+Tzitzi<ICON BETA>+
+Girros<ICON ALPHA>+
+Girros<ICON BETA>+
+Dodogama<ICON ALPHA>+
+Dodogama<ICON BETA>+
+Kulu<ICON ALPHA>+
+Kulu<ICON BETA>+
+Pukei<ICON ALPHA>+
+Pukei<ICON BETA>+
+Barroth<ICON ALPHA>+
+Barroth<ICON BETA>+
+Jyura<ICON ALPHA>+
+Jyura<ICON BETA>+
+Beo<ICON ALPHA>+
+Beo<ICON BETA>+
+Kadachi<ICON ALPHA>+
+Kadachi<ICON BETA>+
+High Metal<ICON ALPHA>+
+High Metal<ICON BETA>+
+Banbaro<ICON ALPHA>+
+Banbaro<ICON BETA>+
+Anja<ICON ALPHA>+
+Anja<ICON BETA>+
+Rathian<ICON ALPHA>+
+Rathian<ICON BETA>+
+Rath Heart<ICON ALPHA>+
+Rath Heart<ICON BETA>+
+Lumu<ICON ALPHA>+
+Lumu<ICON BETA>+
+Lumu Phantasm<ICON ALPHA>+
+Lumu Phantasm<ICON BETA>+
+Coral Pukei<ICON ALPHA>+
+Coral Pukei<ICON BETA>+
+Viper Kadachi<ICON ALPHA>+
+Viper Kadachi<ICON BETA>+
+Baan<ICON ALPHA>+
+Baan<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Faux Kelbi<ICON ALPHA>+
+Ingot<ICON ALPHA>+
+Ingot<ICON BETA>+
+Barioth<ICON ALPHA>+
+Barioth<ICON BETA>+
+Rathalos<ICON ALPHA>+
+Rathalos<ICON BETA>+
+Diablos<ICON ALPHA>+
+Diablos<ICON BETA>+
+Legiana<ICON ALPHA>+
+Legiana<ICON BETA>+
+Odogaron<ICON ALPHA>+
+Odogaron<ICON BETA>+
+Lavasioth<ICON ALPHA>+
+Lavasioth<ICON BETA>+
+Uragaan<ICON ALPHA>+
+Uragaan<ICON BETA>+
+Nargacuga<ICON ALPHA>+
+Nargacuga<ICON BETA>+
+Glavenus<ICON ALPHA>+
+Glavenus<ICON BETA>+
+Brachydios<ICON ALPHA>+
+Brachydios<ICON BETA>+
+Tigrex<ICON ALPHA>+
+Tigrex<ICON BETA>+
+Fulgur Anja<ICON ALPHA>+
+Fulgur Anja<ICON BETA>+
+Unavailable
+Unavailable
+Black Belt<ICON ALPHA>+
+Black Belt<ICON BETA>+
+Dragonking Eyepatch
+Strategist Spectacles
+Pulverizing Feather
+Unavailable
+Unavailable
+Shrieking Legia<ICON ALPHA>+
+Shrieking Legia<ICON BETA>+
+Rath Soul<ICON ALPHA>+
+Rath Soul<ICON BETA>+
+Diablos Nero<ICON ALPHA>+
+Diablos Nero<ICON BETA>+
+Death Garon<ICON ALPHA>+
+Death Garon<ICON BETA>+
+Acidic Glavenus<ICON ALPHA>+
+Acidic Glavenus<ICON BETA>+
+Artian<ICON ALPHA>+
+Artian<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Dober<ICON ALPHA>+
+Dober<ICON BETA>+
+Damascus<ICON ALPHA>+
+Damascus<ICON BETA>+
+Velkhana<ICON ALPHA>+
+Velkhana<ICON BETA>+
+Seething Bazel<ICON ALPHA>+
+Seething Bazel<ICON BETA>+
+Blackveil Hazak<ICON ALPHA>+
+Blackveil Hazak<ICON BETA>+
+Teostra<ICON ALPHA>+
+Teostra<ICON BETA>+
+Kushala<ICON ALPHA>+
+Kushala<ICON BETA>+
+Kirin<ICON ALPHA>+
+Kirin<ICON BETA>+
+Namielle<ICON ALPHA>+
+Namielle<ICON BETA>+
+Clockwork
+Unavailable
+Guild Palace<ICON ALPHA>+
+Guild Palace<ICON BETA>+
+Clockwork<ICON ALPHA>+
+Clockwork<ICON BETA>+
+Crystal Earring
+Ruiner Nergi<ICON ALPHA>+
+Ruiner Nergi<ICON BETA>+
+Shara Ishvalda<ICON ALPHA>+
+Shara Ishvalda<ICON BETA>+
+Savage Jho<ICON ALPHA>+
+Savage Jho<ICON BETA>+
+Unavailable
+Unavailable
+Guildwork<ICON ALPHA>+
+Guildwork<ICON BETA>+
+Unavailable
+Golden Lune<ICON ALPHA>+
+Golden Lune<ICON BETA>+
+Silver Sol<ICON ALPHA>+
+Silver Sol<ICON BETA>+
+Unavailable
+Unavailable
+Zinogre<ICON ALPHA>+
+Zinogre<ICON BETA>+
+Unavailable
+Unavailable
+Yian Garuga<ICON ALPHA>+
+Yian Garuga<ICON BETA>+
+Zorah<ICON ALPHA>+
+Zorah<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Sealed Dragon Cloth<ICON ALPHA>+
+Wyverian Ears<ICON ALPHA>+
+Unavailable
+Duffel Penguin Mask<ICON ALPHA>+
+Lunastra<ICON ALPHA>+
+Lunastra<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong<ICON ALPHA>+
+Invalid Message
+Astral<ICON ALPHA>+
+Invalid Message
+Unavailable
+Unavailable
+Unavailable
+Oolong
+Astral
+Unavailable
+Thermae
+Unavailable
+Unavailable
+Pearlspring<ICON ALPHA>+
+Unavailable
+Buff Body<ICON ALPHA>+
+Brute Tigrex<ICON ALPHA>+
+Brute Tigrex<ICON BETA>+
+Guardian<ICON ALPHA>+
+Yukumo
+Silver Knight
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable

@@ -53,7 +53,7 @@ const EquipmentTable: React.FC<Props> = ({ equipment }) =>
         <td>
           <ul className="EquipmentTable-decos">
             {equipment.decos.map(({ name, value }) =>
-              <li key={name}><DecoName name={name} />x{value}</li>
+              <li key={name}><DecoName name={name} /> x{value}</li>
             )}
             {!!equipment.slot1 &&
               <li>Unused Lv1 Slot x{equipment.slot1}</li>

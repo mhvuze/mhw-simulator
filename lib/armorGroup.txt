@@ -1,357 +1,357 @@
-レザー
-チェーン
-ハンター
-ボーン
-ランゴ
-ケスト
-ガライー
-ジャグラス
-クルル
-アロイ
-プケプケ
-ボロス
-ジュラ
-カガチ
-ハイメタ
-オウビート
-パピメル
-シャム
-タロス
-ジャナフ
-レイア
-ツィツィ
-ウルムー
-ギルオス
-バルキン
-インゴット
-デスギア
-ブリゲイド
-ギエナ
-ガロン
-レウス
-ディアブロ
-キリン
-ブロッサム
-ダイバー
-ハーベスト
-オリオン
-フルドレス
-パピオム
-クインビート
-レザーα
-レザーβ
-チェーンα
-チェーンβ
-ハンターα
-ハンターβ
-ボーンα
-ボーンβ
-アロイα
-アロイβ
-オウビートα
-オウビートβ
-パピメルα
-パピメルβ
-ランゴα
-ランゴβ
-タロスα
-タロスβ
-モスフェイクα
-ケストガードα
-ケストβ
-ガライーα
-ガライーβ
-シャムα
-シャムβ
-ジャグラスα
-ジャグラスβ
-クルルα
-クルルβ
-ツィツィα
-ツィツィβ
-ギルオスα
-ギルオスβ
-プケプケα
-プケプケβ
-ボロスα
-ボロスβ
-ジャナフα
-ジャナフβ
-ジュラα
-ジュラβ
-カガチα
-カガチβ
-ウルムーα
-ウルムーβ
-レイアα
-レイアβ
-リオハートα
-リオハートβ
-バルキンα
-バルキンβ
-ガストα
-ガストβ
-バルノスα
-バルノスβ
-ガマルα
-ガマルβ
-ゾラマグナα
-ゾラマグナβ
-ハイメタα
-ハイメタβ
-インゴットα
-インゴットβ
-ブリゲイドα
-ブリゲイドβ
-アイルーフェイクα
-知略の眼鏡α
-ラヴァα
-ラヴァβ
-ギエナα
-ギエナβ
-ガロンα
-ガロンβ
-レウスα
-レウスβ
-リオソウルα
-リオソウルβ
-ディアブロα
-ディアブロβ
-ディアネロα
-ディアネロβ
-ガンキンα
-ガンキンβ
-バゼルα
-バゼルβ
-ダマスクα
-ダマスクβ
-ドーベルα
-ドーベルβ
-デスギアα
-デスギアβ
-スカルフェイスα
-オーグα
-オーグβ
-カイザーα
-カイザーβ
-クシャナα
-クシャナβ
-ウルズα
-ウルズβ
-キリンα
-キリンβ
-ゼノラージα
-ゼノラージβ
-ギルドクロスα
-ギルドクロスβ
-竜王の隻眼α
-シーカーα
-シーカーβ
-バンギスα
-バンギスβ
-マムガイラα
-マムガイラβ
-エンプレスα
-エンプレスβ
-ブロッサムα
-ダイバーα
-ハーベストα
-オリオンα
-フルドレスα
-パピオムα
-パピオムβ
-クインビートα
-クインビートβ
-ウルズγ
-キリンγ
-カイザーγ
-クシャナγ
-オーグγ
-ゾラマグナγ
-ゼノラージγ
-エンプレスγ
-マムガイラγ
-蒼星ノ将α
-ダンテα
-ドラケンα
-オリジン
-封印の眼帯α
-シャドウアイα
-クルルフェイクα
-ユラユラフェイクα
-爆砕の羽根飾り
-龍封じのピアスα
-ガーディアンα
+Leather
+Chainmail
+Hunter's
+Bone
+Vespoid
+Kestodon
+Gajau
+Jagras
+Kulu
+Alloy
+Pukei
+Barroth
+Jyura
+Kadachi
+High Metal
+King Beetle
+Butterfly
+Shamos
+Hornetaur
+Anja
+Rathian
+Tzitzi
+Lumu
+Girros
+Baan
+Ingot
+Death Stench
+Brigade
+Legiana
+Odogaron
+Rathalos
+Diablos
+Kirin
+Blossom
+Diver
+Harvest
+Orion
+Gala Suit
+Butterfly
+Queen Beetle
+Leather α
+Leather β
+Chainmail α
+Chainmail β
+Hunter's α
+Hunter's β
+Bone α
+Bone β
+Alloy α
+Alloy β
+King Beetle α
+King Beetle β
+Butterfly α
+Butterfly β
+Vespoid α
+Vespoid β
+Hornetaur α
+Hornetaur β
+Mosswine Mask α
+Kestodon Guards α
+Kestodon β
+Gajau α
+Gajau β
+Shamos α
+Shamos β
+Jagras α
+Jagras β
+Kulu α
+Kulu β
+Tzitzi α
+Tzitzi β
+Girros α
+Girros β
+Pukei α
+Pukei β
+Barroth α
+Barroth β
+Anja α
+Anja β
+Jyura α
+Jyura β
+Kadachi α
+Kadachi β
+Lumu α
+Lumu β
+Rathian α
+Rathian β
+Rath Heart α
+Rath Heart β
+Baan α
+Baan β
+Gastodon α
+Gastodon β
+Barnos α
+Barnos β
+Dodogama α
+Dodogama β
+Zorah α
+Zorah β
+High Metal α
+High Metal β
+Ingot α
+Ingot β
+Brigade α
+Brigade β
+Faux Felyne α
+Strategist α
+Lavasioth α
+Lavasioth β
+Legiana α
+Legiana β
+Odogaron α
+Odogaron β
+Rathalos α
+Rathalos β
+Rath Soul α
+Rath Soul β
+Diablos α
+Diablos β
+Diablos Nero α
+Diablos Nero β
+Uragaan α
+Uragaan β
+Bazel α
+Bazel β
+Damascus α
+Damascus β
+Dober α
+Dober β
+Death Stench α
+Death Stench β
+Skull Mask α
+Nergigante α
+Nergigante β
+Teostra α
+Teostra β
+Kushala α
+Kushala β
+Vaal Hazak α
+Vaal Hazak β
+Kirin α
+Kirin β
+Xeno'jiiva α
+Xeno'jiiva β
+Guild Cross α
+Guild Cross β
+Dragonking α
+Commission α
+Commission β
+Deviljho α
+Deviljho β
+Kulve Taroth α
+Kulve Taroth β
+Lunastra α
+Lunastra β
+Blossom α
+Diver α
+Harvest α
+Orion α
+Gala Suit α
+Butterfly α
+Butterfly β
+Queen Beetle α
+Queen Beetle β
+Vaal Hazak γ
+Kirin γ
+Teostra γ
+Kushala γ
+Nergigante γ
+Zorah γ
+Xeno'jiiva γ
+Lunastra γ
+Kulve Taroth γ
+Azure Starlord α
+Dante α
+Drachen α
+Origin
+Sealed Eyepatch α
+Shadow Shades α
+Kulu-Ya-Ku Head α
+Wiggler Head α
+Pulverizing Feather
+Dragonseal Earrings α
+Guardian α+
 アーロイα
 アーロイγ
 リュウ
 リュウα
 さくらα
-ゲラルトα
-シリα
-EXボーンα
-EXボーンβ
-EXアロイα
-EXアロイβ
-EXランゴα
-EXランゴβ
-EXタロスα
-EXタロスβ
-EXケストα
-EXケストβ
-EXガライーα
-EXガライーβ
-EXシャムα
-EXシャムβ
-EXガストα
-EXガストβ
-EXバルノスα
-EXバルノスβ
-EXウルグα
-EXウルグβ
-EXコルトスα
-EXコルトスβ
-EXジャグラスα
-EXジャグラスβ
-EXツィツィα
-EXツィツィβ
-EXギルオスα
-EXギルオスβ
-EXガマルα
-EXガマルβ
-EXクルルα
-EXクルルβ
-EXプケプケα
-EXプケプケβ
-EXプケラグーナα
-EXプケラグーナβ
-EXボロスα
-EXボロスβ
-EXジュラα
-EXジュラβ
-EXブランα
-EXブランβ
-EXカガチα
-EXカガチβ
-EXベニカガチα
-EXベニカガチβ
-EXハイメタα
-EXハイメタβ
-EXバフバロα
-EXバフバロβ
-EXジャナフα
-EXジャナフβ
-EXジャナールα
-EXジャナールβ
-EXレイアα
-EXレイアβ
-EXリオハートα
-EXリオハートβ
-EXウルムーα
-EXウルムーβ
-EXウルムメアα
-EXウルムメアβ
-EXバルキンα
-EXバルキンβ
-EXアーティアα
-EXアーティアβ
-EXアークロックα
-EXアークロックβ
-EXインゴットα
-EXインゴットβ
-EXベリオα
-EXベリオβ
-EXレウスα
-EXレウスβ
-EXリオソウルα
-EXリオソウルβ
-EXディアブロα
-EXディアブロβ
-EXディアネロα
-EXディアネロβ
-EXギエナα
-EXギエナβ
-EXブリーナα
-EXブリーナβ
-EXガロンα
-EXガロンβ
-EXデスガロンα
-EXデスガロンβ
-EXラヴァα
-EXラヴァβ
-EXガンキンα
-EXガンキンβ
-EXナルガα
-EXナルガβ
-EXディノα
-EXディノβ
-EXディノイエロα
-EXディノイエロβ
-EXブラキα
-EXブラキβ
-EXレックスα
-EXレックスβ
-EXレックスロアα
-EXレックスロアβ
-EXクロオビα
-EXクロオビβ
-EXドーベルα
-EXドーベルβ
-EXダマスクα
-EXダマスクβ
-EXプライドα
-EXプライドβ
-EXグリードα
-EXグリードβ
-EXラヴィーナα
-EXラヴィーナβ
-EXヴァルファーα
-EXヴァルファーβ
-EXカイザーα
-EXカイザーβ
-EXクシャナα
-EXクシャナβ
-EXキリンα
-EXキリンβ
-EXテンタクルα
-EXテンタクルβ
-EXギルドパレスα
-EXギルドパレスβ
-EXアンガルダα
-EXアンガルダβ
-EXゾラマグナα
-EXゾラマグナβ
-EXガルルガα
-EXガルルガβ
-EXジンオウα
-EXジンオウβ
-EXギルドワークα
-EXギルドワークβ
-EXゴールドルナα
-EXゴールドルナβ
-EXシルバーソルα
-EXシルバーソルβ
-EXエンプレスα
-EXエンプレスβ
-EXゾークα
-EXゾークβ
+Geralt α
+Ciri α
+Bone α+
+Bone β+
+Alloy α+
+Alloy β+
+Vespoid α+
+Vespoid β+
+Hornetaur α+
+Hornetaur β+
+Kestodon α+
+Kestodon β+
+Gajau α+
+Gajau β+
+Shamos α+
+Shamos β+
+Gastodon α+
+Gastodon β+
+Barnos α+
+Barnos β+
+Wulg α+
+Wulg β+
+Cortos α+
+Cortos β+
+Jagras α+
+Jagras β+
+Tzitzi α+
+Tzitzi β+
+Girros α+
+Girros β+
+Dodogama α+
+Dodogama β+
+Kulu α+
+Kulu β+
+Pukei α+
+Pukei β+
+Coral Pukei α+
+Coral Pukei β+
+Barroth α+
+Barroth β+
+Jyura α+
+Jyura β+
+Beo α+
+Beo β+
+Kadachi α+
+Kadachi β+
+Viper Kadachi α+
+Viper Kadachi β+
+High Metal α+
+High Metal β+
+Banbaro α+
+Banbaro β+
+Anja α+
+Anja β+
+Fulgur Anja α+
+Fulgur Anja β+
+Rathian α+
+Rathian β+
+Rath Heart α+
+Rath Heart β+
+Lumu α+
+Lumu β+
+Lumu Phantasm α+
+Lumu Phantasm β+
+Baan α+
+Baan β+
+Artian α+
+Artian β+
+Clockwork α+
+Clockwork β+
+Ingot α+
+Ingot β+
+Barioth α+
+Barioth β+
+Rathalos α+
+Rathalos β+
+Rath Soul α+
+Rath Soul β+
+Diablos α+
+Diablos β+
+Diablos Nero α+
+Diablos Nero β+
+Legiana α+
+Legiana β+
+Shrieking Legia α+
+Shrieking Legia β+
+Odogaron α+
+Odogaron β+
+Death Garon α+
+Death Garon β+
+Lavasioth α+
+Lavasioth β+
+Uragaan α+
+Uragaan β+
+Nargacuga α+
+Nargacuga β+
+Glavenus α+
+Glavenus β+
+Acidic Glavenus α+
+Acidic Glavenus β+
+Brachydios α+
+Brachydios β+
+Tigrex α+
+Tigrex β+
+Brute Tigrex α+
+Brute Tigrex β+
+Black Belt α+
+Black Belt β+
+Dober α+
+Dober β+
+Damascus α+
+Damascus β+
+Seething Bazel α+
+Seething Bazel β+
+Savage Jho α+
+Savage Jho β+
+Velkhana α+
+Velkhana β+
+Blackveil Hazak α+
+Blackveil Hazak β+
+Teostra α+
+Teostra β+
+Kushala α+
+Kushala β+
+Kirin α+
+Kirin β+
+Namielle α+
+Namielle β+
+Guild Palace α+
+Guild Palace β+
+Shara Ishvalda α+
+Shara Ishvalda β+
+Zorah α+
+Zorah β+
+Yian Garuga α+
+Yian Garuga β+
+Zinogre α+
+Zinogre β+
+Guildwork α+
+Guildwork β+
+Golden Lune α+
+Golden Lune β+
+Silver Sol α+
+Silver Sol β+
+Lunastra α+
+Lunastra β+
+Ruiner Nergi α+
+Ruiner Nergi β+
 EX金色α
 EX金色β
 EXゴクオウα
 EXゴクオウβ
 EX龍紋α
 EX龍紋β
-EXウーロンα
+Oolong α+
 EXバヌークα
-EXギンセンザルα
-EXキブクレフェイクα
-EX封印の龍骸布α
-EX身軽さの耳飾りα
-EX陽動の耳飾りα
+Pearlspring α+
+Duffel Penguin Mask α+
+Sealed Dragon Cloth α+
+Acrobat Earrings α+
+Showman Earrings α+
 EXバヌークα
-EXマッスルα
+Buff Body α+
 EXレオンα
 EXクレアα
 EXシールドウィーバー
-EX竜人族の耳α
-EXアストラα
+Wyverian Ears α+
+Astral α+

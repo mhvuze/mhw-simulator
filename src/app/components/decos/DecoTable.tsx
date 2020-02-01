@@ -25,7 +25,7 @@ const DecoTable: React.FC<Props> = ({ decoList, decos, setDeco }) =>
           <td>
             {name}
             <span className="DecoTable-skills">
-              {deco[name].skill.map(v => v.name).join(' ')}
+              {deco[name].skill.map(v => v.name).join(', ')}
             </span>
           </td>
           <td key={name}>

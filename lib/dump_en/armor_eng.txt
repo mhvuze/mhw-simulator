@@ -1,0 +1,3881 @@
+Leather Headgear
+Armor made of treated monster<LINE>hide. A safe choice, designed<LINE>for multi-purpose use.
+Chainmail Headgear
+Armor made of woven chain links.<LINE>Its familiar design inspires<LINE>trust in hunters who wear it.
+Hunter's Headgear
+Armor widely used among<LINE>hunters. Its sturdy build<LINE>gives peace of mind.
+Bone Helm
+Traditional armor crafted from<LINE>monster bones. Believe it or not,<LINE>it offers pretty good insulation.
+Alloy Helm
+Armor made of fine machalite<LINE>ore. What it lacks in charm it<LINE>more than makes up in defense.
+Vespoid Helm
+Armor made from hard Vespoid<LINE>carapace. Though weak to fire<LINE>element, it offers solid defense.
+Jagras Helm
+Diligently polished Great Jagras<LINE>scale marries steel in beautiful<LINE>harmony in this armor.
+Kulu Headpiece
+The elegant color and beautiful<LINE>design of this Kulu-Ya-Ku armor<LINE>make it perennially popular.
+Pukei Hood
+Pukei-Pukei armor engineered to<LINE>protect vital body parts with a<LINE>very modest amount of materials.
+Barroth Helm
+A wyvern could trample this<LINE>armor made of Barroth shell and<LINE>not leave a single crack.
+Jyura Helm
+A special process was used to treat<LINE>the hard mud caked on this Jyuratodus<LINE>armor in order to improve durability.
+Kadachi Helm
+Exquisitely light, this soft<LINE>Tobi-Kadachi armor is so comfy<LINE>you can barely feel it on.
+High Metal Helm
+Armor made from a generous<LINE>portion of ore. Don't worry,<LINE>it breathes surprisingly well.
+Hornetaur Helm
+Armor plated in hard Hornetaur<LINE>parts so lustrous you'll swear<LINE>it's polished metal.
+Shamos Goggles
+These Shamos goggles have under-<LINE>gone a special process to allow the<LINE>wearer to see in the dark.
+Anja Helm
+Modeled after an unknown tribe's<LINE>hunting garb, the Anja armor's<LINE>design is a symbol of bravery.
+Rathian Helm
+Replete with queenly refinement,<LINE>grace, and might, this sleek<LINE>Rathian armor has it all.
+Tzitzi Headgear
+By using a portion of the head<LINE>as-is, this Tzitzi-Ya-Ku armor<LINE>also serves as a fine trophy.
+Lumu Hat
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape, doesn't<LINE>even feel like you're wearing armor.
+Girros Mask
+In addition to protecting the<LINE>body, this Great Girros armor<LINE>aids a hunter's respiration.
+Baan Helm
+A mix of heavy plating and bone<LINE>grant this Radobaan armor almost<LINE>impenetrable defense.
+King Beetle Vertex
+Armor to fulfill the ambitions<LINE>of those who dreamed of wielding<LINE>the power to rule over bugdom.
+Butterfly Vertex
+Dazzling armor made from insect<LINE>parts. Its light weight and color<LINE>are proof of one's class.
+Ingot Helm
+Armor crafted from brilliant gold<LINE>ore. Its color and design are<LINE>both highly pleasing.
+Legiana Helm
+Armor worn by proven masters of<LINE>the wind. Made of Legiana parts,<LINE>it glistens a piercing blue.
+Odogaron Helm
+None who lay eyes upon this<LINE>Odogaron armor are seen again,<LINE>as it erodes the wearer's sanity.
+Rathalos Helm
+Crafted from parts carved from<LINE>the King of the Skies, this crimson<LINE>armor boasts overwhelming defense.
+Diablos Helm
+The bold horns on this Diablos<LINE>armor are a challenge to any who<LINE>doubt your rule over the sands.
+Kirin Horn
+Don this gorgeous Kirin armor and<LINE>canter through the wilderness living<LINE>out your wildest equine fantasies.
+Death Stench Brain
+Accursed armor, said to bring<LINE>death. The wearer hears echoes<LINE>of their victim's death throes.
+Brigade Lobos
+Guild-exclusive armor for Arena<LINE>champions. A particularly<LINE>refined headpiece.
+Pulverizing Feather
+An earring left by the man they<LINE>call the Demolitionist. He razed<LINE>everything to save what matters.
+Leather Headgear<ICON ALPHA>
+Leather Headgear<ICON BETA>
+Chainmail Headgear<ICON ALPHA>
+Chainmail Headgear<ICON BETA>
+Hunter's Headgear<ICON ALPHA>
+Hunter's Headgear<ICON BETA>
+Bone Helm<ICON ALPHA>
+Bone Helm<ICON BETA>
+Alloy Helm<ICON ALPHA>
+Alloy Helm<ICON BETA>
+Vespoid Helm<ICON ALPHA>
+Vespoid Helm<ICON BETA>
+Hornetaur Helm<ICON ALPHA>
+Hornetaur Helm<ICON BETA>
+Shamos Goggles<ICON ALPHA>
+Shamos Goggles<ICON BETA>
+Jagras Helm<ICON ALPHA>
+Jagras Helm<ICON BETA>
+Kulu Headpiece<ICON ALPHA>
+Kulu Headpiece<ICON BETA>
+Pukei Hood<ICON ALPHA>
+Pukei Hood<ICON BETA>
+Barroth Helm<ICON ALPHA>
+Barroth Helm<ICON BETA>
+Jyura Helm<ICON ALPHA>
+Jyura Helm<ICON BETA>
+Kadachi Helm<ICON ALPHA>
+Kadachi Helm<ICON BETA>
+Anja Helm<ICON ALPHA>
+Anja Helm<ICON BETA>
+Rathian Helm<ICON ALPHA>
+Rathian Helm<ICON BETA>
+Tzitzi Headgear<ICON ALPHA>
+Tzitzi Headgear<ICON BETA>
+Lumu Hat<ICON ALPHA>
+Lumu Hat<ICON BETA>
+Girros Mask<ICON ALPHA>
+Girros Mask<ICON BETA>
+Baan Helm<ICON ALPHA>
+Baan Helm<ICON BETA>
+High Metal Helm<ICON ALPHA>
+High Metal Helm<ICON BETA>
+Ingot Helm<ICON ALPHA>
+Ingot Helm<ICON BETA>
+Gastodon Horn<ICON ALPHA>
+The thick, stiff Gastodon hair<LINE>used in this armor was treated<LINE>to maximize impact absorption.
+Gastodon Horn<ICON BETA>
+Rath Heart Helm<ICON ALPHA>
+Rathian armor that exhibits such<LINE>a regal presence that it leaves all<LINE>who see it captivated and awed.
+Rath Heart Helm<ICON BETA>
+Legiana Helm<ICON ALPHA>
+Legiana Helm<ICON BETA>
+Odogaron Helm<ICON ALPHA>
+Odogaron Helm<ICON BETA>
+Rathalos Helm<ICON ALPHA>
+Rathalos Helm<ICON BETA>
+Rath Soul Helm<ICON ALPHA>
+Azure armor imbued with absolute<LINE>power. Those who wear it are<LINE>destined to make history.
+Rath Soul Helm<ICON BETA>
+Diablos Helm<ICON ALPHA>
+Diablos Helm<ICON BETA>
+Diablos Nero Helm<ICON ALPHA>
+Brutal-looking armor made from<LINE>Black Diablos parts. So imposing<LINE>none so much as dare approach it.
+Diablos Nero Helm<ICON BETA>
+Dodogama Helm<ICON ALPHA>
+Thoroughly tempered to extreme<LINE>hardness, this Dodogama armor<LINE>will outlast any impact.
+Dodogama Helm<ICON BETA>
+Lavasioth Helm<ICON ALPHA>
+Thick Lavasioth shell underwent<LINE>a painstaking treatment process to<LINE>yield this armor. Truly a work of art.
+Lavasioth Helm<ICON BETA>
+Uragaan Helm<ICON ALPHA>
+Heavy armor made of heavy<LINE>Uragaan parts, and every ounce<LINE>of it adds to its defense.
+Uragaan Helm<ICON BETA>
+Nergigante Helm<ICON ALPHA>
+This Nergigante armor is said<LINE>to feed on a hunter's spirit in<LINE>exchange for its brutal power.
+Nergigante Helm<ICON BETA>
+Nergigante armor fit to enrobe<LINE>one who would usher in a new<LINE>world by razing this one.
+King Beetle Vertex<ICON ALPHA>
+King Beetle Vertex<ICON BETA>
+Butterfly Vertex<ICON ALPHA>
+Butterfly Vertex<ICON BETA>
+Brigade Lobos<ICON ALPHA>
+Brigade Lobos<ICON BETA>
+Damascus Helm<ICON ALPHA>
+This legendary iron steel armor<LINE>is said to lead its wearer down<LINE>the conqueror's path.
+Damascus Helm<ICON BETA>
+Dober Helm<ICON ALPHA>
+Armor fashioned from obsidian bone<LINE>of unknown provenance. It resembles<LINE>an all-powerful monster.
+Dober Helm<ICON BETA>
+Kushala Glare<ICON ALPHA>
+Armor made from Kushala Daora<LINE>parts. It resembles the statue of<LINE>an ancient deity come to life.
+Kushala Glare<ICON BETA>
+Kaiser Crown<ICON ALPHA>
+Forged from parts carved from<LINE>a Teostra, this armor is host to<LINE>the Flame King Dragon's soul.
+Kaiser Crown<ICON BETA>
+Kirin Horn<ICON ALPHA>
+Kirin Horn<ICON BETA>
+Vaal Hazak Helm<ICON ALPHA>
+Whispers haunt this Vaal Hazak<LINE>armor, urging any who don it to<LINE>embrace despair, and consume...
+Vaal Hazak Helm<ICON BETA>
+Bazel Helm<ICON ALPHA>
+The earth quivers beneath each step<LINE>taken in this Bazelgeuse armor.<LINE>Behind you, a scorched path.
+Bazel Helm<ICON BETA>
+Death Stench Brain<ICON ALPHA>
+Death Stench Brain<ICON BETA>
+Guild Cross Circlet<ICON ALPHA>
+Golden armor for Arena<LINE>champions. It shines with<LINE>the wisdom of heroes.
+Guild Cross Circlet<ICON BETA>
+Skull Mask<ICON ALPHA>
+Impersonate the dead with this<LINE>ghoulish mask. Worn too long, it<LINE>might set your soul to wander.
+Unavailable
+Unavailable
+Faux Felyne<ICON ALPHA>
+A mask fashioned in the shape of<LINE>a Felyne's face. Every last fur<LINE>strand is accounted for.
+Unavailable
+Unavailable
+Mosswine Mask<ICON ALPHA>
+Headgear fashioned to look like<LINE>a Mosswine head. Toss it on and<LINE>get into character. It's fun!
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Dragonseal Earrings<ICON ALPHA>
+Dignified earrings awarded to<LINE>Arena combatants. A symbol of<LINE>the will to rise above strife.
+Unavailable
+Unavailable
+Strategist Spectacles<ICON ALPHA>
+A Guild-Workshop collaboration.<LINE>They help you hunt by making you<LINE>look very slightly smarter.
+Unavailable
+Unavailable
+Dragonking Eyepatch<ICON ALPHA>
+Put this baby on to double your<LINE>manliness instantly. Ideal for<LINE>the grittier guys and gals.
+Unavailable
+Unavailable
+Xeno'jiiva Headgear<ICON ALPHA>
+This Xeno'jiiva armor hums with<LINE>energy. If properly controlled, it<LINE>grants the wearer vast power.
+Xeno'jiiva Headgear<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zorah Headgear<ICON ALPHA>
+Stalwart as a mountain, this<LINE>Zorah Magdaros armor renders its<LINE>wearer unfazed by any hardship.
+Zorah Headgear<ICON BETA>
+Commission Gorget<ICON ALPHA>
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Commission Gorget<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Brigade Layered Head
+Unavailable
+Guild Cross Layered Head
+Unavailable
+Blossom Layered Head
+Unavailable
+Diver Layered Head
+Unavailable
+Harvest Layered Head
+Unavailable
+Orion Layered Cap
+Unavailable
+Gala Suit Layered Head
+Unavailable
+Unavailable
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+Unavailable
+Unavailable
+Bayek Layered Head
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Origin Helm
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Unavailable
+Unavailable
+Kulve Taroth's Fury<ICON ALPHA>
+Kulve Taroth armor that shines with<LINE>a rich light. The terrifying anger<LINE>of the mother goddess lies within.
+Kulve Taroth's Fury<ICON BETA>
+Blossom Headgear
+Requires a Spring Blossom Ticket<LINE>to craft. This armor shines with the<LINE>colors of the Spring Blossom Fest.
+Diver's Mask
+Requires a Summer Twilight<LINE>Ticket to craft. Armor that'll have<LINE>you eager for a dip in the ocean.
+Harvest Flor
+Requires an Autumn Harvest Ticket<LINE>to craft. Put on this costume and<LINE>enjoy the festivities!
+Orion Cap
+Requires a Winter Star Ticket to<LINE>craft. Warm and snug armor so you<LINE>can enjoy the winter festivities.
+Gala Suit Top Hat
+Requires an Appreciation Ticket<LINE>to craft. This gorgeous armor dazzles<LINE>as brightly as the Appreciation Fest.
+Samurai Head
+Unavailable
+Vangis Helm<ICON ALPHA>
+Deviljho armor that bestows epic<LINE>power to its wearer, at the cost<LINE>of a never-ending thirst for flesh.
+Vangis Helm<ICON BETA>
+Unavailable
+Unavailable
+Bushi Kabuto "Sabi"
+Unavailable
+Bushi Kabuto "Homare"
+Drachen Armet<ICON ALPHA>
+Bestowed upon those worthy of the<LINE>title of Azure Dragoon. Carries out<LINE>duties without succumbing to hatred.
+Blossom Headgear<ICON ALPHA>
+Diver's Mask<ICON ALPHA>
+Harvest Flor<ICON ALPHA>
+Orion Cap<ICON ALPHA>
+Gala Suit Top Hat<ICON ALPHA>
+Butterfly Vertex
+Butterfly Vertex<ICON ALPHA>
+Butterfly Vertex<ICON BETA>
+Queen Beetle Vertex
+Queen Beetle Vertex<ICON ALPHA>
+Queen Beetle Vertex<ICON BETA>
+Vaal Hazak Helm<ICON GAMMA>
+Uniquely crafted Vaal Hazak armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kirin Horn<ICON GAMMA>
+Uniquely crafted Kirin armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kaiser Crown<ICON GAMMA>
+Uniquely crafted Teostra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kushala Glare<ICON GAMMA>
+Uniquely crafted Kushala Daora<LINE>armor. The immeasurable strength of<LINE>a tempered monster dwells within.
+Nergigante Helm<ICON GAMMA>
+Uniquely crafted Nergigante armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Zorah Headgear<ICON GAMMA>
+Uniquely crafted Zorah Magdaros<LINE>armor. The immeasurable strength of<LINE>the monster dwells within.
+Xeno'jiiva Headgear<ICON GAMMA>
+Uniquely crafted Xeno'jiiva armor.<LINE>The immeasurable strength of the<LINE>monster dwells within.
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Azure Starlord Crown<ICON ALPHA>
+Armor with a glow reminiscent of an<LINE>azure star. The crown is proof of<LINE>the starlord's prominence.
+Dante's Hair<ICON ALPHA>
+Fashioned after Dante, the demon<LINE>hunter. Lets everyone know that<LINE>you're not from around here.
+Empress Crown<ICON ALPHA>
+It is only fitting that the soul<LINE>of Lunastra is housed within<LINE>this specially crafted headpiece.
+Empress Crown<ICON BETA>
+Sealed Eyepatch<ICON ALPHA>
+A special order-made eyepatch. The<LINE>cloth gives off a black glow, one that<LINE>is difficult to comprehend.
+Shadow Shades<ICON ALPHA>
+A sensible pair of shades. You'll<LINE>always look cool in these, no<LINE>matter the situation!
+Kulu-Ya-Ku Head<ICON ALPHA>
+Head armor fashioned after a<LINE>Kulu-Ya-Ku. Don this, and you may<LINE>have a hankering for some eggs...
+Wiggler Head<ICON ALPHA>
+Head armor fashioned after a Wiggler.<LINE>You'll be a hit with certain researchers!<LINE>Time to wiggle it, but only a little bit!
+Butterfly Layered Head
+Unavailable
+Death Stench Layered Head
+Unavailable
+Dante Layered Head
+Unavailable
+Drachen Layered Armet
+Unavailable
+Commission Layered Head
+Unavailable
+Origin Layered Head
+Unavailable
+Beetle Layered Head
+Unavailable
+dummy013
+Unavailable
+Shadow Shades Layered Head
+Unavailable
+Mosswine Mask Layered Head
+Unavailable
+Faux Felyne Layered Head
+Unavailable
+Sealed Eyepatch Layered Armor
+Unavailable
+Wiggler Head Layered Armor
+Unavailable
+Skull Mask Layered Head
+Unavailable
+Kulu-Ya-Ku Layered Head
+Unavailable
+HARDUMMY
+Empress Crown<ICON GAMMA>
+Uniquely crafted Lunastra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Geralt's Head<ICON ALPHA>
+The legendary Witcher. A master<LINE>swordsman with a keen eye and<LINE>a profound knowledge of monsters.<LINE><STYL MOJI_YELLOW_DEFAULT>(Full Armor Set)</STYL>
+Ciri's Head<ICON ALPHA>
+An ashen-haired young woman who<LINE>wields devastating magical powers.<LINE>She is descended from an ancient<LINE>race of elves. <STYL MOJI_YELLOW_DEFAULT>(Full Armor Set)</STYL>
+Geralt Layered Head
+Unavailable
+Ciri Layered Head
+Unavailable
+Kulve Taroth's Fury<ICON GAMMA>
+Uniquely crafted Kulve Taroth<LINE>armor. The immeasurable strength<LINE>of the monster dwells within.
+Defender Helm<ICON ALPHA>
+Armor designed for use by the<LINE>Defense Corps. Crafted with<LINE>high defensive power in mind.
+Direwolf Layered Headgear+
+Armor made for cold regions.<LINE>Uses a lot of fur, but is<LINE>surprisingly stout nonetheless.
+Unavailable
+Bone Helm<ICON ALPHA>+
+Bone Helm<ICON BETA>+
+Alloy Helm<ICON ALPHA>+
+Alloy Helm<ICON BETA>+
+Vespoid Helm<ICON ALPHA>+
+Vespoid armor.<LINE>It's hard to believe this helmet<LINE>was created from insect carapace.
+Vespoid Helm<ICON BETA>+
+Hornetaur Helm<ICON ALPHA>+
+Hornetaur armor.<LINE>A very valuable helmet with high<LINE>dragon resistance.
+Hornetaur Helm<ICON BETA>+
+Shamos Goggles<ICON ALPHA>+
+Shamos Goggles<ICON BETA>+
+Gastodon Horn<ICON ALPHA>+
+Gastodon Horn<ICON BETA>+
+Wulg Scarf<ICON ALPHA>+
+A fluffy Wulg-fur neckwarmer.<LINE>The soft, warm fur keeps your<LINE>neck warm and well-protected.
+Wulg Scarf<ICON BETA>+
+Jagras Helm<ICON ALPHA>+
+A hair ornament made from<LINE>the mane of a Great Jagras.<LINE>Gloriously colorful.
+Jagras Helm<ICON BETA>+
+Tzitzi Headgear<ICON ALPHA>+
+A new type of Tzitzi-Ya-Ku armor<LINE>requiring high craftsmanship.<LINE>Note the colors on the lenses.
+Tzitzi Headgear<ICON BETA>+
+Girros Headgear<ICON ALPHA>+
+Great Girros armor with a dark<LINE>and dirty design, deeply desired<LINE>by dapper daredevils.
+Girros Headgear<ICON BETA>+
+Dodogama Helm<ICON ALPHA>+
+Dodogama armor that has been made<LINE>ten times more durable than normal<LINE>through expert forging techniques.
+Dodogama Helm<ICON BETA>+
+Kulu Headpiece<ICON ALPHA>+
+A high-quality turban made of<LINE>the finest Kulu-Ya-Ku leather.<LINE>Nice and airy too!
+Kulu Headpiece<ICON BETA>+
+Pukei Hat<ICON ALPHA>+
+This Pukei-Pukei armor should be<LINE>worn so that it covers the eyes,<LINE>inspiring fear into your enemies.
+Pukei Hat<ICON BETA>+
+Barroth Helm<ICON ALPHA>+
+Strong and sturdy Barroth armor.<LINE>Grants its wearer a dignified,<LINE>regal appearance.
+Barroth Helm<ICON BETA>+
+Jyura Helm<ICON ALPHA>+
+Jyuratodus armor made of tough<LINE>clay that was baked to become<LINE>harder than steel.
+Jyura Helm<ICON BETA>+
+Beo Helm<ICON ALPHA>+
+Craftsmen toiled away for three<LINE>days straight to polish this<LINE>Beotodus helm to a dark shine.
+Beo Helm<ICON BETA>+
+Kadachi Hat<ICON ALPHA>+
+A hat using only the highest-<LINE>quality Tobi-Kadachi pelt.<LINE>Great for going out in the cold.
+Kadachi Hat<ICON BETA>+
+High Metal Helm<ICON ALPHA>+
+High Metal Helm<ICON BETA>+
+Banbaro Helm<ICON ALPHA>+
+The magnificent horns atop this<LINE>Banbaro helm inspire courage in<LINE>its wearer and fear in its foes.
+Banbaro Helm<ICON BETA>+
+Anja Helm<ICON ALPHA>+
+Modeled after a brave tribe's<LINE>hunting garb, this Anjanath<LINE>armor's design is a symbol<LINE>of bravery.
+Anja Helm<ICON BETA>+
+Rathian Helm<ICON ALPHA>+
+This Rathian armor contains<LINE>the protection of the noble and<LINE>beautiful Queen of the Skies.
+Rathian Helm<ICON BETA>+
+Rath Heart Helm<ICON ALPHA>+
+This Pink Rathian armor allows<LINE>its wearer to keep track of their<LINE>target even amidst a storm.
+Rath Heart Helm<ICON BETA>+
+Lumu Hat<ICON ALPHA>+
+A Paolumu hat that perfectly fits<LINE>any head. Light and breezy, you<LINE>won't want to leave camp without it!
+Lumu Hat<ICON BETA>+
+Lumu Phantasm Hood<ICON ALPHA>+
+The crimson stare adorning this<LINE>Nightshade Paolumu hood<LINE>transfixes the wearer's prey.
+Lumu Phantasm Hood<ICON BETA>+
+Pukei Lagoon Hat<ICON ALPHA>+
+The Coral Pukei-Pukei plumage atop<LINE>this jaunty cap seems delicate,<LINE>but it's actually hard as steel.
+Pukei Lagoon Hat<ICON BETA>+
+Viper Kadachi Hat<ICON ALPHA>+
+Don't be fooled by the fluffy look<LINE>of this Viper Tobi-Kadachi hat:<LINE>it offers top-notch protection.
+Viper Kadachi Hat<ICON BETA>+
+Baan Helm<ICON ALPHA>+
+Extremely durable armor that<LINE>consists of thick layers of<LINE>Radobaan bone and carapace.
+Baan Helm<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Acrobat Earrings<ICON ALPHA>+
+Dignified earrings awarded to<LINE>master rank Arena combatants<LINE>graceful as a dancer in combat.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Ingot Helm<ICON ALPHA>+
+Ingot Helm<ICON BETA>+
+Barioth Helm<ICON ALPHA>+
+Barioth armor with very<LINE>distinctive giant fangs<LINE>and mane.
+Barioth Helm<ICON BETA>+
+Rathalos Helm<ICON ALPHA>+
+Rathalos armor that increases its<LINE>wearer's concentration by<LINE>protecting the head from impact.
+Rathalos Helm<ICON BETA>+
+Diablos Helm<ICON ALPHA>+
+The horn on this Diablos helm is<LINE>so sharp, it can even pierce steel.<LINE>Just don't get your head stuck.
+Diablos Helm<ICON BETA>+
+Legiana Helm<ICON ALPHA>+
+Armor worn by proven masters of<LINE>the freezing sky. Made of Legiana<LINE>parts, it glistens a piercing blue.
+Legiana Helm<ICON BETA>+
+Odogaron Helm<ICON ALPHA>+
+Woe to whoever meets eyes<LINE>with this Odogaron armor, for<LINE>its gaze shall pierce their soul.
+Odogaron Helm<ICON BETA>+
+Lavasioth Helm<ICON ALPHA>+
+This Lavasioth armor underwent<LINE>a tedious treatment process in<LINE>order to craft. Truly a work of art.
+Lavasioth Helm<ICON BETA>+
+Uragaan Helm<ICON ALPHA>+
+This Uragaan armor emits a golden<LINE>light as bright as the sun.<LINE>Best not to look at it directly.
+Uragaan Helm<ICON BETA>+
+Nargacuga Helm<ICON ALPHA>+
+The eyes peering out of this<LINE>Nargacuga mask are so<LINE>unsettling, few dare look at them.
+Nargacuga Helm<ICON BETA>+
+Glavenus Helm<ICON ALPHA>+
+Even as a piece of armor,<LINE>Glavenus will bite the hands off<LINE>those unworthy to touch it.
+Glavenus Helm<ICON BETA>+
+Brachydios Helm<ICON ALPHA>+
+Brachydios armor that is strong<LINE>enough to withstand even the<LINE>impact of an explosion.
+Brachydios Helm<ICON BETA>+
+Tigrex Helm<ICON ALPHA>+
+This Tigrex armor is proof that its<LINE>wearer is strong enough to subdue<LINE>a creature of pure destruction.
+Tigrex Helm<ICON BETA>+
+Fulgur Helm<ICON ALPHA>+
+A fiercely proud Fulgur Anjanath<LINE>helm that stands as a symbol of<LINE>valor and a challenge to all.
+Fulgur Helm<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Black Belt Helm<ICON ALPHA>+
+A reward given by a famed<LINE>teacher to the few pupils<LINE>who survive his rigors.
+Black Belt Helm<ICON BETA>+
+Dragonking Eyepatch Layered Armor
+Strategist Spectacles Layered Armor
+Pulverizing Feather Layered Armor
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Hoarcry Helm<ICON ALPHA>+
+This silvery Shrieking Legiana<LINE>headgear is proof of mastery<LINE>over the icy gray skies.
+Hoarcry Helm<ICON BETA>+
+Rath Soul Helm<ICON ALPHA>+
+Azure Rathalos armor that increases<LINE>its wearer's concentration by<LINE>protecting the head from impact.
+Rath Soul Helm<ICON BETA>+
+Diablos Nero Helm<ICON ALPHA>+
+A helm made from Black Diablos<LINE>shell. Its horn could easily<LINE>pierce solid steel.
+Diablos Nero Helm<ICON BETA>+
+Death Garon Helm<ICON ALPHA>+
+Dark whispers claw at the minds<LINE>of hunters foolish enough to don<LINE>this Ebony Odogaron headgear.
+Death Garon Helm<ICON BETA>+
+Acidic Glavenus Helm<ICON ALPHA>+
+The Smithy workers aren't sure if<LINE>this razor-honed Acidic Glavenus<LINE>helm is more armor or weapon.
+Acidic Glavenus Helm<ICON BETA>+
+Artian Helm<ICON ALPHA>+
+Head armor made of eldritch<LINE>scraps. Artisans debated its<LINE>design for seven nights.
+Artian Helm<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Dober Helm<ICON ALPHA>+
+Dober Helm<ICON BETA>+
+Damascus Helm<ICON ALPHA>+
+Damascus Helm<ICON BETA>+
+Rimeguard Helm<ICON ALPHA>+
+All shall bend the knee in fear<LINE>before the cold grace of this<LINE>frozen Velkhana crown.
+Rimeguard Helm<ICON BETA>+
+Pride Helm<ICON ALPHA>+
+Peace is cowardice. Don this<LINE>Seething Bazelgeuse helm and<LINE>embrace the flames of battle.
+Pride Helm<ICON BETA>+
+Fellshroud Helm<ICON ALPHA>+
+This Blackveil Vaal Hazak crown<LINE>echoes with the deathbringer's<LINE>promise: Dawn will never come.
+Fellshroud Helm<ICON BETA>+
+Kaiser Crown<ICON ALPHA>+
+Armor made from Teostra parts.<LINE>Come, Lord of Flames, and<LINE>lead us away from misery.
+Kaiser Crown<ICON BETA>+
+Kushala Glare<ICON ALPHA>+
+The helm of Kushala Daora,<LINE>a pure knight who came from<LINE>the wind with a noble cause.
+Kushala Glare<ICON BETA>+
+Kirin Horn<ICON ALPHA>+
+Armor made from Kirin parts.<LINE>At its will, thunder rings down<LINE>from the heavens.
+Kirin Horn<ICON BETA>+
+Tentacle Cowl<ICON ALPHA>+
+Namielle beckons from the abyss:<LINE>If you would wear this cowl,<LINE>shield your ears to its call.
+Tentacle Cowl<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guild Palace Helm<ICON ALPHA>+
+Headgear bestowed on champions<LINE>of the Arena. Its golden crown<LINE>is proof of the bearer's valor.
+Guild Palace Helm<ICON BETA>+
+Clockwork Helm<ICON ALPHA>+
+State-of-the-art armor with a<LINE>small scope that increases vision<LINE>to facilitate long-range hunting.
+Clockwork Helm<ICON BETA>+
+Crystal Earring Layered Armor
+Ruinous Helm<ICON ALPHA>+
+A Ruiner Nergigante helm that<LINE>devours a hunter's soul in trade<LINE>for pitiless cruelty.
+Ruinous Helm<ICON BETA>+
+Shara Ishvalda Helm<ICON ALPHA>+
+The imposing golden crown of<LINE>Shara Ishvalda stands unmovable,<LINE>eternal as the earth underfoot.
+Shara Ishvalda Helm<ICON BETA>+
+Esurient Helm<ICON ALPHA>+
+Armor made of Savage Deviljho<LINE>parts. Its bloodthirsty fangs no<LINE>longer hear the voice of reason.
+Esurient Helm<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guildwork Head<ICON ALPHA>+
+A helm given to those who aid<LINE>the Guild. No wisdom can replace<LINE>a simple love of nature and man.
+Guildwork Head<ICON BETA>+
+Showman Earrings<ICON ALPHA>+
+Dignified earrings awarded to<LINE>master rank Arena combatants<LINE>who captivate their audience.
+Golden Lunehelm<ICON ALPHA>+
+This Gold Rathian armor is so<LINE>resplendent, it looks like it was<LINE>made with shards of a golden moon.
+Golden Lunehelm<ICON BETA>+
+Silver Solhelm<ICON ALPHA>+
+This Silver Rathalos armor shines<LINE>like cold steel, while containing<LINE>the fury of a raging fire.
+Silver Solhelm<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zinogre Helm<ICON ALPHA>+
+Head armor worthy of one<LINE>powerful enough to have<LINE>defeated the mighty Zinogre.
+Zinogre Helm<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Garuga Helm<ICON ALPHA>+
+This Yian Garuga armor exudes<LINE>an eerie aura.
+Garuga Helm<ICON BETA>+
+Zorah Headgear<ICON ALPHA>+
+Zorah Headgear<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Sealed Dragon Cloth<ICON ALPHA>+
+A cloth used to wrap the remains of<LINE>an elder dragon. It has been sealed<LINE>to prevent another calamity.
+Wyverian Ears<ICON ALPHA>+
+Modeled after Wyverian ears.<LINE>For people who want to look<LINE>just a bit more noble and wise.
+Unavailable
+Unavailable
+Duffel Penguin Mask<ICON ALPHA>+
+Modeled after a Duffel Penguin.<LINE>Especially its eyes have been<LINE>recreated particularly well.
+Empress Crown<ICON ALPHA>+
+A blue flame dances in the<LINE>sheen of this distinctive<LINE>Lunastra head armor.
+Empress Crown<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Hair<ICON ALPHA>+
+Requires a Joyful Ticket to craft.<LINE>Performances of those donning<LINE>this garb resemble a dragon<LINE>soaring through the heavens.
+Unavailable
+Astral Veil<ICON ALPHA>+
+Requires a Gratitude Ticket to<LINE>craft. Snatch the stars from the<LINE>sky and become the banquet itself.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Layered Head
+Unavailable
+Astral Layered Head
+Unavailable
+Unavailable
+Unavailable
+Thermae Layered Wrap
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Pearlspring<ICON ALPHA>+
+An incredibly realistic Pearlspring<LINE>Macaque toy. Surprisingly warm<LINE>as well. Almost as if it had just<LINE>taken a long dip in a hot spring!
+Unavailable
+Unavailable
+Rex Roar Helm<ICON ALPHA>+
+This Brute Tigrex helm is<LINE>proof of supremacy over<LINE>the lord of raw power.
+Rex Roar Helm<ICON BETA>+
+Guardian Helm<ICON ALPHA>+
+The mail of a knight sworn to<LINE>the city's defense. The defense<LINE>it offers is nigh-impregnable.
+Yukumo Layered Kasa
+Unavailable
+Silver Knight Layered Head
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Leather Mail
+Armor made of treated monster<LINE>hide. A safe choice, designed<LINE>for multi-purpose use.
+Chainmail Vest
+Armor made of woven chain links.<LINE>Its familiar design inspires<LINE>trust in hunters who wear it.
+Hunter's Mail
+Armor widely used among<LINE>hunters. Designed to withstand<LINE>all sorts of weather.
+Bone Mail
+Traditional armor crafted from<LINE>monster bones. Believe it or not,<LINE>it offers pretty good insulation.
+Alloy Mail
+Armor made of fine machalite<LINE>ore. What it lacks in charm it<LINE>more than makes up in defense.
+Vespoid Mail
+Armor made from hard Vespoid<LINE>carapace. Though weak to fire<LINE>element, it offers solid defense.
+Jagras Mail
+Diligently polished Great Jagras<LINE>scale marries steel in beautiful<LINE>harmony in this armor.
+Kulu Mail
+The elegant color and beautiful<LINE>design of this Kulu-Ya-Ku armor<LINE>make it perennially popular.
+Pukei Mail
+Pukei-Pukei armor engineered to<LINE>protect vital body parts with a<LINE>very modest amount of materials.
+Barroth Mail
+A wyvern could trample this<LINE>armor made of Barroth shell and<LINE>not leave a single crack.
+Jyura Mail
+A special process was used to treat<LINE>the hard mud caked on this Jyuratodus<LINE>armor in order to improve durability.
+Kadachi Mail
+Exquisitely light, this soft<LINE>Tobi-Kadachi armor is so comfy<LINE>you can barely feel it on.
+High Metal Mail
+Armor made from a generous<LINE>portion of ore. Don't worry,<LINE>it breathes surprisingly well.
+Hornetaur Mail
+Armor plated in hard Hornetaur<LINE>parts so lustrous you'll swear<LINE>it's polished metal.
+Anja Mail
+Modeled after an unknown tribe's<LINE>hunting garb, the Anja armor's<LINE>design is a symbol of bravery.
+Rathian Mail
+Replete with queenly refinement,<LINE>grace, and might, this sleek<LINE>Rathian armor has it all.
+Tzitzi Mail
+By using a portion of the head<LINE>as-is, this Tzitzi-Ya-Ku armor<LINE>also serves as a fine trophy.
+Lumu Mail
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape, doesn't<LINE>even feel like you're wearing armor.
+Girros Mail
+In addition to protecting the<LINE>body, this Great Girros armor<LINE>aids a hunter's respiration.
+Baan Mail
+A mix of heavy plating and bone<LINE>grant this Radobaan armor almost<LINE>impenetrable defense.
+King Beetle Thorax
+Armor to fulfill the ambitions<LINE>of those who dreamed of wielding<LINE>the power to rule over bugdom.
+Butterfly Thorax
+Dazzling armor made from insect<LINE>parts. Its light weight and color<LINE>are proof of one's class.
+Ingot Mail
+Armor crafted from brilliant gold<LINE>ore. Its color and design are<LINE>both highly pleasing.
+Legiana Mail
+Armor worn by proven masters of<LINE>the wind. Made of Legiana parts,<LINE>it glistens a piercing blue.
+Odogaron Mail
+None who lay eyes upon this<LINE>Odogaron armor are seen again,<LINE>as it erodes the wearer's sanity.
+Rathalos Mail
+Crafted from parts carved from<LINE>the King of the Skies, this crimson<LINE>armor boasts overwhelming defense.
+Diablos Mail
+The bold horns on this Diablos<LINE>armor are a challenge to any who<LINE>doubt your rule over the sands.
+Kirin Jacket
+Don this gorgeous Kirin armor and<LINE>canter through the wilderness living<LINE>out your wildest equine fantasies.
+Death Stench Muscle
+Accursed armor, said to bring<LINE>death. The wearer hears echoes<LINE>of their victim's death throes.
+Brigade Suit
+Guild-exclusive armor for Arena<LINE>champions. Proof of the Guild's<LINE>recognition. Easy to move in.
+Leather Mail<ICON ALPHA>
+Leather Mail<ICON BETA>
+Chainmail Armor<ICON ALPHA>
+Chainmail Armor<ICON BETA>
+Hunter's Mail<ICON ALPHA>
+Hunter's Mail<ICON BETA>
+Bone Mail<ICON ALPHA>
+Bone Mail<ICON BETA>
+Alloy Mail<ICON ALPHA>
+Alloy Mail<ICON BETA>
+Vespoid Mail<ICON ALPHA>
+Vespoid Mail<ICON BETA>
+Hornetaur Mail<ICON ALPHA>
+Hornetaur Mail<ICON BETA>
+Jagras Mail<ICON ALPHA>
+Jagras Mail<ICON BETA>
+Kulu Mail<ICON ALPHA>
+Kulu Mail<ICON BETA>
+Pukei Mail<ICON ALPHA>
+Pukei Mail<ICON BETA>
+Barroth Mail<ICON ALPHA>
+Barroth Mail<ICON BETA>
+Jyura Mail<ICON ALPHA>
+Jyura Mail<ICON BETA>
+Kadachi Mail<ICON ALPHA>
+Kadachi Mail<ICON BETA>
+Anja Mail<ICON ALPHA>
+Anja Mail<ICON BETA>
+Rathian Mail<ICON ALPHA>
+Rathian Mail<ICON BETA>
+Tzitzi Mail<ICON ALPHA>
+Tzitzi Mail<ICON BETA>
+Lumu Mail<ICON ALPHA>
+Lumu Mail<ICON BETA>
+Girros Mail<ICON ALPHA>
+Girros Mail<ICON BETA>
+Baan Mail<ICON ALPHA>
+Baan Mail<ICON BETA>
+High Metal Mail<ICON ALPHA>
+High Metal Mail<ICON BETA>
+Ingot Mail<ICON ALPHA>
+Ingot Mail<ICON BETA>
+Barnos Jacket<ICON ALPHA>
+Chest armor of carefully tanned<LINE>Barnos hide that won't degrade,<LINE>even in the worst conditions.
+Barnos Jacket<ICON BETA>
+Rath Heart Mail<ICON ALPHA>
+Rathian armor that exhibits such<LINE>a regal presence that it leaves all<LINE>who see it captivated and awed.
+Rath Heart Mail<ICON BETA>
+Legiana Mail<ICON ALPHA>
+Legiana Mail<ICON BETA>
+Odogaron Mail<ICON ALPHA>
+Odogaron Mail<ICON BETA>
+Rathalos Mail<ICON ALPHA>
+Rathalos Mail<ICON BETA>
+Rath Soul Mail<ICON ALPHA>
+Azure armor imbued with absolute<LINE>power. Those who wear it are<LINE>destined to make history.
+Rath Soul Mail<ICON BETA>
+Diablos Mail<ICON ALPHA>
+Diablos Mail<ICON BETA>
+Diablos Nero Mail<ICON ALPHA>
+Brutal-looking armor made from<LINE>Black Diablos parts. So imposing<LINE>none so much as dare approach it.
+Diablos Nero Mail<ICON BETA>
+Dodogama Mail<ICON ALPHA>
+Thoroughly tempered to extreme<LINE>hardness, this Dodogama armor<LINE>will outlast any impact.
+Dodogama Mail<ICON BETA>
+Lavasioth Mail<ICON ALPHA>
+Thick Lavasioth shell underwent<LINE>a painstaking treatment process to<LINE>yield this armor. Truly a work of art.
+Lavasioth Mail<ICON BETA>
+Uragaan Mail<ICON ALPHA>
+Heavy armor made of heavy<LINE>Uragaan parts, and every ounce<LINE>of it adds to its defense.
+Uragaan Mail<ICON BETA>
+Nergigante Mail<ICON ALPHA>
+This Nergigante armor is said<LINE>to feed on a hunter's spirit in<LINE>exchange for its brutal power.
+Nergigante Mail<ICON BETA>
+Nergigante armor fit to enrobe<LINE>one who would usher in a new<LINE>world by razing this one.
+King Beetle Thorax<ICON ALPHA>
+King Beetle Thorax<ICON BETA>
+Butterfly Thorax<ICON ALPHA>
+Butterfly Thorax<ICON BETA>
+Brigade Suit<ICON ALPHA>
+Brigade Suit<ICON BETA>
+Damascus Mail<ICON ALPHA>
+This legendary iron steel armor<LINE>is said to lead its wearer down<LINE>the conqueror's path.
+Damascus Mail<ICON BETA>
+Dober Mail<ICON ALPHA>
+Armor fashioned from obsidian bone<LINE>of unknown provenance. It resembles<LINE>an all-powerful monster.
+Dober Mail<ICON BETA>
+Kushala Cista<ICON ALPHA>
+Armor made from Kushala Daora<LINE>parts. It resembles the statue of<LINE>an ancient deity come to life.
+Kushala Cista<ICON BETA>
+Kaiser Mail<ICON ALPHA>
+Forged from parts carved from<LINE>a Teostra, this armor is host to<LINE>the Flame King Dragon's soul.
+Kaiser Mail<ICON BETA>
+Kirin Jacket<ICON ALPHA>
+Kirin Jacket<ICON BETA>
+Vaal Hazak Mail<ICON ALPHA>
+Whispers haunt this Vaal Hazak<LINE>armor, urging any who don it to<LINE>embrace despair, and consume...
+Vaal Hazak Mail<ICON BETA>
+Bazel Mail<ICON ALPHA>
+The earth quivers beneath each step<LINE>taken in this Bazelgeuse armor.<LINE>Behind you, a scorched path.
+Bazel Mail<ICON BETA>
+Death Stench Muscle<ICON ALPHA>
+Death Stench Muscle<ICON BETA>
+Guild Cross Suit<ICON ALPHA>
+Armor for Arena champions.<LINE>Proof that the guild has<LINE>recognized the wearer's power.
+Guild Cross Suit<ICON BETA>
+Xeno'jiiva Hide<ICON ALPHA>
+This Xeno'jiiva armor hums with<LINE>energy. If properly controlled, it<LINE>grants the wearer vast power.
+Xeno'jiiva Hide<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zorah Hide<ICON ALPHA>
+Stalwart as a mountain, this<LINE>Zorah Magdaros armor renders its<LINE>wearer unfazed by any hardship.
+Zorah Hide<ICON BETA>
+Commission Jacket<ICON ALPHA>
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Commission Jacket<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Brigade Layered Chest
+Unavailable
+Guild Cross Layered Chest
+Unavailable
+Blossom Layered Chest
+Unavailable
+Diver Layered Chest
+Unavailable
+Harvest Layered Chest
+Unavailable
+Orion Layered Vest
+Unavailable
+Gala Suit Layered Chest
+Unavailable
+Unavailable
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+Unavailable
+Unavailable
+Bayek Layered Chest
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Origin Mail
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Unavailable
+Unavailable
+Kulve Taroth's Ire<ICON ALPHA>
+Kulve Taroth armor that shines with<LINE>a rich light. The terrifying anger<LINE>of the mother goddess lies within.
+Kulve Taroth's Ire<ICON BETA>
+Blossom Vest
+Requires a Spring Blossom Ticket<LINE>to craft. This armor shines with the<LINE>colors of the Spring Blossom Fest.
+Diver's Suit
+Requires a Summer Twilight<LINE>Ticket to craft. Armor that'll have<LINE>you eager for a dip in the ocean.
+Harvest Tronco
+Requires an Autumn Harvest Ticket<LINE>to craft. Put on this costume and<LINE>enjoy the festivities!
+Orion Vest
+Requires a Winter Star Ticket to<LINE>craft. Warm and snug armor so you<LINE>can enjoy the winter festivities.
+Gala Suit Jacket
+Requires an Appreciation Ticket<LINE>to craft. This gorgeous armor dazzles<LINE>as brightly as the Appreciation Fest.
+Samurai Chest
+Unavailable
+Vangis Mail<ICON ALPHA>
+Deviljho armor that bestows epic<LINE>power to its wearer, at the cost<LINE>of a never-ending thirst for flesh.
+Vangis Mail<ICON BETA>
+Unavailable
+Unavailable
+Bushi Muneate "Sabi"
+Unavailable
+Bushi Muneate "Homare"
+Drachen Mail<ICON ALPHA>
+Bestowed upon those worthy of the<LINE>title of Azure Dragoon. Its heart<LINE>does not bend the knee to power.
+Blossom Vest<ICON ALPHA>
+Diver's Suit<ICON ALPHA>
+Harvest Tronco<ICON ALPHA>
+Orion Vest<ICON ALPHA>
+Gala Suit Jacket<ICON ALPHA>
+Butterfly Thorax
+Butterfly Thorax<ICON ALPHA>
+Butterfly Thorax<ICON BETA>
+Queen Beetle Thorax
+Queen Beetle Thorax<ICON ALPHA>
+Queen Beetle Thorax<ICON BETA>
+Vaal Hazak Mail<ICON GAMMA>
+Uniquely crafted Vaal Hazak armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kirin Jacket<ICON GAMMA>
+Uniquely crafted Kirin armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kaiser Mail<ICON GAMMA>
+Uniquely crafted Teostra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kushala Cista<ICON GAMMA>
+Uniquely crafted Kushala Daora<LINE>armor. The immeasurable strength of<LINE>a tempered monster dwells within.
+Nergigante Mail<ICON GAMMA>
+Uniquely crafted Nergigante armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Zorah Hide<ICON GAMMA>
+Uniquely crafted Zorah Magdaros<LINE>armor. The immeasurable strength of<LINE>the monster dwells within.
+Xeno'jiiva Hide<ICON GAMMA>
+Uniquely crafted Xeno'jiiva armor.<LINE>The immeasurable strength of the<LINE>monster dwells within.
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Azure Starlord Armor<ICON ALPHA>
+Armor with a glow reminiscent of an<LINE>azure star. The resolution and hopes<LINE>of the starlord are stored within.
+Dante's Coat<ICON ALPHA>
+Replica coat fashioned after the<LINE>one Dante wears. Because stylish<LINE>action demands stylish fashion.
+Empress Mail<ICON ALPHA>
+Like a sacred treasure stored in a<LINE>fortress, Lunastra's blue flame<LINE>is sealed within.
+Empress Mail<ICON BETA>
+Butterfly Layered Chest
+Unavailable
+Death Stench Layered Chest
+Unavailable
+Dante Layered Chest
+Unavailable
+Drachen Layered Mail
+Unavailable
+Commission Layered Chest
+Unavailable
+Origin Layered Chest
+Unavailable
+Beetle Layered Chest
+Unavailable
+Invalid Message
+Unavailable
+HARDUMMY
+Empress Mail<ICON GAMMA>
+Uniquely crafted Lunastra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Geralt's Body<ICON ALPHA>
+Ciri's Body<ICON ALPHA>
+Geralt Layered Chest
+Unavailable
+Ciri Layered Chest
+Unavailable
+Kulve Taroth's Ire<ICON GAMMA>
+Uniquely crafted Kulve Taroth<LINE>armor. The immeasurable strength<LINE>of the monster dwells within.
+Defender Mail<ICON ALPHA>
+Armor designed for use by the<LINE>Defense Corps. Very elaborate<LINE>in its design.
+Direwolf Layered Mail+
+Armor made for cold regions.<LINE>Its true value is not appreciated<LINE>until it really starts freezing.
+Unavailable
+Bone Mail<ICON ALPHA>+
+Bone Mail<ICON BETA>+
+Alloy Mail<ICON ALPHA>+
+Alloy Mail<ICON BETA>+
+Vespoid Mail<ICON ALPHA>+
+Vespoid chest armor expertly<LINE>crafted to increase the<LINE>wearer's Dragon Resistance.
+Vespoid Mail<ICON BETA>+
+Hornetaur Mail<ICON ALPHA>+
+Armor made of Hornetaur parts.<LINE>Its crafting takes more than<LINE>one hundred steps.
+Hornetaur Mail<ICON BETA>+
+Barnos Jacket<ICON ALPHA>+
+Barnos Jacket<ICON BETA>+
+Cortos Cape<ICON ALPHA>+
+A Cortos cape carefully crafted<LINE>for warmth without compromising<LINE>on defense.
+Cortos Cape<ICON BETA>+
+Jagras Mail<ICON ALPHA>+
+This Great Jagras armor is more<LINE>supple than it appears, granting<LINE>great freedom of movement.
+Jagras Mail<ICON BETA>+
+Tzitzi Mail<ICON ALPHA>+
+Using the sharpest of blues,<LINE>this exquisite chest armor is<LINE>made to resemble a Tzitzi-Ya-Ku.
+Tzitzi Mail<ICON BETA>+
+Girros Mail<ICON ALPHA>+
+The design concept for this<LINE>Great Girros armor is "to bring<LINE>a painless death to one's prey."
+Girros Mail<ICON BETA>+
+Dodogama Mail<ICON ALPHA>+
+Creating this Dodogama armor<LINE>required rethinking the very<LINE>design of the forge itself.
+Dodogama Mail<ICON BETA>+
+Kulu Mail<ICON ALPHA>+
+This armor makes abundant use<LINE>of Kulu-Ya-Ku feathers, resulting<LINE>in a more extravagant product.
+Kulu Mail<ICON BETA>+
+Pukei Mail<ICON ALPHA>+
+Pukei-Pukei armor with improved<LINE>design and durability. Requires<LINE>the sense of a true craftsman.
+Pukei Mail<ICON BETA>+
+Barroth Mail<ICON ALPHA>+
+Chest armor made from Barroth<LINE>parts. So tough it takes months<LINE>to fashion into shape.
+Barroth Mail<ICON BETA>+
+Jyura Mail<ICON ALPHA>+
+This Jyuratodus armor was made<LINE>by purifying dirt and improving<LINE>its smoothness and toughness.
+Jyura Mail<ICON BETA>+
+Beo Mail<ICON ALPHA>+
+Golden fins adorn shell hard as<LINE>cold, black steel in this<LINE>exquisite Beotodus breastplate.
+Beo Mail<ICON BETA>+
+Kadachi Mail<ICON ALPHA>+
+This Tobi-Kadachi armor is highly<LINE>popular among hunters for its<LINE>exquisite silky-smooth fur.
+Kadachi Mail<ICON BETA>+
+High Metal Mail<ICON ALPHA>+
+High Metal Mail<ICON BETA>+
+Banbaro Mail<ICON ALPHA>+
+Wearers of this Banbaro armor<LINE>find peace of mind under layers<LINE>of carapace and white fur.
+Banbaro Mail<ICON BETA>+
+Anja Mail<ICON ALPHA>+
+Modeled after a brave tribe's<LINE>hunting garb, the Anja armor's<LINE>design is a symbol of bravery.
+Anja Mail<ICON BETA>+
+Rathian Mail<ICON ALPHA>+
+Chest armor made from Rathian<LINE>parts. Grants hunters the power<LINE>of fire in all forms.
+Rathian Mail<ICON BETA>+
+Rath Heart Mail<ICON ALPHA>+
+Chest armor made from Pink<LINE>Rathian parts. Grants hunters<LINE>the power of fire in all forms.
+Rath Heart Mail<ICON BETA>+
+Lumu Mail<ICON ALPHA>+
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body type.<LINE>It's flexible and smooth as silk.
+Lumu Mail<ICON BETA>+
+Lumu Phantasm Mail<ICON ALPHA>+
+The iridescent coating upon this<LINE>Nightshade Paolumu garment lends<LINE>it a permanently dewy look.
+Lumu Phantasm Mail<ICON BETA>+
+Pukei Lagoon Mail<ICON ALPHA>+
+The Coral Pukei-Pukei scales of<LINE>this crimson coat offer hunters<LINE>extremely adaptable protection.
+Pukei Lagoon Mail<ICON BETA>+
+Viper Kadachi Mail<ICON ALPHA>+
+Thick layers of Viper Tobi-<LINE>Kadachi hide make this<LINE>coat nigh impenetrable.
+Viper Kadachi Mail<ICON BETA>+
+Baan Mail<ICON ALPHA>+
+A mix of dense plating and bone<LINE>grant this Radobaan armor almost<LINE>enough defense to deflect bullets.
+Baan Mail<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Ingot Mail<ICON ALPHA>+
+Ingot Mail<ICON BETA>+
+Barioth Mail<ICON ALPHA>+
+Chest armor made from Barioth<LINE>parts. The dense armor provides<LINE>outstanding protection.
+Barioth Mail<ICON BETA>+
+Rathalos Mail<ICON ALPHA>+
+Chest armor made from Rathalos<LINE>cortex. It laughs in the face of<LINE>fire and dragon attacks.
+Rathalos Mail<ICON BETA>+
+Diablos Mail<ICON ALPHA>+
+Chest armor made from Diablos<LINE>shell. The power within can reduce<LINE>almost anything to dust.
+Diablos Mail<ICON BETA>+
+Legiana Mail<ICON ALPHA>+
+Armor worn by proven masters of<LINE>the freezing sky. Made of Legiana<LINE>parts, it emits a solemn air.
+Legiana Mail<ICON BETA>+
+Odogaron Mail<ICON ALPHA>+
+This Odogaron armor carries<LINE>the stench of death. Sorrow<LINE>pulses through its seams.
+Odogaron Mail<ICON BETA>+
+Lavasioth Mail<ICON ALPHA>+
+This Lavasioth armor underwent<LINE>a treatment process ten times<LINE>in order to craft. Truly a work of art.
+Lavasioth Mail<ICON BETA>+
+Uragaan Mail<ICON ALPHA>+
+Chest armor made from an<LINE>Uragaan's rocky shell. It can stand<LINE>up to even fierce electrical storms.
+Uragaan Mail<ICON BETA>+
+Nargacuga Mail<ICON ALPHA>+
+Chest armor made of Nargacuga<LINE>parts. Its glossy scales possess<LINE>a dangerously tempting beauty.
+Nargacuga Mail<ICON BETA>+
+Glavenus Mail<ICON ALPHA>+
+Wrapping the body in flames,<LINE>this Glavenus armor frightens<LINE>friend and foe alike.
+Glavenus Mail<ICON BETA>+
+Brachydios Mail<ICON ALPHA>+
+Chest armor made of Brachydios<LINE>parts. It contains a living<LINE>spark that burns all in its path.
+Brachydios Mail<ICON BETA>+
+Tigrex Mail<ICON ALPHA>+
+Chest armor made from Tigrex<LINE>parts. Only one who tames<LINE>the beast may claim it.
+Tigrex Mail<ICON BETA>+
+Fulgur Mail<ICON ALPHA>+
+Lavished with Fulgur Anjanath<LINE>fur, this grand breastplate is<LINE>a mark of pride for any hunter.
+Fulgur Mail<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Black Belt Mail<ICON ALPHA>+
+A reward given by a famed<LINE>teacher to the few pupils<LINE>who meet his standards.
+Black Belt Mail<ICON BETA>+
+Hoarcry Mail<ICON ALPHA>+
+This majestic silver Shrieking<LINE>Legiana armor marks its bearer<LINE>as ruler of the icy gray skies.
+Hoarcry Mail<ICON BETA>+
+Rath Soul Mail<ICON ALPHA>+
+Chest armor made from Azure<LINE>Rathalos cortex. It laughs in the<LINE>face of fire and thunder attacks.
+Rath Soul Mail<ICON BETA>+
+Diablos Nero Mail<ICON ALPHA>+
+Chest armor made from Black<LINE>Diablos shell. The power within can<LINE>reduce almost anything to dust.
+Diablos Nero Mail<ICON BETA>+
+Death Garon Mail<ICON ALPHA>+
+All who wear this Ebony Odogaron<LINE>armor come to revel in feasting<LINE>upon the lives of their prey.
+Death Garon Mail<ICON BETA>+
+Acidic Glavenus Mail<ICON ALPHA>+
+Bristling with razor edges, this<LINE>Acidic Glavenus armor is as<LINE>deadly as any weapon.
+Acidic Glavenus Mail<ICON BETA>+
+Artian Mail<ICON ALPHA>+
+Chest armor made from<LINE>eldritch scraps, which even<LINE>the Smithy struggled with.
+Artian Mail<ICON BETA>+
+Dober Mail<ICON ALPHA>+
+Dober Mail<ICON BETA>+
+Damascus Mail<ICON ALPHA>+
+Damascus Mail<ICON BETA>+
+Rimeguard Mail<ICON ALPHA>+
+None so foolish as to even<LINE>touch this icy Velkhana armor<LINE>shall ever find forgiveness.
+Rimeguard Mail<ICON BETA>+
+Pride Mail<ICON ALPHA>+
+Ease is bondage. Don this<LINE>Seething Bazelgeuse armor<LINE>and leave sleep to the weak.
+Pride Mail<ICON BETA>+
+Fellshroud Mail<ICON ALPHA>+
+This Blackveil Vaal Hazak armor<LINE>shudders with the deathbringer's<LINE>sigh: Age will not be your end.
+Fellshroud Mail<ICON BETA>+
+Kaiser Mail<ICON ALPHA>+
+The Teostra's armor, a crucible<LINE>of fire. Pray, Lord of White<LINE>Fire, for our everlasting glory.
+Kaiser Mail<ICON BETA>+
+Kushala Cista<ICON ALPHA>+
+Armor made of Kushala Daora<LINE>parts. Race into battle like the<LINE>wind, with the pride of a knight.
+Kushala Cista<ICON BETA>+
+Kirin Jacket<ICON ALPHA>+
+Chest armor made from Kirin<LINE>parts. Its prayers are made<LINE>heard via peals of lightning.
+Kirin Jacket<ICON BETA>+
+Tentacle Cloak<ICON ALPHA>+
+Namielle beckons from the abyss:<LINE>Gird your breast, for a heart,<LINE>once lost, can never return.
+Tentacle Cloak<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guild Palace Mail<ICON ALPHA>+
+Chest armor granted to victors<LINE>at the Arena. The symbol of<LINE>a true warrior.
+Guild Palace Mail<ICON BETA>+
+Clockwork Mail<ICON ALPHA>+
+State-of-the-art armor with a<LINE>shock-resisting structure.<LINE>Stouter than it looks.
+Clockwork Mail<ICON BETA>+
+Ruinous Mail<ICON ALPHA>+
+Ruiner Nergigante mail that<LINE>devours a hunter's soul in<LINE>trade for heedless bravery.
+Ruinous Mail<ICON BETA>+
+Shara Ishvalda Mail<ICON ALPHA>+
+Lotus petals adorn this Shara<LINE>Ishvalda breastplate, graceful<LINE>and proud as nature itself.
+Shara Ishvalda Mail<ICON BETA>+
+Esurient Mail<ICON ALPHA>+
+Chest armor imbued with the<LINE>Savage Deviljho's black ire<LINE>and unquenchable bloodthirst.
+Esurient Mail<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guildwork Body<ICON ALPHA>+
+Armor given to those who aid<LINE>the Guild. No muscle can replace<LINE>an adaptability to adversity.
+Guildwork Body<ICON BETA>+
+Golden Lunemail<ICON ALPHA>+
+Chest armor made of Gold<LINE>Rathian parts. Nothing can<LINE>dim its brilliant color.
+Golden Lunemail<ICON BETA>+
+Silver Solmail<ICON ALPHA>+
+Chest armor made of Silver<LINE>Rathalos parts. Attacks burn<LINE>away before they can hit.
+Silver Solmail<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zinogre Mail<ICON ALPHA>+
+Chest armor made of Zinogre<LINE>parts. Its owner fights as if<LINE>possessed by a demon.
+Zinogre Mail<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Garuga Mail<ICON ALPHA>+
+Chest armor made from Yian<LINE>Garuga parts. It is said the<LINE>beast's rage dwells within it.
+Garuga Mail<ICON BETA>+
+Zorah Hide<ICON ALPHA>+
+Zorah Hide<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Empress Mail<ICON ALPHA>+
+Resplendent Lunastra mail forged<LINE>through a secret technique that<LINE>makes it nigh-indestructible.
+Empress Mail<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Vest<ICON ALPHA>+
+Requires a Joyful Ticket to craft.<LINE>Performances of those donning<LINE>this garb resemble a dragon<LINE>soaring through the heavens.
+Unavailable
+Astral Cloth<ICON ALPHA>+
+Requires a Gratitude Ticket to<LINE>craft. Snatch the stars from the<LINE>sky and become the banquet itself.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Layered Chest
+Unavailable
+Astral Layered Chest
+Unavailable
+Unavailable
+Unavailable
+Thermae Layered Chest
+Unavailable
+Buff Chest<ICON ALPHA>+
+A pair of impeccable pecs.<LINE>Well-honed pectoralis majors<LINE>are a mark of pride.
+Rex Roar Mail<ICON ALPHA>+
+A lingering aura of destruction<LINE>emanates from this terrifying<LINE>Brute Tigrex mail.
+Rex Roar Mail<ICON BETA>+
+Guardian Suit<ICON ALPHA>+
+The mail of a knight sworn to<LINE>the city's defense. Impossibly<LINE>detailed in its ornamentation.
+Yukumo Layered Dogi
+Unavailable
+Silver Knight Layered Chest
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Leather Gloves
+Armor made of treated monster<LINE>hide. A safe choice, designed<LINE>for multi-purpose use.
+Chainmail Gloves
+Armor made of woven chain links.<LINE>Its familiar design inspires<LINE>trust in hunters who wear it.
+Hunter's Vambraces
+Armor widely used among<LINE>hunters. Light and tough.
+Bone Vambraces
+Traditional armor crafted from<LINE>monster bones. Believe it or not,<LINE>it offers pretty good insulation.
+Alloy Vambraces
+Armor made of fine machalite<LINE>ore. What it lacks in charm it<LINE>more than makes up in defense.
+Vespoid Vambraces
+Armor made from hard Vespoid<LINE>carapace. Though weak to fire<LINE>element, it offers solid defense.
+Kestodon Guards
+The ease of obtaining Kestodon<LINE>materials makes these armguards<LINE>popular with the research team.
+Jagras Vambraces
+Diligently polished Great Jagras<LINE>scale marries steel in beautiful<LINE>harmony in this armor.
+Kulu Vambraces
+The elegant color and beautiful<LINE>design of this Kulu-Ya-Ku armor<LINE>make it perennially popular.
+Pukei Vambraces
+Pukei-Pukei armor engineered to<LINE>protect vital body parts with a<LINE>very modest amount of materials.
+Barroth Vambraces
+A wyvern could trample this<LINE>armor made of Barroth shell and<LINE>not leave a single crack.
+Jyura Vambraces
+A special process was used to treat<LINE>the hard mud caked on this Jyuratodus<LINE>armor in order to improve durability.
+Kadachi Vambraces
+Exquisitely light, this soft<LINE>Tobi-Kadachi armor is so comfy<LINE>you can barely feel it on.
+High Metal Braces
+Armor made from a generous<LINE>portion of ore. Don't worry,<LINE>it breathes surprisingly well.
+Hornetaur Vambraces
+Armor plated in hard Hornetaur<LINE>parts so lustrous you'll swear<LINE>it's polished metal.
+Anja Vambraces
+Modeled after an unknown tribe's<LINE>hunting garb, the Anja armor's<LINE>design is a symbol of bravery.
+Rathian Vambraces
+Replete with queenly refinement,<LINE>grace, and might, this sleek<LINE>Rathian armor has it all.
+Tzitzi Vambraces
+By using a portion of the head<LINE>as-is, this Tzitzi-Ya-Ku armor<LINE>also serves as a fine trophy.
+Lumu Vambraces
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape, doesn't<LINE>even feel like you're wearing armor.
+Girros Vambraces
+In addition to protecting the<LINE>body, this Great Girros armor<LINE>aids a hunter's respiration.
+Baan Vambraces
+A mix of heavy plating and bone<LINE>grant this Radobaan armor almost<LINE>impenetrable defense.
+King Beetle Brachia
+Armor to fulfill the ambitions<LINE>of those who dreamed of wielding<LINE>the power to rule over bugdom.
+Butterfly Brachia
+Dazzling armor made from insect<LINE>parts. Its light weight and color<LINE>are proof of one's class.
+Ingot Vambraces
+Armor crafted from brilliant gold<LINE>ore. Its color and design are<LINE>both highly pleasing.
+Legiana Vambraces
+Armor worn by proven masters of<LINE>the wind. Made of Legiana parts,<LINE>it glistens a piercing blue.
+Odogaron Vambraces
+None who lay eyes upon this<LINE>Odogaron armor are seen again,<LINE>as it erodes the wearer's sanity.
+Rathalos Vambraces
+Crafted from parts carved from<LINE>the King of the Skies, this crimson<LINE>armor boasts overwhelming defense.
+Diablos Vambraces
+The bold horns on this Diablos<LINE>armor are a challenge to any who<LINE>doubt your rule over the sands.
+Kirin Longarms
+Don this gorgeous Kirin armor and<LINE>canter through the wilderness living<LINE>out your wildest equine fantasies.
+Death Stench Grip
+Accursed armor, said to bring<LINE>death. The wearer hears echoes<LINE>of their victim's death throes.
+Brigade Vambraces
+Guild-exclusive armor for Arena<LINE>champions. Forged by a master<LINE>smithy. No weak points.
+Leather Gloves<ICON ALPHA>
+Leather Gloves<ICON BETA>
+Chainmail Gloves<ICON ALPHA>
+Chainmail Gloves<ICON BETA>
+Hunter's Vambraces<ICON ALPHA>
+Hunter's Vambraces<ICON BETA>
+Bone Vambraces<ICON ALPHA>
+Bone Vambraces<ICON BETA>
+Alloy Vambraces<ICON ALPHA>
+Alloy Vambraces<ICON BETA>
+Vespoid Vambraces<ICON ALPHA>
+Vespoid Vambraces<ICON BETA>
+Hornetaur Vambraces<ICON ALPHA>
+Hornetaur Vambraces<ICON BETA>
+Kestodon Guards<ICON ALPHA>
+Kestodon Guards<ICON BETA>
+Jagras Vambraces<ICON ALPHA>
+Jagras Vambraces<ICON BETA>
+Kulu Vambraces<ICON ALPHA>
+Kulu Vambraces<ICON BETA>
+Pukei Vambraces<ICON ALPHA>
+Pukei Vambraces<ICON BETA>
+Barroth Vambraces<ICON ALPHA>
+Barroth Vambraces<ICON BETA>
+Jyura Vambraces<ICON ALPHA>
+Jyura Vambraces<ICON BETA>
+Kadachi Vambraces<ICON ALPHA>
+Kadachi Vambraces<ICON BETA>
+Anja Vambraces<ICON ALPHA>
+Anja Vambraces<ICON BETA>
+Rathian Vambraces<ICON ALPHA>
+Rathian Vambraces<ICON BETA>
+Tzitzi Vambraces<ICON ALPHA>
+Tzitzi Vambraces<ICON BETA>
+Lumu Vambraces<ICON ALPHA>
+Lumu Vambraces<ICON BETA>
+Girros Vambraces<ICON ALPHA>
+Girros Vambraces<ICON BETA>
+Baan Vambraces<ICON ALPHA>
+Baan Vambraces<ICON BETA>
+High Metal Braces<ICON ALPHA>
+High Metal Braces<ICON BETA>
+Ingot Vambraces<ICON ALPHA>
+Ingot Vambraces<ICON BETA>
+Rath Heart Braces<ICON ALPHA>
+Rathian armor that exhibits such<LINE>a regal presence that it leaves all<LINE>who see it captivated and awed.
+Rath Heart Braces<ICON BETA>
+Legiana Vambraces<ICON ALPHA>
+Legiana Vambraces<ICON BETA>
+Odogaron Vambraces<ICON ALPHA>
+Odogaron Vambraces<ICON BETA>
+Rathalos Vambraces<ICON ALPHA>
+Rathalos Vambraces<ICON BETA>
+Rath Soul Braces<ICON ALPHA>
+Azure armor imbued with absolute<LINE>power. Those who wear it are<LINE>destined to make history.
+Rath Soul Braces<ICON BETA>
+Diablos Vambraces<ICON ALPHA>
+Diablos Vambraces<ICON BETA>
+Diablos Nero Braces<ICON ALPHA>
+Brutal-looking armor made from<LINE>Black Diablos parts. So imposing<LINE>none so much as dare approach it.
+Diablos Nero Braces<ICON BETA>
+Dodogama Vambraces<ICON ALPHA>
+Thoroughly tempered to extreme<LINE>hardness, this Dodogama armor<LINE>will outlast any impact.
+Dodogama Vambraces<ICON BETA>
+Lavasioth Vambraces<ICON ALPHA>
+Thick Lavasioth shell underwent<LINE>a painstaking treatment process to<LINE>yield this armor. Truly a work of art.
+Lavasioth Vambraces<ICON BETA>
+Uragaan Vambraces<ICON ALPHA>
+Heavy armor made of heavy<LINE>Uragaan parts, and every ounce<LINE>of it adds to its defense.
+Uragaan Vambraces<ICON BETA>
+Nergigante Vambraces<ICON ALPHA>
+This Nergigante armor is said<LINE>to feed on a hunter's spirit in<LINE>exchange for its brutal power.
+Nergigante Vambraces<ICON BETA>
+Nergigante armor fit to enrobe<LINE>one who would usher in a new<LINE>world by razing this one.
+King Beetle Brachia<ICON ALPHA>
+King Beetle Brachia<ICON BETA>
+Butterfly Brachia<ICON ALPHA>
+Butterfly Brachia<ICON BETA>
+Brigade Vambraces<ICON ALPHA>
+Brigade Vambraces<ICON BETA>
+Damascus Vambraces<ICON ALPHA>
+This legendary iron steel armor<LINE>is said to lead its wearer down<LINE>the conqueror's path.
+Damascus Vambraces<ICON BETA>
+Dober Vambraces<ICON ALPHA>
+Armor fashioned from obsidian bone<LINE>of unknown provenance. It resembles<LINE>an all-powerful monster.
+Dober Vambraces<ICON BETA>
+Kushala Grip<ICON ALPHA>
+Armor made from Kushala Daora<LINE>parts. It resembles the statue of<LINE>an ancient deity come to life.
+Kushala Grip<ICON BETA>
+Kaiser Vambraces<ICON ALPHA>
+Forged from parts carved from<LINE>a Teostra, this armor is host to<LINE>the Flame King Dragon's soul.
+Kaiser Vambraces<ICON BETA>
+Kirin Longarms<ICON ALPHA>
+Kirin Longarms<ICON BETA>
+Vaal Hazak Braces<ICON ALPHA>
+Whispers haunt this Vaal Hazak<LINE>armor, urging any who don it to<LINE>embrace despair, and consume...
+Vaal Hazak Braces<ICON BETA>
+Bazel Vambraces<ICON ALPHA>
+The earth quivers beneath each step<LINE>taken in this Bazelgeuse armor.<LINE>Behind you, a scorched path.
+Bazel Vambraces<ICON BETA>
+Death Stench Grip<ICON ALPHA>
+Death Stench Grip<ICON BETA>
+Guild Cross Vambraces<ICON ALPHA>
+Armor for Arena champions.<LINE>Worthy of its wearer's power.<LINE>Complex construction.
+Guild Cross Vambraces<ICON BETA>
+Xeno'jiiva Claws<ICON ALPHA>
+This Xeno'jiiva armor hums with<LINE>energy. If properly controlled, it<LINE>grants the wearer vast power.
+Xeno'jiiva Claws<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zorah Claws<ICON ALPHA>
+Stalwart as a mountain, this<LINE>Zorah Magdaros armor renders its<LINE>wearer unfazed by any hardship.
+Zorah Claws<ICON BETA>
+Commission Vambraces<ICON ALPHA>
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Commission Vambraces<ICON BETA>
+Brigade Layered Arms
+Unavailable
+Guild Cross Layered Arms
+Unavailable
+Blossom Layered Arms
+Unavailable
+Diver Layered Arms
+Unavailable
+Harvest Layered Arms
+Unavailable
+Orion Layered Arms
+Unavailable
+Gala Suit Layered Arms
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Bayek Layered Arms
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Origin Vambraces
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Unavailable
+Unavailable
+Kulve Taroth's Rage<ICON ALPHA>
+Kulve Taroth armor that shines with<LINE>a rich light. The terrifying anger<LINE>of the mother goddess lies within.
+Kulve Taroth's Rage<ICON BETA>
+Blossom Cuffs
+Requires a Spring Blossom Ticket<LINE>to craft. This armor shines with the<LINE>colors of the Spring Blossom Fest.
+Diver's Braces
+Requires a Summer Twilight<LINE>Ticket to craft. Armor that'll have<LINE>you eager for a dip in the ocean.
+Harvest Trama
+Requires an Autumn Harvest Ticket<LINE>to craft. Put on this costume and<LINE>enjoy the festivities!
+Orion Vambraces
+Requires a Winter Star Ticket to<LINE>craft. Warm and snug armor so you<LINE>can enjoy the winter festivities.
+Gala Suit Cuffs
+Requires an Appreciation Ticket<LINE>to craft. This gorgeous armor dazzles<LINE>as brightly as the Appreciation Fest.
+Samurai Arms
+Unavailable
+Vangis Vambraces<ICON ALPHA>
+Deviljho armor that bestows epic<LINE>power to its wearer, at the cost<LINE>of a never-ending thirst for flesh.
+Vangis Vambraces<ICON BETA>
+Unavailable
+Unavailable
+Bushi Kote "Sabi"
+Unavailable
+Bushi Kote "Homare"
+Drachen Vambraces<ICON ALPHA>
+Bestowed upon those worthy of the<LINE>title Azure Dragoon. Aims for a<LINE>dragon's vitals with firm precision.
+Blossom Cuffs<ICON ALPHA>
+Diver's Braces<ICON ALPHA>
+Harvest Trama<ICON ALPHA>
+Orion Vambraces<ICON ALPHA>
+Gala Suit Cuffs<ICON ALPHA>
+Butterfly Brachia
+Butterfly Brachia<ICON ALPHA>
+Butterfly Brachia<ICON BETA>
+Queen Beetle Brachia
+Queen Beetle Brachia<ICON ALPHA>
+Queen Beetle Brachia<ICON BETA>
+Vaal Hazak Braces<ICON GAMMA>
+Uniquely crafted Vaal Hazak armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kirin Longarms<ICON GAMMA>
+Uniquely crafted Kirin armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kaiser Vambraces<ICON GAMMA>
+Uniquely crafted Teostra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kushala Grip<ICON GAMMA>
+Uniquely crafted Kushala Daora<LINE>armor. The immeasurable strength of<LINE>a tempered monster dwells within.
+Nergigante Vambraces<ICON GAMMA>
+Uniquely crafted Nergigante armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Zorah Claws<ICON GAMMA>
+Uniquely crafted Zorah Magdaros<LINE>armor. The immeasurable strength of<LINE>the monster dwells within.
+Xeno'jiiva Claws<ICON GAMMA>
+Uniquely crafted Xeno'jiiva armor.<LINE>The immeasurable strength of the<LINE>monster dwells within.
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Azure Starlord Gauntlets<ICON ALPHA>
+Armor with a glow reminiscent of<LINE>an azure star. Crafted to help fulfill<LINE>the ambitions of the starlord.
+Dante's Gloves<ICON ALPHA>
+Replica gloves fashioned after the<LINE>ones that Dante wears. Lets you go<LINE>crazy with the greatest of ease.
+Empress Vambraces<ICON ALPHA>
+The specially engineered blue hue<LINE>on this Lunastra armor can charm<LINE>even the most righteous of hearts.
+Empress Vambraces<ICON BETA>
+Butterfly Layered Arms
+Unavailable
+Death Stench Layered Arms
+Unavailable
+Dante Layered Arms
+Unavailable
+Drachen Layered Arms
+Unavailable
+Commission Layered Arms
+Unavailable
+Origin Layered Arms
+Unavailable
+Beetle Layered Arms
+Unavailable
+Invalid Message
+Unavailable
+HARDUMMY
+Empress Vambraces<ICON GAMMA>
+Uniquely crafted Lunastra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Geralt's Arms<ICON ALPHA>
+Ciri's Arms<ICON ALPHA>
+Geralt Layered Arms
+Unavailable
+Ciri Layered Arms
+Unavailable
+Kulve Taroth's Rage<ICON GAMMA>
+Uniquely crafted Kulve Taroth<LINE>armor. The immeasurable strength<LINE>of the monster dwells within.
+Defender Vambraces<ICON ALPHA>
+Armor designed for use by the<LINE>Defense Corps. It was designed<LINE>for battle, not pomp.
+Direwolf Layered Braces+
+Armor made for cold regions.<LINE>Light and warm, and protects<LINE>the fingers from freezing.
+Unavailable
+Bone Vambraces<ICON ALPHA>+
+Bone Vambraces<ICON BETA>+
+Alloy Vambraces<ICON ALPHA>+
+Alloy Vambraces<ICON BETA>+
+Vespoid Vambraces<ICON ALPHA>+
+Vambraces made of Vespoid<LINE>materials. Carries the insect's<LINE>distinctive shine.
+Vespoid Vambraces<ICON BETA>+
+Hornetaur Vambraces<ICON ALPHA>+
+Armor made of Hornetaur material.<LINE>Even small parts are crafted<LINE>with attention to detail.
+Hornetaur Vambraces<ICON BETA>+
+Kestodon Guards<ICON ALPHA>+
+Kestodon Guards<ICON BETA>+
+Jagras Vambraces<ICON ALPHA>+
+This Great Jagras armor<LINE>feels as good to touch<LINE>as it does to wear.
+Jagras Vambraces<ICON BETA>+
+Tzitzi Vambraces<ICON ALPHA>+
+Tzitzi-Ya-Ku armor with increased<LINE>shock dispersion, using highly<LINE>flexible materials.
+Tzitzi Vambraces<ICON BETA>+
+Girros Vambraces<ICON ALPHA>+
+The dye used to create the yellow<LINE>accents were made by extracting<LINE>the bodily fluids from a Great Girros.
+Girros Vambraces<ICON BETA>+
+Dodogama Vambraces<ICON ALPHA>+
+An extra layer of coating made<LINE>of scales grants this Dodogama<LINE>armor greatly increased durability.
+Dodogama Vambraces<ICON BETA>+
+Kulu Vambraces<ICON ALPHA>+
+This Kulu-Ya-Ku armor may look<LINE>light, but it sports high defense<LINE>thanks to quality materials.
+Kulu Vambraces<ICON BETA>+
+Pukei Vambraces<ICON ALPHA>+
+Carefully sewn by an experienced<LINE>craftsman, this Pukei-Pukei armor<LINE>sports leather's best qualities.
+Pukei Vambraces<ICON BETA>+
+Barroth Vambraces<ICON ALPHA>+
+Vambraces made from Barroth<LINE>plate. They say a hunter wearing<LINE>them toppled a beast bare-handed.
+Barroth Vambraces<ICON BETA>+
+Jyura Vambraces<ICON ALPHA>+
+This armor has greatly increased<LINE>durability thanks to a reinforced<LINE>core using Jyuratodus scales.
+Jyura Vambraces<ICON BETA>+
+Beo Vambraces<ICON ALPHA>+
+Supple as they are tough, these<LINE>steely black and gold Beotodus<LINE>braces boast great dexterity.
+Beo Vambraces<ICON BETA>+
+Kadachi Vambraces<ICON ALPHA>+
+The fur on this Tobi-Kadachi<LINE>armor never loses its pure white<LINE>sheen, no matter the circumstances.
+Kadachi Vambraces<ICON BETA>+
+High Metal Braces<ICON ALPHA>+
+High Metal Braces<ICON BETA>+
+Banbaro Vambraces<ICON ALPHA>+
+Banbaro gloves of hard carapace<LINE>and dense, white fur. Ideal when<LINE>hunting in sub-zero weather.
+Banbaro Vambraces<ICON BETA>+
+Anja Vambraces<ICON ALPHA>+
+Modeled after a brave tribe's<LINE>hunting garb, this Anjanath armor's<LINE>design is a symbol of wisdom.
+Anja Vambraces<ICON BETA>+
+Rathian Vambraces<ICON ALPHA>+
+Vambraces made from Rathian<LINE>parts. Their faint green glow<LINE>reminds one of the noble Queen.
+Rathian Vambraces<ICON BETA>+
+Rath Heart Braces<ICON ALPHA>+
+Vambraces made from Pink Rathian<LINE>parts. Their light pink glow<LINE>reminds one of the noble Queen.
+Rath Heart Braces<ICON BETA>+
+Lumu Vambraces<ICON ALPHA>+
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape, with<LINE>an immensely pleasant texture.
+Lumu Vambraces<ICON BETA>+
+Lumu Phantasm Braces<ICON ALPHA>+
+Light cannot escape the ebon fur<LINE>of these Nightshade Paolumu<LINE>gloves. Neither can your prey.
+Lumu Phantasm Braces<ICON BETA>+
+Pukei Lagoon Braces<ICON ALPHA>+
+These Coral Pukei-Pukei gloves<LINE>are strong as iron, yet offer<LINE>uncompromising range of motion.
+Pukei Lagoon Braces<ICON BETA>+
+Viper Kadachi Braces<ICON ALPHA>+
+Viper Tobi-Kadachi gloves built<LINE>for protection without impeding<LINE>manual dexterity.
+Viper Kadachi Braces<ICON BETA>+
+Baan Vambraces<ICON ALPHA>+
+The wearer of this Radobaan armor<LINE>becomes an impregnable fortress,<LINE>shrugging off shocks with ease.
+Baan Vambraces<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Ingot Vambraces<ICON ALPHA>+
+Ingot Vambraces<ICON BETA>+
+Barioth Vambraces<ICON ALPHA>+
+Vambraces made from Barioth<LINE>parts. Plates white as snow<LINE>protect the forearms.
+Barioth Vambraces<ICON BETA>+
+Rathalos Vambraces<ICON ALPHA>+
+Vambraces made from Rathalos<LINE>parts. Imbued with the might<LINE>of wyvern-kind.
+Rathalos Vambraces<ICON BETA>+
+Diablos Vambraces<ICON ALPHA>+
+Vambraces made from Diablos shell.<LINE>A hunter wearing these once broke<LINE>the beast's horns with his hands.
+Diablos Vambraces<ICON BETA>+
+Legiana Vambraces<ICON ALPHA>+
+Armor worn by proven masters of<LINE>the freezing sky. Made of Legiana<LINE>parts, it emits a lethal cold.
+Legiana Vambraces<ICON BETA>+
+Odogaron Vambraces<ICON ALPHA>+
+This Odogaron armor conjures up<LINE>visions of hell. Its brute nature<LINE>always demands more sacrifices.
+Odogaron Vambraces<ICON BETA>+
+Lavasioth Vambraces<ICON ALPHA>+
+These Lavasioth braces underwent<LINE>a painstaking process in order to<LINE>craft. Truly a work of art.
+Lavasioth Vambraces<ICON BETA>+
+Uragaan Vambraces<ICON ALPHA>+
+Vambraces made from Uragaan parts.<LINE>Strong enough to stop a stream of<LINE>lava with only your hands.
+Uragaan Vambraces<ICON BETA>+
+Nargacuga Braces<ICON ALPHA>+
+Braces made of Nargacuga parts.<LINE>They clasp weapons like a vice.
+Nargacuga Braces<ICON BETA>+
+Glavenus Braces<ICON ALPHA>+
+Vambraces made from Glavenus<LINE>parts. Foes kneel with a<LINE>wave of your hand.
+Glavenus Braces<ICON BETA>+
+Brachydios Braces<ICON ALPHA>+
+Vambraces with the strength of<LINE>a Brachydios. They leave pale<LINE>white trails whenever swung.
+Brachydios Braces<ICON BETA>+
+Tigrex Braces<ICON ALPHA>+
+Tigrex armor with fiendishly<LINE>brutal strength that is<LINE>completely otherworldly.
+Tigrex Braces<ICON BETA>+
+Fulgur Vambraces<ICON ALPHA>+
+Bold, yet delicate, these Fulgur<LINE>Anjanath braces are a testament<LINE>to the Smithy workers' skill.
+Fulgur Vambraces<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Black Belt Braces<ICON ALPHA>+
+A reward given by a famed<LINE>teacher to the few pupils<LINE>who show true dedication.
+Black Belt Braces<ICON BETA>+
+Hoarcry Vambraces<ICON ALPHA>+
+These silver Shrieking Legiana<LINE>braces emanate the wintery fury<LINE>of the master of the icy gray skies.
+Hoarcry Vambraces<ICON BETA>+
+Rath Soul Braces<ICON ALPHA>+
+Vambraces made from Azure<LINE>Rathalos parts. Imbued with<LINE>the might of wyvern-kind.
+Rath Soul Braces<ICON BETA>+
+Diablos Nero Braces<ICON ALPHA>+
+Armor made from Black Diablos shell.<LINE>A hunter wearing these once broke<LINE>the beast's horns with his hands.
+Diablos Nero Braces<ICON BETA>+
+Death Garon Braces<ICON ALPHA>+
+Take up a weapon while clad in<LINE>these Ebony Odogaron braces to<LINE>awaken your predatory instincts.
+Death Garon Braces<ICON BETA>+
+Acidic Glavenus Braces<ICON ALPHA>+
+The keen edges on these Acidic<LINE>Glavenus gauntlets transform the<LINE>user's arms into deadly blades.
+Acidic Glavenus Braces<ICON BETA>+
+Artian Vambraces<ICON ALPHA>+
+Vambraces made from<LINE>eldritch scraps. New finds<LINE>have improved the form.
+Artian Vambraces<ICON BETA>+
+Dober Vambraces<ICON ALPHA>+
+Dober Vambraces<ICON BETA>+
+Damascus Vambraces<ICON ALPHA>+
+Damascus Vambraces<ICON BETA>+
+Rimeguard Vambraces<ICON ALPHA>+
+All who lay eyes on these Velkhana<LINE>gauntlets bow in reverence to the<LINE>iron grasp of the hegemon.
+Rimeguard Vambraces<ICON BETA>+
+Pride Vambraces<ICON ALPHA>+
+Tranquility is stagnation. These<LINE>Seething Bazelgeuse fists shape<LINE>order from chaos through action.
+Pride Vambraces<ICON BETA>+
+Fellshroud Braces<ICON ALPHA>+
+These Blackveil Vaal Hazak braces<LINE>whisper the deathbringer's query:<LINE>Can the living transcend death?
+Fellshroud Braces<ICON BETA>+
+Kaiser Vambraces<ICON ALPHA>+
+Armor made from Teostra parts.<LINE>Lead us, Divine Lord, toward<LINE>prosperity.
+Kaiser Vambraces<ICON BETA>+
+Kushala Grip<ICON ALPHA>+
+Armor made of Kushala Daora<LINE>parts. The way of chivalry is<LINE>only permitted to the virtuous.
+Kushala Grip<ICON BETA>+
+Kirin Longarms<ICON ALPHA>+
+Armor made from Kirin parts.<LINE>The heavens answer its prayer<LINE>like bolts from the blue.
+Kirin Longarms<ICON BETA>+
+Tentacle Gloves<ICON ALPHA>+
+Namielle beckons from the abyss:<LINE>The pull of its dark allure is<LINE>tight as the grip of these gloves.
+Tentacle Gloves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guild Palace Braces<ICON ALPHA>+
+Vambraces granted to victors<LINE>at the Arena. The symbol of<LINE>a stalwart fighter.
+Guild Palace Braces<ICON BETA>+
+Clockwork Braces<ICON ALPHA>+
+State-of-the-art armor with a<LINE>power mechanism that supports<LINE>arm movement.
+Clockwork Braces<ICON BETA>+
+Ruinous Vambraces<ICON ALPHA>+
+Ruiner Nergigante vambraces<LINE>that devour a hunter's soul in<LINE>trade for dauntless resolve.
+Ruinous Vambraces<ICON BETA>+
+Shara Ishvalda Braces<ICON ALPHA>+
+Though decadently ornamented,<LINE>these Shara Ishvalda arms are<LINE>stout and resolute as bedrock.
+Shara Ishvalda Braces<ICON BETA>+
+Esurient Vambraces<ICON ALPHA>+
+This Savage Deviljho armor is<LINE>powerful enough to strike down your<LINE>prey and subdue giant monsters.
+Esurient Vambraces<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guildwork Braces<ICON ALPHA>+
+Vambraces given to those who aid<LINE>the Guild. No weapon can replace<LINE>the drive to hone one's skills.
+Guildwork Braces<ICON BETA>+
+Golden Lunebraces<ICON ALPHA>+
+The faint shimmer of this Gold<LINE>Rathian armor has captured<LINE>the hearts of many hunters.
+Golden Lunebraces<ICON BETA>+
+Silver Solbraces<ICON ALPHA>+
+The effects of this Silver Rathalos<LINE>armor extend to the hunter's weapon,<LINE>increasing its sharpness.
+Silver Solbraces<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zinogre Braces<ICON ALPHA>+
+These Zinogre vambraces<LINE>make it very clear that<LINE>power is everything.
+Zinogre Braces<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Garuga Vambraces<ICON ALPHA>+
+Vambraces made from Yian<LINE>Garuga parts. The anger inside<LINE>deflects attacks.
+Garuga Vambraces<ICON BETA>+
+Zorah Claws<ICON ALPHA>+
+Zorah Claws<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Empress Vambraces<ICON ALPHA>+
+Donning these Lunastra<LINE>braces lights an azure flame<LINE>deep within the wearer's heart.
+Empress Vambraces<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Sleeves<ICON ALPHA>+
+Requires a Joyful Ticket to craft.<LINE>Performances of those donning<LINE>this garb resemble a dragon<LINE>soaring through the heavens.
+Unavailable
+Astral Scarf<ICON ALPHA>+
+Requires a Gratitude Ticket to<LINE>craft. Snatch the stars from the<LINE>sky and become the banquet itself.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Layered Arms
+Unavailable
+Astral Layered Arms
+Unavailable
+Unavailable
+Unavailable
+Thermae Layered Cuffs
+Unavailable
+Buff Arms<ICON ALPHA>+
+Rock-solid guns so refined,<LINE>even crying babies are<LINE>awed into silence.
+Rex Roar Braces<ICON ALPHA>+
+These braces stand as proof<LINE>of triumph over a Brute Tigrex,<LINE>striking terror into one's foes.
+Rex Roar Braces<ICON BETA>+
+Guardian Vambraces<ICON ALPHA>+
+The vambraces of a knight sworn<LINE>to the city's defense. Practical<LINE>and unadorned.
+Yukumo Layered Kote
+Unavailable
+Silver Knight Layered Arms
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Leather Belt
+Armor made of treated monster<LINE>hide. A safe choice, designed<LINE>for multi-purpose use.
+Chainmail Belt
+Armor made of woven chain links.<LINE>Its familiar design inspires<LINE>trust in hunters who wear it.
+Hunter's Coil
+Armor widely used among<LINE>hunters. Made to withstand<LINE>hard blows.
+Bone Coil
+Traditional armor crafted from<LINE>monster bones. Believe it or not,<LINE>it offers pretty good insulation.
+Alloy Coil
+Armor made of fine machalite<LINE>ore. What it lacks in charm it<LINE>more than makes up in defense.
+Vespoid Coil
+Armor made from hard Vespoid<LINE>carapace. Though weak to fire<LINE>element, it offers solid defense.
+Jagras Coil
+Diligently polished Great Jagras<LINE>scale marries steel in beautiful<LINE>harmony in this armor.
+Kulu Coil
+The elegant color and beautiful<LINE>design of this Kulu-Ya-Ku armor<LINE>make it perennially popular.
+Pukei Coil
+Pukei-Pukei armor engineered to<LINE>protect vital body parts with a<LINE>very modest amount of materials.
+Barroth Coil
+A wyvern could trample this<LINE>armor made of Barroth shell and<LINE>not leave a single crack.
+Jyura Coil
+A special process was used to treat<LINE>the hard mud caked on this Jyuratodus<LINE>armor in order to improve durability.
+Kadachi Coil
+Exquisitely light, this soft<LINE>Tobi-Kadachi armor is so comfy<LINE>you can barely feel it on.
+High Metal Coil
+Armor made from a generous<LINE>portion of ore. Don't worry,<LINE>it breathes surprisingly well.
+Hornetaur Coil
+Armor plated in hard Hornetaur<LINE>parts so lustrous you'll swear<LINE>it's polished metal.
+Anja Coil
+Modeled after an unknown tribe's<LINE>hunting garb, the Anja armor's<LINE>design is a symbol of bravery.
+Rathian Coil
+Replete with queenly refinement,<LINE>grace, and might, this sleek<LINE>Rathian armor has it all.
+Tzitzi Coil
+By using a portion of the head<LINE>as-is, this Tzitzi-Ya-Ku armor<LINE>also serves as a fine trophy.
+Lumu Coil
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape, doesn't<LINE>even feel like you're wearing armor.
+Girros Coil
+In addition to protecting the<LINE>body, this Great Girros armor<LINE>aids a hunter's respiration.
+Baan Coil
+A mix of heavy plating and bone<LINE>grant this Radobaan armor almost<LINE>impenetrable defense.
+King Beetle Elytra
+Armor to fulfill the ambitions<LINE>of those who dreamed of wielding<LINE>the power to rule over bugdom.
+Butterfly Elytra
+Dazzling armor made from insect<LINE>parts. Its light weight and color<LINE>are proof of one's class.
+Ingot Coil
+Armor crafted from brilliant gold<LINE>ore. Its color and design are<LINE>both highly pleasing.
+Legiana Coil
+Armor worn by proven masters of<LINE>the wind. Made of Legiana parts,<LINE>it glistens a piercing blue.
+Odogaron Coil
+None who lay eyes upon this<LINE>Odogaron armor are seen again,<LINE>as it erodes the wearer's sanity.
+Rathalos Coil
+Crafted from parts carved from<LINE>the King of the Skies, this crimson<LINE>armor boasts overwhelming defense.
+Diablos Coil
+The bold horns on this Diablos<LINE>armor are a challenge to any who<LINE>doubt your rule over the sands.
+Kirin Hoop
+Don this gorgeous Kirin armor and<LINE>canter through the wilderness living<LINE>out your wildest equine fantasies.
+Death Stench Bowels
+Accursed armor, said to bring<LINE>death. The wearer hears echoes<LINE>of their victim's death throes.
+Brigade Coil
+Guild-exclusive armor for Arena<LINE>champions. Sturdy yet flexible.<LINE>Made from quality materials.
+Leather Belt<ICON ALPHA>
+Leather Belt<ICON BETA>
+Chainmail Belt<ICON ALPHA>
+Chainmail Belt<ICON BETA>
+Hunter's Coil<ICON ALPHA>
+Hunter's Coil<ICON BETA>
+Bone Coil<ICON ALPHA>
+Bone Coil<ICON BETA>
+Alloy Coil<ICON ALPHA>
+Alloy Coil<ICON BETA>
+Vespoid Coil<ICON ALPHA>
+Vespoid Coil<ICON BETA>
+Hornetaur Coil<ICON ALPHA>
+Hornetaur Coil<ICON BETA>
+Jagras Coil<ICON ALPHA>
+Jagras Coil<ICON BETA>
+Kulu Coil<ICON ALPHA>
+Kulu Coil<ICON BETA>
+Pukei Coil<ICON ALPHA>
+Pukei Coil<ICON BETA>
+Barroth Coil<ICON ALPHA>
+Barroth Coil<ICON BETA>
+Jyura Coil<ICON ALPHA>
+Jyura Coil<ICON BETA>
+Kadachi Coil<ICON ALPHA>
+Kadachi Coil<ICON BETA>
+Anja Coil<ICON ALPHA>
+Anja Coil<ICON BETA>
+Rathian Coil<ICON ALPHA>
+Rathian Coil<ICON BETA>
+Tzitzi Coil<ICON ALPHA>
+Tzitzi Coil<ICON BETA>
+Lumu Coil<ICON ALPHA>
+Lumu Coil<ICON BETA>
+Girros Coil<ICON ALPHA>
+Girros Coil<ICON BETA>
+Baan Coil<ICON ALPHA>
+Baan Coil<ICON BETA>
+High Metal Coil<ICON ALPHA>
+High Metal Coil<ICON BETA>
+Ingot Coil<ICON ALPHA>
+Ingot Coil<ICON BETA>
+Rath Heart Coil<ICON ALPHA>
+Rathian armor that exhibits such<LINE>a regal presence that it leaves all<LINE>who see it captivated and awed.
+Rath Heart Coil<ICON BETA>
+Legiana Coil<ICON ALPHA>
+Legiana Coil<ICON BETA>
+Odogaron Coil<ICON ALPHA>
+Odogaron Coil<ICON BETA>
+Rathalos Coil<ICON ALPHA>
+Rathalos Coil<ICON BETA>
+Rath Soul Coil<ICON ALPHA>
+Azure armor imbued with absolute<LINE>power. Those who wear it are<LINE>destined to make history.
+Rath Soul Coil<ICON BETA>
+Diablos Coil<ICON ALPHA>
+Diablos Coil<ICON BETA>
+Diablos Nero Coil<ICON ALPHA>
+Brutal-looking armor made from<LINE>Black Diablos parts. So imposing<LINE>none so much as dare approach it.
+Diablos Nero Coil<ICON BETA>
+Dodogama Coil<ICON ALPHA>
+Thoroughly tempered to extreme<LINE>hardness, this Dodogama armor<LINE>will outlast any impact.
+Dodogama Coil<ICON BETA>
+Lavasioth Coil<ICON ALPHA>
+Thick Lavasioth shell underwent<LINE>a painstaking treatment process to<LINE>yield this armor. Truly a work of art.
+Lavasioth Coil<ICON BETA>
+Uragaan Coil<ICON ALPHA>
+Heavy armor made of heavy<LINE>Uragaan parts, and every ounce<LINE>of it adds to its defense.
+Uragaan Coil<ICON BETA>
+Nergigante Coil<ICON ALPHA>
+This Nergigante armor is said<LINE>to feed on a hunter's spirit in<LINE>exchange for its brutal power.
+Nergigante Coil<ICON BETA>
+Nergigante armor fit to enrobe<LINE>one who would usher in a new<LINE>world by razing this one.
+King Beetle Elytra<ICON ALPHA>
+King Beetle Elytra<ICON BETA>
+Butterfly Elytra<ICON ALPHA>
+Butterfly Elytra<ICON BETA>
+Brigade Coil<ICON ALPHA>
+Brigade Coil<ICON BETA>
+Damascus Coil<ICON ALPHA>
+This legendary iron steel armor<LINE>is said to lead its wearer down<LINE>the conqueror's path.
+Damascus Coil<ICON BETA>
+Dober Coil<ICON ALPHA>
+Armor fashioned from obsidian bone<LINE>of unknown provenance. It resembles<LINE>an all-powerful monster.
+Dober Coil<ICON BETA>
+Kushala Cocoon<ICON ALPHA>
+Armor made from Kushala Daora<LINE>parts. It resembles the statue of<LINE>an ancient deity come to life.
+Kushala Cocoon<ICON BETA>
+Kaiser Coil<ICON ALPHA>
+Forged from parts carved from<LINE>a Teostra, this armor is host to<LINE>the Flame King Dragon's soul.
+Kaiser Coil<ICON BETA>
+Kirin Hoop<ICON ALPHA>
+Kirin Hoop<ICON BETA>
+Vaal Hazak Coil<ICON ALPHA>
+Whispers haunt this Vaal Hazak<LINE>armor, urging any who don it to<LINE>embrace despair, and consume...
+Vaal Hazak Coil<ICON BETA>
+Bazel Coil<ICON ALPHA>
+The earth quivers beneath each step<LINE>taken in this Bazelgeuse armor.<LINE>Behind you, a scorched path.
+Bazel Coil<ICON BETA>
+Death Stench Bowels<ICON ALPHA>
+Death Stench Bowels<ICON BETA>
+Guild Cross Coil<ICON ALPHA>
+Armor for Arena champions.<LINE>Finely made. Proves the<LINE>wearer is a true champion.
+Guild Cross Coil<ICON BETA>
+Xeno'jiiva Spine<ICON ALPHA>
+This Xeno'jiiva armor hums with<LINE>energy. If properly controlled, it<LINE>grants the wearer vast power.
+Xeno'jiiva Spine<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zorah Spine<ICON ALPHA>
+Stalwart as a mountain, this<LINE>Zorah Magdaros armor renders its<LINE>wearer unfazed by any hardship.
+Zorah Spine<ICON BETA>
+Commission Belt<ICON ALPHA>
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Commission Belt<ICON BETA>
+Brigade Layered Torso
+Unavailable
+Guild Cross Layered Torso
+Unavailable
+Blossom Layered Torso
+Unavailable
+Diver Layered Torso
+Unavailable
+Harvest Layered Torso
+Unavailable
+Orion Layered Coat
+Unavailable
+Gala Suit Layered Torso
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Bayek Layered Torso
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Origin Coil
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Unavailable
+Unavailable
+Kulve Taroth's Malice<ICON ALPHA>
+Kulve Taroth armor that shines with<LINE>a rich light. The terrifying anger<LINE>of the mother goddess lies within.
+Kulve Taroth's Malice<ICON BETA>
+Blossom Coat
+Requires a Spring Blossom Ticket<LINE>to craft. This armor shines with the<LINE>colors of the Spring Blossom Fest.
+Diver's Belt
+Requires a Summer Twilight<LINE>Ticket to craft. Armor that'll have<LINE>you eager for a dip in the ocean.
+Harvest Hoja
+Requires an Autumn Harvest Ticket<LINE>to craft. Put on this costume and<LINE>enjoy the festivities!
+Orion Coat
+Requires a Winter Star Ticket to<LINE>craft. Warm and snug armor so you<LINE>can enjoy the winter festivities.
+Gala Suit Tail
+Requires an Appreciation Ticket<LINE>to craft. This gorgeous armor dazzles<LINE>as brightly as the Appreciation Fest.
+Samurai Torso
+Unavailable
+Vangis Coil<ICON ALPHA>
+Deviljho armor that bestows epic<LINE>power to its wearer, at the cost<LINE>of a never-ending thirst for flesh.
+Vangis Coil<ICON BETA>
+Unavailable
+Unavailable
+Bushi Koshiate "Sabi"
+Unavailable
+Bushi Koshiate "Homare"
+Drachen Coil<ICON ALPHA>
+Bestowed upon those worthy of the<LINE>title of Azure Dragoon. Desires<LINE>power to stand tall before dragons.
+Blossom Coat<ICON ALPHA>
+Diver's Belt<ICON ALPHA>
+Harvest Hoja<ICON ALPHA>
+Orion Coat<ICON ALPHA>
+Gala Suit Tail<ICON ALPHA>
+Butterfly Elytra
+Butterfly Elytra<ICON ALPHA>
+Butterfly Elytra<ICON BETA>
+Queen Beetle Elytra
+Queen Beetle Elytra<ICON ALPHA>
+Queen Beetle Elytra<ICON BETA>
+Vaal Hazak Coil<ICON GAMMA>
+Uniquely crafted Vaal Hazak armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kirin Hoop<ICON GAMMA>
+Uniquely crafted Kirin armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kaiser Coil<ICON GAMMA>
+Uniquely crafted Teostra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kushala Cocoon<ICON GAMMA>
+Uniquely crafted Kushala Daora<LINE>armor. The immeasurable strength of<LINE>a tempered monster dwells within.
+Nergigante Coil<ICON GAMMA>
+Uniquely crafted Nergigante armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Zorah Spine<ICON GAMMA>
+Uniquely crafted Zorah Magdaros<LINE>armor. The immeasurable strength of<LINE>the monster dwells within.
+Xeno'jiiva Spine<ICON GAMMA>
+Uniquely crafted Xeno'jiiva armor.<LINE>The immeasurable strength of the<LINE>monster dwells within.
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Azure Starlord Tassets<ICON ALPHA>
+Armor with a glow reminiscent of an<LINE>azure star. The starlord vowed upon<LINE>the sash to stay true to the faith.
+Dante's Belt<ICON ALPHA>
+Replica belt fashioned after the<LINE>one Dante wears. Lets you take<LINE>any demonic threat in stride.
+Empress Coil<ICON ALPHA>
+The dignified design of this<LINE>Lunastra armor is a fitting match<LINE>for the empress of flame herself.
+Empress Coil<ICON BETA>
+Butterfly Layered Torso
+Unavailable
+Death Stench Layered Torso
+Unavailable
+Dante Layered Torso
+Unavailable
+Drachen Layered Coil
+Unavailable
+Commission Layered Torso
+Unavailable
+Origin Layered Torso
+Unavailable
+Beetle Layered Torso
+Unavailable
+Invalid Message
+Unavailable
+HARDUMMY
+Empress Coil<ICON GAMMA>
+Uniquely crafted Lunastra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Geralt's Torso<ICON ALPHA>
+Ciri's Torso<ICON ALPHA>
+Geralt Layered Torso
+Unavailable
+Ciri Layered Torso
+Unavailable
+Kulve Taroth's Malice<ICON GAMMA>
+Uniquely crafted Kulve Taroth<LINE>armor. The immeasurable strength<LINE>of the monster dwells within.
+Defender Waist<ICON ALPHA>
+Armor designed for use by the<LINE>Defense Corps. Very capable<LINE>armor once used for ceremonies.
+Direwolf Layered Coil+
+Armor made for cold regions.<LINE>Not only is it well-insulated,<LINE>it sports great defense as well.
+Unavailable
+Bone Coil<ICON ALPHA>+
+Bone Coil<ICON BETA>+
+Alloy Coil<ICON ALPHA>+
+Alloy Coil<ICON BETA>+
+Vespoid Coil<ICON ALPHA>+
+Armor made of Vespoid parts.<LINE>Expertly crafted for increased<LINE>Dragon Resistance.
+Vespoid Coil<ICON BETA>+
+Hornetaur Coil<ICON ALPHA>+
+Armor made of Hornetaur<LINE>material. High Dragon Resistance<LINE>makes this a hunter essential.
+Hornetaur Coil<ICON BETA>+
+Jagras Coil<ICON ALPHA>+
+Expert craftsmanship has granted<LINE>this Great Jagras armor both<LINE>flexibility and solidity.
+Jagras Coil<ICON BETA>+
+Tzitzi Coil<ICON ALPHA>+
+This Tzitzi-Ya-Ku armor was made<LINE>using the materials with the best<LINE>light-reflecting properties.
+Tzitzi Coil<ICON BETA>+
+Girros Coil<ICON ALPHA>+
+This well-designed Great Girros<LINE>armor is popular with hunters<LINE>because of its assistive properties.
+Girros Coil<ICON BETA>+
+Dodogama Coil<ICON ALPHA>+
+After extensive polishing, this<LINE>Dodogama waist armor obtained<LINE>the perfect balance between<LINE>weight and durability.
+Dodogama Coil<ICON BETA>+
+Kulu Coil<ICON ALPHA>+
+Carefully tanned Kulu-Ya-Ku armor,<LINE>using only the finest leather<LINE>selected by expert craftsmen.
+Kulu Coil<ICON BETA>+
+Pukei Coil<ICON ALPHA>+
+This refined Pukei-Pukei armor<LINE>is popular with fledgling hunters<LINE>because of its practical properties.
+Pukei Coil<ICON BETA>+
+Barroth Coil<ICON ALPHA>+
+Waist armor made from Barroth<LINE>plate. Made up of particularly<LINE>tough scales from the beast.
+Barroth Coil<ICON BETA>+
+Jyura Coil<ICON ALPHA>+
+This waist armor uses only the<LINE>glossiest Jyuratodus fins for<LINE>maximum visual appeal.
+Jyura Coil<ICON BETA>+
+Beo Coil<ICON ALPHA>+
+The subtle pattern on this shiny<LINE>black Beotodus armor emerged<LINE>naturally in the polishing process.
+Beo Coil<ICON BETA>+
+Kadachi Coil<ICON ALPHA>+
+This waist armor was made by<LINE>polishing quality Tobi-Kadachi<LINE>hide until the scales really shine.
+Kadachi Coil<ICON BETA>+
+High Metal Coil<ICON ALPHA>+
+High Metal Coil<ICON BETA>+
+Banbaro Coil<ICON ALPHA>+
+Extreme attention to detail has<LINE>yielded Banbaro waist armor far<LINE>more flexible than it appears.
+Banbaro Coil<ICON BETA>+
+Anja Coil<ICON ALPHA>+
+Modeled after a brave tribe's<LINE>hunting garb, this Anjanath armor's<LINE>design is a symbol of greatness.
+Anja Coil<ICON BETA>+
+Rathian Coil<ICON ALPHA>+
+Waist armor made from<LINE>Rathian parts. Quite flexible<LINE>despite its solid nature.
+Rathian Coil<ICON BETA>+
+Rath Heart Coil<ICON ALPHA>+
+Waist armor made from Pink<LINE>Rathian parts. Flexible yet<LINE>impressively resilient.
+Rath Heart Coil<ICON BETA>+
+Lumu Coil<ICON ALPHA>+
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape.<LINE>Plus, it's really soft and cute too!
+Lumu Coil<ICON BETA>+
+Lumu Phantasm Coil<ICON ALPHA>+
+The ebon fur of this Nightshade<LINE>Paolumu waist armor bewitches<LINE>those who lay their eyes upon it.
+Lumu Phantasm Coil<ICON BETA>+
+Pukei Lagoon Coil<ICON ALPHA>+
+Waist armor crafted from Coral<LINE>Pukei-Pukei down scales, capable<LINE>of softening even severe impacts.
+Pukei Lagoon Coil<ICON BETA>+
+Viper Kadachi Coil<ICON ALPHA>+
+Viper Tobi-Kadachi waist armor<LINE>specially treated for maximum<LINE>resilience and flexibility.
+Viper Kadachi Coil<ICON BETA>+
+Baan Coil<ICON ALPHA>+
+Overwhelming weight grants this<LINE>Radobaan armor the defense of<LINE>an impenetrable fortress.
+Baan Coil<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Ingot Coil<ICON ALPHA>+
+Ingot Coil<ICON BETA>+
+Barioth Faulds<ICON ALPHA>+
+Waist armor made from<LINE>Barioth parts. Exudes the spirit<LINE>of the Knight of the Tundra.
+Barioth Faulds<ICON BETA>+
+Rathalos Coil<ICON ALPHA>+
+Waist armor made from Rathalos<LINE>shell. Sturdy yet lightweight,<LINE>thanks to webbing materials.
+Rathalos Coil<ICON BETA>+
+Diablos Coil<ICON ALPHA>+
+Waist armor made from Diablos<LINE>shell. Sturdy enough to snap off<LINE>any flying wyvern's horn.
+Diablos Coil<ICON BETA>+
+Legiana Coil<ICON ALPHA>+
+Armor worn by proven masters of<LINE>the freezing sky. Made of Legiana<LINE>parts, it exudes a silent dignity.
+Legiana Coil<ICON BETA>+
+Odogaron Coil<ICON ALPHA>+
+This Odogaron armor stimulates<LINE>violence and cruelty. Its wearer<LINE>will relish in shedding blood.
+Odogaron Coil<ICON BETA>+
+Lavasioth Coil<ICON ALPHA>+
+This Lavasioth armor was designed<LINE>not to expose the gaps in the shell.<LINE>Truly a work of art.
+Lavasioth Coil<ICON BETA>+
+Uragaan Coil<ICON ALPHA>+
+Waist armor made from an<LINE>Uragaan's rocky shell. Puts a stop<LINE>to attacks aimed at vital areas.
+Uragaan Coil<ICON BETA>+
+Nargacuga Faulds<ICON ALPHA>+
+Armor made of Nargacuga<LINE>parts. The shiny fur has a<LINE>supernatural aura.
+Nargacuga Faulds<ICON BETA>+
+Glavenus Faulds<ICON ALPHA>+
+Those that wear this Glavenus<LINE>armor in battle are assured of<LINE>victory over their opponent.
+Glavenus Faulds<ICON BETA>+
+Brachydios Faulds<ICON ALPHA>+
+Waist armor with the strength of<LINE>a Brachydios. It shines both<LINE>dark and pale in the light.
+Brachydios Faulds<ICON BETA>+
+Tigrex Tassets<ICON ALPHA>+
+Waist armor made from<LINE>Tigrex parts. Trust your<LINE>life to its capable claws.
+Tigrex Tassets<ICON BETA>+
+Fulgur Coil<ICON ALPHA>+
+Far tougher than it looks,<LINE>this Fulgur Anjanath coil<LINE>boasts ample defense.
+Fulgur Coil<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Black Belt Tassets<ICON ALPHA>+
+A reward given by a renowned<LINE>teacher to the few pupils<LINE>he came to care for.
+Black Belt Tassets<ICON BETA>+
+Hoarcry Coil<ICON ALPHA>+
+Silver Shrieking Legiana armor<LINE>that projects absolute authority<LINE>over the icy gray skies.
+Hoarcry Coil<ICON BETA>+
+Rath Soul Coil<ICON ALPHA>+
+Waist armor made from Azure<LINE>Rathalos shell. Sturdy yet<LINE>light, thanks to the materials.
+Rath Soul Coil<ICON BETA>+
+Diablos Nero Coil<ICON ALPHA>+
+Waist armor made from Black<LINE>Diablos shell. Sturdy enough to<LINE>snap off any flying wyvern's horn.
+Diablos Nero Coil<ICON BETA>+
+Death Garon Coil<ICON ALPHA>+
+This Ebony Odogaron belt serves<LINE>as a tether to those you slay,<LINE>binding their grudges to you.
+Death Garon Coil<ICON BETA>+
+Acidic Glavenus Coil<ICON ALPHA>+
+The razor points on this Acidic<LINE>Glavenus armor assail any foe<LINE>foolish enough to get close.
+Acidic Glavenus Coil<ICON BETA>+
+Artian Coil<ICON ALPHA>+
+Waist armor made from<LINE>eldritch scraps whose true<LINE>purpose remains a mystery.
+Artian Coil<ICON BETA>+
+Dober Coil<ICON ALPHA>+
+Dober Coil<ICON BETA>+
+Damascus Coil<ICON ALPHA>+
+Damascus Coil<ICON BETA>+
+Rimeguard Coil<ICON ALPHA>+
+This gelid Velkhana armor blooms<LINE>like a flower wrought of hoarfrost.
+Rimeguard Coil<ICON BETA>+
+Pride Coil<ICON ALPHA>+
+Accord is submission. Don these<LINE>Seething Bazelgeuse chains and<LINE>impress your will on the world.
+Pride Coil<ICON BETA>+
+Fellshroud Coil<ICON ALPHA>+
+This Blackveil Vaal Hazak armor<LINE>extends the deathbringer's offer:<LINE>Revel in parting flesh from bone.
+Fellshroud Coil<ICON BETA>+
+Kaiser Coil<ICON ALPHA>+
+Armor made from Teostra parts.<LINE>Proceed, Lord and Beacon,<LINE>on your shining quest.
+Kaiser Coil<ICON BETA>+
+Kushala Cocoon<ICON ALPHA>+
+Armor made from Kushala Daora<LINE>parts. Its argent legend is told<LINE>through the ages.
+Kushala Cocoon<ICON BETA>+
+Kirin Hoop<ICON ALPHA>+
+Armor made from Kirin parts.<LINE>Lighting answers one's prayers<LINE>with solemn power.
+Kirin Hoop<ICON BETA>+
+Tentacle Coil<ICON ALPHA>+
+Namielle beckons from the abyss:<LINE>Allow its voice to guide you and<LINE>your path will find its end.
+Tentacle Coil<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guild Palace Coil<ICON ALPHA>+
+Waist armor granted to victors<LINE>at the Arena. Only a true hunter<LINE>may carry its intricate crest.
+Guild Palace Coil<ICON BETA>+
+Clockwork Coil<ICON ALPHA>+
+State-of-the-art armor where the<LINE>weight is evenly spread so as to<LINE>reduce the burden on the body.
+Clockwork Coil<ICON BETA>+
+Ruinous Coil<ICON ALPHA>+
+A Ruiner Nergigante coil that<LINE>devours a hunter's soul in trade<LINE>for endless tenacity.
+Ruinous Coil<ICON BETA>+
+Shara Ishvalda Coil<ICON ALPHA>+
+The unsullied drapery atop this<LINE>Shara Ishvalda waist armor remains<LINE>forever pure as the virgin land.
+Shara Ishvalda Coil<ICON BETA>+
+Esurient Faulds<ICON ALPHA>+
+Steeps the wearer's mind<LINE>in Savage Deviljho's unending<LINE>rage.
+Esurient Faulds<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guildwork Waist<ICON ALPHA>+
+A coil given to those who aid<LINE>the Guild. No tool can replace<LINE>a capacity to think flexibly.
+Guildwork Waist<ICON BETA>+
+Golden Lunecoil<ICON ALPHA>+
+Waist armor made from Gold<LINE>Rathian parts. You could sooner<LINE>grasp the moon than pierce this coil.
+Golden Lunecoil<ICON BETA>+
+Silver Solcoil<ICON ALPHA>+
+Waist armor made from Silver<LINE>Rathalos parts. As close to<LINE>flawless as one could ever get.
+Silver Solcoil<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zinogre Coil<ICON ALPHA>+
+Waist armor produced by pairing<LINE>master craftsmanship with parts<LINE>from the mighty Zinogre.
+Zinogre Coil<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Garuga Tassets<ICON ALPHA>+
+Wear this armor to experience<LINE>the wild beat contained within<LINE>Yian Garuga's body.
+Garuga Tassets<ICON BETA>+
+Zorah Spine<ICON ALPHA>+
+Zorah Spine<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Empress Coil<ICON ALPHA>+
+The grace and beauty of this<LINE>Lunastra waist armor is burned<LINE>forever into the viewer's mind.
+Empress Coil<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Waist<ICON ALPHA>+
+Requires a Joyful Ticket to craft.<LINE>Performances of those donning<LINE>this garb resemble a dragon<LINE>soaring through the heavens.
+Unavailable
+Astral Skirt<ICON ALPHA>+
+Requires a Gratitude Ticket to<LINE>craft. Snatch the stars from the<LINE>sky and become the banquet itself.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Layered Torso
+Unavailable
+Astral Layered Torso
+Unavailable
+Unavailable
+Unavailable
+Thermae Layered Belt
+Unavailable
+Buff Waist<ICON ALPHA>+
+Perfectly chiseled muscles that<LINE>would give even the Admiral<LINE>a run for his zenny.
+Rex Roar Coil<ICON ALPHA>+
+Those who best the Brute Tigrex<LINE>to claim this coil transcend<LINE>fear forever after.
+Rex Roar Coil<ICON BETA>+
+Guardian Coil<ICON ALPHA>+
+The coil of a knight sworn to<LINE>the city's defense. Ceremonial,<LINE>yet still highly functional.
+Yukumo Layered Obi
+Unavailable
+Silver Knight Layered Torso
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Leather Trousers
+Armor made of treated monster<LINE>hide. A safe choice, designed<LINE>for multi-purpose use.
+Chainmail Trousers
+Armor made of woven chain links.<LINE>Its familiar design inspires<LINE>trust in hunters who wear it.
+Hunter's Greaves
+Armor widely used among<LINE>hunters. Basic leggings for<LINE>traversing any environment.
+Bone Greaves
+Traditional armor crafted from<LINE>monster bones. Believe it or not,<LINE>it offers pretty good insulation.
+Alloy Greaves
+Armor made of fine machalite<LINE>ore. What it lacks in charm it<LINE>more than makes up in defense.
+Vespoid Greaves
+Armor made from hard Vespoid<LINE>carapace. Though weak to fire<LINE>element, it offers solid defense.
+Gajau Boots
+The ease of working with Gajau<LINE>hide makes these boots popular<LINE>with more than just hunters.
+Jagras Greaves
+Diligently polished Great Jagras<LINE>scale marries steel in beautiful<LINE>harmony in this armor.
+Kulu Greaves
+The elegant color and beautiful<LINE>design of this Kulu-Ya-Ku armor<LINE>make it perennially popular.
+Pukei Greaves
+Pukei-Pukei armor engineered to<LINE>protect vital body parts with a<LINE>very modest amount of materials.
+Barroth Greaves
+A wyvern could trample this<LINE>armor made of Barroth shell and<LINE>not leave a single crack.
+Jyura Greaves
+A special process was used to treat<LINE>the hard mud caked on this Jyuratodus<LINE>armor in order to improve durability.
+Kadachi Greaves
+Exquisitely light, this soft<LINE>Tobi-Kadachi armor is so comfy<LINE>you can barely feel it on.
+High Metal Greaves
+Armor made from a generous<LINE>portion of ore. Don't worry,<LINE>it breathes surprisingly well.
+Hornetaur Greaves
+Armor plated in hard Hornetaur<LINE>parts so lustrous you'll swear<LINE>it's polished metal.
+Anja Greaves
+Modeled after an unknown tribe's<LINE>hunting garb, the Anja armor's<LINE>design is a symbol of bravery.
+Rathian Greaves
+Replete with queenly refinement,<LINE>grace, and might, this sleek<LINE>Rathian armor has it all.
+Tzitzi Greaves
+By using a portion of the head<LINE>as-is, this Tzitzi-Ya-Ku armor<LINE>also serves as a fine trophy.
+Lumu Greaves
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any body shape, doesn't<LINE>even feel like you're wearing armor.
+Girros Greaves
+In addition to protecting the<LINE>body, this Great Girros armor<LINE>aids a hunter's respiration.
+Baan Greaves
+A mix of heavy plating and bone<LINE>grant this Radobaan armor almost<LINE>impenetrable defense.
+King Beetle Crura
+Armor to fulfill the ambitions<LINE>of those who dreamed of wielding<LINE>the power to rule over bugdom.
+Butterfly Crura
+Dazzling armor made from insect<LINE>parts. Its light weight and color<LINE>are proof of one's class.
+Ingot Greaves
+Armor crafted from brilliant gold<LINE>ore. Its color and design are<LINE>both highly pleasing.
+Legiana Greaves
+Armor worn by proven masters of<LINE>the wind. Made of Legiana parts,<LINE>it glistens a piercing blue.
+Odogaron Greaves
+None who lay eyes upon this<LINE>Odogaron armor are seen again,<LINE>as it erodes the wearer's sanity.
+Rathalos Greaves
+Crafted from parts carved from<LINE>the King of the Skies, this crimson<LINE>armor boasts overwhelming defense.
+Diablos Greaves
+The bold horns on this Diablos<LINE>armor are a challenge to any who<LINE>doubt your rule over the sands.
+Kirin Leg Guards
+Don this gorgeous Kirin armor and<LINE>canter through the wilderness living<LINE>out your wildest equine fantasies.
+Death Stench Heel
+Accursed armor, said to bring<LINE>death. The wearer hears echoes<LINE>of their victim's death throes.
+Brigade Boots
+Guild-exclusive armor for Arena<LINE>champions. Takes a long time<LINE>to forge. Incredible durability.
+Leather Trousers<ICON ALPHA>
+Leather Trousers<ICON BETA>
+Chainmail Trousers<ICON ALPHA>
+Chainmail Trousers<ICON BETA>
+Hunter's Greaves<ICON ALPHA>
+Hunter's Greaves<ICON BETA>
+Bone Greaves<ICON ALPHA>
+Bone Greaves<ICON BETA>
+Alloy Greaves<ICON ALPHA>
+Alloy Greaves<ICON BETA>
+Vespoid Greaves<ICON ALPHA>
+Vespoid Greaves<ICON BETA>
+Hornetaur Greaves<ICON ALPHA>
+Hornetaur Greaves<ICON BETA>
+Gajau Boots<ICON ALPHA>
+Gajau Boots<ICON BETA>
+Jagras Greaves<ICON ALPHA>
+Jagras Greaves<ICON BETA>
+Kulu Greaves<ICON ALPHA>
+Kulu Greaves<ICON BETA>
+Pukei Greaves<ICON ALPHA>
+Pukei Greaves<ICON BETA>
+Barroth Greaves<ICON ALPHA>
+Barroth Greaves<ICON BETA>
+Jyura Greaves<ICON ALPHA>
+Jyura Greaves<ICON BETA>
+Kadachi Greaves<ICON ALPHA>
+Kadachi Greaves<ICON BETA>
+Anja Greaves<ICON ALPHA>
+Anja Greaves<ICON BETA>
+Rathian Greaves<ICON ALPHA>
+Rathian Greaves<ICON BETA>
+Tzitzi Greaves<ICON ALPHA>
+Tzitzi Greaves<ICON BETA>
+Lumu Greaves<ICON ALPHA>
+Lumu Greaves<ICON BETA>
+Girros Greaves<ICON ALPHA>
+Girros Greaves<ICON BETA>
+Baan Greaves<ICON ALPHA>
+Baan Greaves<ICON BETA>
+High Metal Greaves<ICON ALPHA>
+High Metal Greaves<ICON BETA>
+Ingot Greaves<ICON ALPHA>
+Ingot Greaves<ICON BETA>
+Rath Heart Greaves<ICON ALPHA>
+Rathian armor that exhibits such<LINE>a regal presence that it leaves all<LINE>who see it captivated and awed.
+Rath Heart Greaves<ICON BETA>
+Legiana Greaves<ICON ALPHA>
+Legiana Greaves<ICON BETA>
+Odogaron Greaves<ICON ALPHA>
+Odogaron Greaves<ICON BETA>
+Rathalos Greaves<ICON ALPHA>
+Rathalos Greaves<ICON BETA>
+Rath Soul Greaves<ICON ALPHA>
+Azure armor imbued with absolute<LINE>power. Those who wear it are<LINE>destined to make history.
+Rath Soul Greaves<ICON BETA>
+Diablos Greaves<ICON ALPHA>
+Diablos Greaves<ICON BETA>
+Diablos Nero Greaves<ICON ALPHA>
+Brutal-looking armor made from<LINE>Black Diablos parts. So imposing<LINE>none so much as dare approach it.
+Diablos Nero Greaves<ICON BETA>
+Dodogama Greaves<ICON ALPHA>
+Thoroughly tempered to extreme<LINE>hardness, this Dodogama armor<LINE>will outlast any impact.
+Dodogama Greaves<ICON BETA>
+Lavasioth Greaves<ICON ALPHA>
+Thick Lavasioth shell underwent<LINE>a painstaking treatment process to<LINE>yield this armor. Truly a work of art.
+Lavasioth Greaves<ICON BETA>
+Uragaan Greaves<ICON ALPHA>
+Heavy armor made of heavy<LINE>Uragaan parts, and every ounce<LINE>of it adds to its defense.
+Uragaan Greaves<ICON BETA>
+Nergigante Greaves<ICON ALPHA>
+This Nergigante armor is said<LINE>to feed on a hunter's spirit in<LINE>exchange for its brutal power.
+Nergigante Greaves<ICON BETA>
+Nergigante armor fit to enrobe<LINE>one who would usher in a new<LINE>world by razing this one.
+King Beetle Crura<ICON ALPHA>
+King Beetle Crura<ICON BETA>
+Butterfly Crura<ICON ALPHA>
+Butterfly Crura<ICON BETA>
+Brigade Boots<ICON ALPHA>
+Brigade Boots<ICON BETA>
+Damascus Greaves<ICON ALPHA>
+This legendary iron steel armor<LINE>is said to lead its wearer down<LINE>the conqueror's path.
+Damascus Greaves<ICON BETA>
+Dober Greaves<ICON ALPHA>
+Armor fashioned from obsidian bone<LINE>of unknown provenance. It resembles<LINE>an all-powerful monster.
+Dober Greaves<ICON BETA>
+Kushala Crus<ICON ALPHA>
+Armor made from Kushala Daora<LINE>parts. It resembles the statue of<LINE>an ancient deity come to life.
+Kushala Crus<ICON BETA>
+Kaiser Greaves<ICON ALPHA>
+Forged from parts carved from<LINE>a Teostra, this armor is host to<LINE>the Flame King Dragon's soul.
+Kaiser Greaves<ICON BETA>
+Kirin Leg Guards<ICON ALPHA>
+Kirin Leg Guards<ICON BETA>
+Vaal Hazak Greaves<ICON ALPHA>
+Whispers haunt this Vaal Hazak<LINE>armor, urging any who don it to<LINE>embrace despair, and consume...
+Vaal Hazak Greaves<ICON BETA>
+Bazel Greaves<ICON ALPHA>
+The earth quivers beneath each step<LINE>taken in this Bazelgeuse armor.<LINE>Behind you, a scorched path.
+Bazel Greaves<ICON BETA>
+Death Stench Heel<ICON ALPHA>
+Death Stench Heel<ICON BETA>
+Guild Cross Boots<ICON ALPHA>
+Armor for Arena champions.<LINE>Painstakingly made. For true<LINE>heroes.
+Guild Cross Boots<ICON BETA>
+Xeno'jiiva Spurs<ICON ALPHA>
+This Xeno'jiiva armor hums with<LINE>energy. If properly controlled, it<LINE>grants the wearer vast power.
+Xeno'jiiva Spurs<ICON BETA>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zorah Spurs<ICON ALPHA>
+Stalwart as a mountain, this<LINE>Zorah Magdaros armor renders its<LINE>wearer unfazed by any hardship.
+Zorah Spurs<ICON BETA>
+Commission Pants<ICON ALPHA>
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Commission Pants<ICON BETA>
+Brigade Layered Legs
+Unavailable
+Guild Cross Layered Legs
+Unavailable
+Blossom Layered Legs
+Unavailable
+Diver Layered Legs
+Unavailable
+Harvest Layered Legs
+Unavailable
+Orion Layered Boots
+Unavailable
+Gala Suit Layered Legs
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+HARDUMMY
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Bayek Layered Legs
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Origin Greaves
+Iconic armor of the Research<LINE>Commission, built tough enough<LINE>to last till the job's done.
+Unavailable
+Unavailable
+Kulve Taroth's Wrath<ICON ALPHA>
+Kulve Taroth armor that shines with<LINE>a rich light. The terrifying anger<LINE>of the mother goddess lies within.
+Kulve Taroth's Wrath<ICON BETA>
+Blossom Boots
+Requires a Spring Blossom Ticket<LINE>to craft. This armor shines with the<LINE>colors of the Spring Blossom Fest.
+Diver's Boots
+Requires a Summer Twilight<LINE>Ticket to craft. Armor that'll have<LINE>you eager for a dip in the ocean.
+Harvest Raiz
+Requires an Autumn Harvest Ticket<LINE>to craft. Put on this costume and<LINE>enjoy the festivities!
+Orion Boots
+Requires a Winter Star Ticket to<LINE>craft. Warm and snug armor so you<LINE>can enjoy the winter festivities.
+Gala Suit Slacks
+Requires an Appreciation Ticket<LINE>to craft. This gorgeous armor dazzles<LINE>as brightly as the Appreciation Fest.
+Samurai Legs
+Unavailable
+Vangis Greaves<ICON ALPHA>
+Deviljho armor that bestows epic<LINE>power to its wearer, at the cost<LINE>of a never-ending thirst for flesh.
+Vangis Greaves<ICON BETA>
+Unavailable
+Unavailable
+Bushi Suneate "Sabi"
+Unavailable
+Bushi Suneate "Homare"
+Drachen Greaves<ICON ALPHA>
+Bestowed upon those worthy of the<LINE>title of Azure Dragoon. Pierces hard<LINE>scales in a single jumping thrust.
+Blossom Boots<ICON ALPHA>
+Diver's Boots<ICON ALPHA>
+Harvest Raiz<ICON ALPHA>
+Orion Boots<ICON ALPHA>
+Gala Suit Slacks<ICON ALPHA>
+Butterfly Crura
+Butterfly Crura<ICON ALPHA>
+Butterfly Crura<ICON BETA>
+Queen Beetle Crura
+Queen Beetle Crura<ICON ALPHA>
+Queen Beetle Crura<ICON BETA>
+Vaal Hazak Greaves<ICON GAMMA>
+Uniquely crafted Vaal Hazak armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kirin Leg Guards<ICON GAMMA>
+Uniquely crafted Kirin armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kaiser Greaves<ICON GAMMA>
+Uniquely crafted Teostra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Kushala Crus<ICON GAMMA>
+Uniquely crafted Kushala Daora<LINE>armor. The immeasurable strength of<LINE>a tempered monster dwells within.
+Nergigante Greaves<ICON GAMMA>
+Uniquely crafted Nergigante armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Zorah Spurs<ICON GAMMA>
+Uniquely crafted Zorah Magdaros<LINE>armor. The immeasurable strength of<LINE>the monster dwells within.
+Xeno'jiiva Spurs<ICON GAMMA>
+Uniquely crafted Xeno'jiiva armor.<LINE>The immeasurable strength of the<LINE>monster dwells within.
+HARDUMMY
+HARDUMMY
+HARDUMMY
+HARDUMMY
+Azure Starlord Guards<ICON ALPHA>
+Armor with a glow reminiscent of an<LINE>azure star. The starlord's miraculous<LINE>deeds give chase, like footprints.
+Dante's Leather Boots<ICON ALPHA>
+Replica boots fashioned after the<LINE>ones Dante wears. Paint the dance<LINE>floor bloodred with these beauts.
+Empress Greaves<ICON ALPHA>
+Sealed within this magnificent<LINE>armor is the forever burning blue<LINE>flame of Lunastra.
+Empress Greaves<ICON BETA>
+Butterfly Layered Legs
+Unavailable
+Death Stench Layered Legs
+Unavailable
+Dante Layered Legs
+Unavailable
+Drachen Layered Greaves
+Unavailable
+Commission Layered Legs
+Unavailable
+Origin Layered Legs
+Unavailable
+Beetle Layered Legs
+Unavailable
+Invalid Message
+Unavailable
+HARDUMMY
+Empress Greaves<ICON GAMMA>
+Uniquely crafted Lunastra armor.<LINE>The immeasurable strength of a<LINE>tempered monster dwells within.
+Geralt's Legs<ICON ALPHA>
+Ciri's Legs<ICON ALPHA>
+Geralt Layered Legs
+Unavailable
+Ciri Layered Legs
+Unavailable
+Kulve Taroth's Wrath<ICON GAMMA>
+Uniquely crafted Kulve Taroth<LINE>armor. The immeasurable strength<LINE>of the monster dwells within.
+Defender Greaves<ICON ALPHA>
+Armor designed for use by the<LINE>Defense Corps. Its unrefined look<LINE>belies its defensive capability.
+Direwolf Layered Greaves+
+Armor made for cold regions.<LINE>Uses special processing to prevent<LINE>the wearer from slipping in the snow.
+Unavailable
+Bone Greaves<ICON ALPHA>+
+Bone Greaves<ICON BETA>+
+Alloy Greaves<ICON ALPHA>+
+Alloy Greaves<ICON BETA>+
+Vespoid Greaves<ICON ALPHA>+
+Leggings covered in Vespoid<LINE>material. They protect against<LINE>strong physical attacks.
+Vespoid Greaves<ICON BETA>+
+Hornetaur Greaves<ICON ALPHA>+
+Covered in strong Hornetaur<LINE>materials. Crafted in a time-<LINE>consuming, detailed process.
+Hornetaur Greaves<ICON BETA>+
+Gajau Boots<ICON ALPHA>+
+Gajau Boots<ICON BETA>+
+Jagras Greaves<ICON ALPHA>+
+Using flexible, light materials,<LINE>this Great Jagras armor offers<LINE>high durability and mobility.
+Jagras Greaves<ICON BETA>+
+Tzitzi Greaves<ICON ALPHA>+
+The movements of a Tzitzi-Ya-Ku<LINE>were carefully observed to improve<LINE>the maneuverability of this armor.
+Tzitzi Greaves<ICON BETA>+
+Girros Greaves<ICON ALPHA>+
+This armor uses only the best<LINE>Great Girros parts, making it perfect<LINE>for hunting and social occasions.
+Girros Greaves<ICON BETA>+
+Dodogama Greaves<ICON ALPHA>+
+Carefully selected Dodogama scales<LINE>grant this armor the power to turn<LINE>the tables even when all hope is lost.
+Dodogama Greaves<ICON BETA>+
+Kulu Greaves<ICON ALPHA>+
+High quality Kulu-Ya-Ku leather<LINE>provides great mobility and a<LINE>perfect fit for all body types.
+Kulu Greaves<ICON BETA>+
+Pukei Greaves<ICON ALPHA>+
+The forked tips of this Pukei-Pukei<LINE>armor allow the wearer to stand<LINE>strong during combat.
+Pukei Greaves<ICON BETA>+
+Barroth Greaves<ICON ALPHA>+
+Leg armor made from Barroth<LINE>plate. Kick a rock wearing these<LINE>and it'll shatter on the spot.
+Barroth Greaves<ICON BETA>+
+Jyura Greaves<ICON ALPHA>+
+By adding flexible fin fiber to<LINE>the joints, this Jyuratodus armor<LINE>provides improved maneuverability.
+Jyura Greaves<ICON BETA>+
+Beo Greaves<ICON ALPHA>+
+These ebon Beotodus greaves look<LINE>heavy and hard as rock, but in<LINE>truth are light and flexible.
+Beo Greaves<ICON BETA>+
+Kadachi Greaves<ICON ALPHA>+
+Many hours were poured into the<LINE>design and crafting process for<LINE>this Tobi-Kadachi armor.
+Kadachi Greaves<ICON BETA>+
+High Metal Greaves<ICON ALPHA>+
+High Metal Greaves<ICON BETA>+
+Banbaro Greaves<ICON ALPHA>+
+Proprietary forge technology on<LINE>the soles of these Banbaro greaves<LINE>means no more slipping on ice!
+Banbaro Greaves<ICON BETA>+
+Anja Greaves<ICON ALPHA>+
+Modeled after a brave tribe's<LINE>hunting garb, this Anjanath armor's<LINE>design is a symbol of fortitude.
+Anja Greaves<ICON BETA>+
+Rathian Greaves<ICON ALPHA>+
+Leg armor made from Rathian parts.<LINE>Keeps the strength that allowed the<LINE>beast's body to jump.
+Rathian Greaves<ICON BETA>+
+Rath Heart Greaves<ICON ALPHA>+
+Leg armor made from Pink Rathian<LINE>parts. Keeps the strength that<LINE>allowed the beast's body to jump.
+Rath Heart Greaves<ICON BETA>+
+Lumu Greaves<ICON ALPHA>+
+This Paolumu armor offers a perfect,<LINE>bespoke fit to any leg shape, almost<LINE>as if you're wearing fluffy clouds.
+Lumu Greaves<ICON BETA>+
+Lumu Phantasm Greaves<ICON ALPHA>+
+Nightshade Paolumu boots made of<LINE>absorptive down that masks your<LINE>footsteps for worry-free hunts.
+Lumu Phantasm Greaves<ICON BETA>+
+Pukei Lagoon Greaves<ICON ALPHA>+
+Lightweight, tough, and easy to<LINE>wear, these Coral Pukei-Pukei<LINE>greaves are beloved by veterans.
+Pukei Lagoon Greaves<ICON BETA>+
+Viper Kadachi Greaves<ICON ALPHA>+
+Slip these Viper Tobi-Kadachi<LINE>boots on and you'll feel like a<LINE>gale whipping across the land.
+Viper Kadachi Greaves<ICON BETA>+
+Baan Greaves<ICON ALPHA>+
+This Radobaan armor is heavy as<LINE>rock, and only those with true<LINE>strength can wield it effectively.
+Baan Greaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Ingot Greaves<ICON ALPHA>+
+Ingot Greaves<ICON BETA>+
+Barioth Greaves<ICON ALPHA>+
+Leg armor strengthened with<LINE>Barioth plate. Allows one to<LINE>walk safely on slick ice.
+Barioth Greaves<ICON BETA>+
+Rathalos Greaves<ICON ALPHA>+
+Leg armor made from Rathalos<LINE>shell. They improve one's<LINE>footing and stability.
+Rathalos Greaves<ICON BETA>+
+Diablos Greaves<ICON ALPHA>+
+Leg armor made from Diablos<LINE>shell. They grant stability akin<LINE>to deeply rooted trees.
+Diablos Greaves<ICON BETA>+
+Legiana Greaves<ICON ALPHA>+
+Armor worn by proven masters of<LINE>the freezing sky. Made of Legiana<LINE>parts, it exudes an air of authority.
+Legiana Greaves<ICON BETA>+
+Odogaron Greaves<ICON ALPHA>+
+Leave trails of blood in your wake<LINE>with this Odogaron armor, as you<LINE>trample the dignity of all life.
+Odogaron Greaves<ICON BETA>+
+Lavasioth Greaves<ICON ALPHA>+
+This Lavasioth armor was designed<LINE>to balance mobility with defense.<LINE>Truly a work of art.
+Lavasioth Greaves<ICON BETA>+
+Uragaan Greaves<ICON ALPHA>+
+Legwear made from an Uragaan's<LINE>rocky shell. Makes volcanic<LINE>regions seem like grassy fields.
+Uragaan Greaves<ICON BETA>+
+Nargacuga Greaves<ICON ALPHA>+
+Black greaves that resemble a<LINE>Nargacuga's legs. Many are drawn<LINE>to the dark power they radiate.
+Nargacuga Greaves<ICON BETA>+
+Glavenus Greaves<ICON ALPHA>+
+The black claws on this Glavenus<LINE>armor allow the wearer to crush<LINE>all their fears beneath their heels.
+Glavenus Greaves<ICON BETA>+
+Brachydios Greaves<ICON ALPHA>+
+Leg armor with the strength of a<LINE>Brachydios. Of such power that<LINE>each step wears away the ground.
+Brachydios Greaves<ICON BETA>+
+Tigrex Greaves<ICON ALPHA>+
+Leg armor made from Tigrex<LINE>parts. Every step makes the<LINE>ground cry out in pain.
+Tigrex Greaves<ICON BETA>+
+Fulgur Greaves<ICON ALPHA>+
+These sturdy Fulgur Anjanath<LINE>greaves give testament to the<LINE>hard road the wearer has walked.
+Fulgur Greaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Black Belt Greaves<ICON ALPHA>+
+A reward given by a proud<LINE>teacher to the few pupils<LINE>who understood his creed.
+Black Belt Greaves<ICON BETA>+
+Hoarcry Greaves<ICON ALPHA>+
+Spotless silver Shrieking<LINE>Legiana greaves, worthy of<LINE>the ruler of the icy gray skies.
+Hoarcry Greaves<ICON BETA>+
+Rath Soul Greaves<ICON ALPHA>+
+Leg armor made from Azure<LINE>Rathalos shell. They improve<LINE>one's footing and stability.
+Rath Soul Greaves<ICON BETA>+
+Diablos Nero Greaves<ICON ALPHA>+
+Leg armor made from Black Diablos<LINE>shell. Their superior stability<LINE>enables overwhelming attacks.
+Diablos Nero Greaves<ICON BETA>+
+Death Garon Greaves<ICON ALPHA>+
+These boots of Ebony Odogaron<LINE>hide curse their wearer to eternally<LINE>walk a path of terrible karma.
+Death Garon Greaves<ICON BETA>+
+Acidic Glavenus Greaves<ICON ALPHA>+
+Each step taken in these razor-<LINE>pointed Acidic Glavenus greaves<LINE>carves a furrow in the earth.
+Acidic Glavenus Greaves<ICON BETA>+
+Artian Greaves<ICON ALPHA>+
+Leg armor made from<LINE>eldritch scraps. Wearing it<LINE>bestows tremendous power.
+Artian Greaves<ICON BETA>+
+Dober Greaves<ICON ALPHA>+
+Dober Greaves<ICON BETA>+
+Damascus Greaves<ICON ALPHA>+
+Damascus Greaves<ICON BETA>+
+Rimeguard Greaves<ICON ALPHA>+
+These glacial Velkhana greaves<LINE>grind any who refuse to kneel<LINE>beneath their heels.
+Rimeguard Greaves<ICON BETA>+
+Pride Greaves<ICON ALPHA>+
+Stability is acquiescence. Don<LINE>these Seething Bazelgeuse boots<LINE>and etch your mark on the land.
+Pride Greaves<ICON BETA>+
+Fellshroud Greaves<ICON ALPHA>+
+These Blackveil Vaal Hazak greaves<LINE>march to the deathbringer's howl:<LINE>The chain of life lies broken.
+Fellshroud Greaves<ICON BETA>+
+Kaiser Greaves<ICON ALPHA>+
+Armor made from Teostra parts.<LINE>Go forth, Lord of Stars, as was<LINE>foretold.
+Kaiser Greaves<ICON BETA>+
+Kushala Crus<ICON ALPHA>+
+The knight, mantled in wind,<LINE>swore to conquer the sky and<LINE>walk his own path to destiny.
+Kushala Crus<ICON BETA>+
+Kirin Leg Guards<ICON ALPHA>+
+Leg armor made from Kirin<LINE>parts. Pure prayers light its<LINE>path to a phantom land.
+Kirin Leg Guards<ICON BETA>+
+Tentacle Greaves<ICON ALPHA>+
+Namielle beckons from the abyss:<LINE>Even these boots cannot offer<LINE>escape from the looming dark.
+Tentacle Greaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guild Palace Greaves<ICON ALPHA>+
+Leg armor granted to victors<LINE>at the Arena. Only a true hunter<LINE>may wear its golden wings.
+Guild Palace Greaves<ICON BETA>+
+Clockwork Greaves<ICON ALPHA>+
+State-of-the-art armor that adopts<LINE>to the shape of the ground for<LINE>smooth maneuvering.
+Clockwork Greaves<ICON BETA>+
+Ruinous Greaves<ICON ALPHA>+
+Ruiner Nergigante greaves that<LINE>devour a hunter's soul in trade<LINE>for peerless valor.
+Ruinous Greaves<ICON BETA>+
+Shara Ishvalda Greaves<ICON ALPHA>+
+These unshakeable Shara Ishvalda<LINE>greaves stand tall and unbowed,<LINE>as twin mountains on the horizon.
+Shara Ishvalda Greaves<ICON BETA>+
+Esurient Greaves<ICON ALPHA>+
+Leg armor rippling with the<LINE>Savage Deviljho's might. Sends<LINE>shock waves in all directions.
+Esurient Greaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Guildwork Feet<ICON ALPHA>+
+Greaves given to those who aid<LINE>the Guild. Agility can't replace<LINE>the tenacity to see a job done.
+Guildwork Feet<ICON BETA>+
+Golden Lunegreaves<ICON ALPHA>+
+This Gold Rathian armor shines<LINE>as if all of the moon's light is<LINE>contained within it.
+Golden Lunegreaves<ICON BETA>+
+Silver Solgreaves<ICON ALPHA>+
+Elegant leg armor that leaves<LINE>a faint trail of silver behind it.<LINE>The sheen will never dull.
+Silver Solgreaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Zinogre Greaves<ICON ALPHA>+
+Leg armor made from Zinogre<LINE>parts. Its allure is without equal.
+Zinogre Greaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Garuga Greaves<ICON ALPHA>+
+Leg armor made from Yian<LINE>Garuga parts that contain<LINE>its most concentrated rage.
+Garuga Greaves<ICON BETA>+
+Zorah Spurs<ICON ALPHA>+
+Zorah Spurs<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Empress Greaves<ICON ALPHA>+
+These Lunastra greaves could<LINE>walk through the fires of hell<LINE>itself and emerge unscathed.
+Empress Greaves<ICON BETA>+
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Boots<ICON ALPHA>+
+Requires a Joyful Ticket to craft.<LINE>Performances of those donning<LINE>this garb resemble a dragon<LINE>soaring through the heavens.
+Unavailable
+Astral Tights<ICON ALPHA>+
+Requires a Gratitude Ticket to<LINE>craft. Snatch the stars from the<LINE>sky and become the banquet itself.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Oolong Layered Legs
+Unavailable
+Astral Layered Legs
+Unavailable
+Unavailable
+Unavailable
+Thermae Layered Legs
+Unavailable
+Buff Legs<ICON ALPHA>+
+The explosive power comes from<LINE>training the quads regularly. Proof<LINE>that you've never skipped leg day!
+Rex Roar Greaves<ICON ALPHA>+
+Kick at the earth with the vigor<LINE>of a Brute Tigrex as you sprint<LINE>in these greaves.
+Rex Roar Greaves<ICON BETA>+
+Guardian Boots<ICON ALPHA>+
+The boots of a knight sworn to<LINE>the city's defense. Simple in<LINE>appearance, but well designed.
+Yukumo Layered Hakama
+Unavailable
+Silver Knight Layered Legs
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Fair Wind Charm
+A charm that enhances<LINE>the Attack Boost and<LINE>Divine Blessing skills.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Poison Charm I
+A charm that enhances the<LINE>Poison Resistance skill.
+Poison Charm II
+Poison Charm III
+Attack Charm I
+A charm that enhances the<LINE>Attack Boost skill.
+Attack Charm II
+Attack Charm III
+Defense Charm I
+A charm that enhances the<LINE>Defense Boost skill.
+Defense Charm II
+Defense Charm III
+Paralysis Charm I
+A charm that enhances the<LINE>Paralysis Resistance skill.
+Paralysis Charm II
+Paralysis Charm III
+Sleep Charm I
+A charm that enhances the<LINE>Sleep Resistance skill.
+Sleep Charm II
+Sleep Charm III
+Stun Charm I
+A charm that enhances the<LINE>Stun Resistance skill.
+Stun Charm II
+Stun Charm III
+Blast Charm I
+A charm that enhances the<LINE>Blast Resistance skill.
+Blast Charm II
+Blast Charm III
+Bleed Charm I
+A charm that enhances the<LINE>Bleeding Resistance skill.
+Bleed Charm II
+Bleed Charm III
+Guard Charm I
+A charm that enhances the<LINE>Iron Skin skill.
+Guard Charm II
+Guard Charm III
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Earplugs Charm I
+A charm that enhances the<LINE>Earplugs skill.
+Earplugs Charm II
+Earplugs Charm III
+Windproof Charm I
+A charm that enhances the<LINE>Windproof skill.
+Windproof Charm II
+Windproof Charm III
+Tremor Charm I
+A charm that enhances the<LINE>Tremor Resistance skill.
+Tremor Charm II
+Health Charm I
+A charm that enhances the<LINE>Health Boost skill.
+Health Charm II
+Health Charm III
+Recovery Charm I
+A charm that enhances the<LINE>Recovery Up skill.
+Recovery Charm II
+Recovery Charm III
+Speed Heal Charm I
+A charm that enhances the<LINE>Recovery Speed skill.
+Speed Heal Charm III
+Speed Heal Charm II
+Fire Charm I
+A charm that enhances the<LINE>Fire Resistance skill.
+Fire Charm II
+Fire Charm III
+Water Charm I
+A charm that enhances the<LINE>Water Resistance skill.
+Water Charm II
+Water Charm III
+Ice Charm I
+A charm that enhances the<LINE>Ice Resistance skill.
+Ice Charm II
+Ice Charm III
+Thunder Charm I
+A charm that enhances the<LINE>Thunder Resistance skill.
+Thunder Charm II
+Thunder Charm III
+Dragon Charm I
+A charm that enhances the<LINE>Dragon Resistance skill.
+Dragon Charm II
+Dragon Charm III
+Blight Charm I
+A charm that enhances the<LINE>Blight Resistance skill.
+Blight Charm II
+Blight Charm III
+Blaze Charm I
+A charm that enhances the<LINE>Fire Attack skill.
+Blaze Charm II
+Blaze Charm III
+Flood Charm I
+A charm that enhances the<LINE>Water Attack skill.
+Flood Charm II
+Flood Charm III
+Frost Charm I
+A charm that enhances the<LINE>Ice Attack skill.
+Frost Charm II
+Frost Charm III
+Shock Charm I
+A charm that enhances the<LINE>Thunder Attack skill.
+Shock Charm II
+Shock Charm III
+Wyrmsbane Charm I
+A charm that enhances the<LINE>Dragon Attack skill.
+Wyrmsbane Charm II
+Wyrmsbane Charm III
+Venom Charm I
+A charm that enhances the<LINE>Poison Attack skill.
+Venom Charm II
+Venom Charm III
+Immobilize Charm I
+A charm that enhances the<LINE>Paralysis Attack skill.
+Immobilize Charm II
+Immobilize Charm III
+Tranq Charm I
+A charm that enhances the<LINE>Sleep Attack skill.
+Tranq Charm II
+Tranq Charm III
+Demolition Charm I
+A charm that enhances the<LINE>Blast Attack skill.
+Demolition Charm II
+Demolition Charm III
+Master's Charm I
+A charm that enhances the<LINE>Critical Eye skill.
+Master's Charm II
+Master's Charm III
+Critical Charm I
+A charm that enhances the<LINE>Critical Boost skill.
+Unavailable
+Unavailable
+Exploiter Charm I
+A charm that enhances the<LINE>Weakness Exploit skill.
+Exploiter Charm II
+Focus Charm I
+A charm that enhances the<LINE>Focus skill.
+Focus Charm II
+Invigorate Charm I
+A charm that enhances the<LINE>Power Prolonger skill.
+Invigorate Charm II
+Draw Charm I
+A charm that enhances the<LINE>Critical Draw skill.
+Draw Charm II
+Breaker Charm I
+A charm that enhances the<LINE>Partbreaker skill.
+Breaker Charm II
+KO Charm I
+A charm that enhances the<LINE>Slugger skill.
+KO Charm II
+KO Charm III
+Enervate Charm I
+A charm that enhances the<LINE>Stamina Thief skill.
+Enervate Charm II
+Enervate Charm III
+Power Charm I
+A charm that enhances the<LINE>Latent Power skill.
+Power Charm II
+Challenger Charm I
+A charm that enhances the<LINE>Agitator skill.
+Challenger Charm II
+Unscathed Charm I
+A charm that enhances the<LINE>Peak Performance skill.
+Unscathed Charm II
+Fury Charm I
+A charm that enhances the<LINE>Resentment skill.
+Fury Charm II
+Special Shot Charm I
+A charm that enhances the<LINE>Special Ammo Boost skill.
+Special Shot Charm II
+Artillery Charm I
+A charm that enhances the<LINE>Artillery skill.
+Artillery Charm II
+Artillery Charm III
+Marathon Charm I
+A charm that enhances the<LINE>Marathon Runner skill.
+Marathon Charm II
+Fitness Charm I
+A charm that enhances the<LINE>Constitution skill.
+Fitness Charm II
+Surge Charm I
+A charm that enhances the<LINE>Stamina Surge skill.
+Surge Charm II
+Hungerless Charm I
+A charm that enhances the<LINE>Hunger Resistance skill.
+Hungerless Charm II
+Hungerless Charm III
+Evasion Charm I
+A charm that enhances the<LINE>Evade Window skill.
+Evasion Charm II
+Evasion Charm III
+Leaping Charm I
+A charm that enhances the<LINE>Evade Extender skill.
+Leaping Charm II
+Ironside Charm I
+A charm that enhances the<LINE>Guard skill.
+Ironside Charm II
+Ironside Charm III
+Sheath Charm I
+A charm that enhances the<LINE>Quick Sheath skill.
+Sheath Charm II
+Sheath Charm III
+Friendship Charm I
+A charm that enhances the<LINE>Wide-Range skill.
+Friendship Charm II
+Friendship Charm III
+Extension Charm I
+A charm that enhances the<LINE>Item Prolonger skill.
+Extension Charm II
+Extension Charm III
+Glutton's Charm I
+A charm that enhances the<LINE>Speed Eating skill.
+Glutton's Charm II
+Glutton's Charm III
+Whetstone Charm I
+A charm that enhances the<LINE>Speed Sharpening skill.
+Whetstone Charm II
+Whetstone Charm III
+Bombardier Charm I
+A charm that enhances the<LINE>Bombardier skill.
+Bombardier Charm II
+Bombardier Charm III
+Mushroom Charm I
+A charm that enhances the<LINE>Mushroomancer skill.
+Mushroom Charm II
+Unavailable
+Unavailable
+Blessing Charm I
+A charm that enhances the<LINE>Divine Blessing skill.
+Blessing Charm II
+Blessing Charm III
+Rally Charm I
+A charm that enhances the<LINE>Palico Rally skill.
+Rally Charm II
+Rally Charm III
+Botany Charm I
+A charm that enhances the<LINE>Botanist skill.
+Botany Charm II
+Botany Charm III
+Geology Charm I
+A charm that enhances the<LINE>Geologist skill.
+Geology Charm II
+Geology Charm III
+Mighty Charm I
+A charm that enhances the<LINE>Maximum Might skill.
+Mighty Charm II
+Slinger Charm I
+A charm that enhances the<LINE>Slinger Capacity skill.
+Slinger Charm II
+Slinger Charm III
+Stealth Charm I
+A charm that enhances the<LINE>Stealth skill.
+Stealth Charm II
+Stealth Charm III
+Impact Charm I
+A charm that enhances the<LINE>Flinch Free skill.
+Impact Charm II
+Smoke Charm I
+A charm that enhances the<LINE>Sporepuff Expert skill.
+Smoke Charm II
+Smoke Charm III
+Mirewalker Charm I
+Mirewalker Charm II
+Mirewalker Charm III
+Insect Charm I
+A charm that enhances the<LINE>Entomologist skill.
+Insect Charm II
+Insect Charm III
+Miasma Charm I
+A charm that enhances the<LINE>Effluvia Resistance skill.
+Miasma Charm II
+Miasma Charm III
+Intimidator Charm I
+A charm that enhances the<LINE>Intimidator skill.
+Intimidator Charm II
+Intimidator Charm III
+Awakening Charm I
+A charm that enhances the<LINE>Free Element/Ammo Up skill.
+Awakening Charm II
+Handicraft Charm I
+A charm that enhances the<LINE>Handicraft skill.
+Handicraft Charm II
+Handicraft Charm III
+Grit Charm I
+A charm that enhances the<LINE>Heroics skill.
+Grit Charm II
+Maintenance Charm I
+A charm that enhances the<LINE>Tool Specialist skill.
+Maintenance Charm II
+Maintenance Charm III
+Heavy Artillery Charm I
+A charm that enhances the<LINE>Heavy Artillery skill.
+Heavy Artillery Charm II
+A charm that enhances the<LINE>Heavy Artillery skill.
+Light Eater's Charm
+A charm that enhances the<LINE>Free Meal skill.
+Normal Shots Charm
+A charm that enhances the<LINE>Normal Shots skill.
+Penetration Charm
+A charm that enhances the<LINE>Piercing Shots skill.
+Dispersal Charm
+A charm that enhances the<LINE>Spread/Power Shots skill.
+Poison Coating Charm
+A charm that enhances the<LINE>Poison Functionality skill.
+Para Coating Charm
+A charm that enhances the<LINE>Para Functionality skill.
+Sleep Coating Charm
+A charm that enhances the<LINE>Sleep Functionality skill.
+Blast Coating Charm
+A charm that enhances the<LINE>Blast Functionality skill.
+Unavailable
+Unavailable
+Fortification Charm
+A charm that enhances the<LINE>Fortify skill.
+Unavailable
+Unavailable
+Performer's Charm
+A charm that enhances the<LINE>Horn Maestro skill.
+Capacity Charm
+A charm that enhances the<LINE>Capacity Boost skill.
+Mud Puppy Charm
+A charm that enhances<LINE>the Muck Resistance and<LINE>Leap of Faith skills.
+Trickshot Charm
+A charm that enhances the<LINE>Dungmaster and Blindsider<LINE>skills.
+Hunter's Life Charm
+A charm that enhances the<LINE>BBQ Master and<LINE>Master Fisher skills.
+Procurer's Charm
+A charm that enhances the<LINE>Pro Transporter and<LINE>Honey Hunter skills.
+Gatherer's Charm
+A charm that enhances the<LINE>Master Gatherer and<LINE>Carving Pro skills.
+Clearmind Charm
+A charm that enhances the<LINE>Heat Guard and<LINE>Effluvial Expert skills.
+Rider's Charm
+A charm that enhances the<LINE>Master Mounter and<LINE>Jump Master skills.
+Surveyor's Charm
+A charm that enhances the<LINE>Scoutfly Range Up and<LINE>Scholar skills.
+Tracker Charm
+A charm that enhances the<LINE>Scenthound skill.
+Geomancy Charm
+A charm that enhances the<LINE>Forager's Luck and<LINE>Detector skills.
+Gale Charm
+A charm that enhances the<LINE>Affinity Sliding and<LINE>Airborne skills.
+Wyrmslayer Charm
+A charm that enhances the<LINE>Elderseal Boost and<LINE>Dragon Attack skills.
+Bulwark Charm
+A charm that enhances the<LINE>Guard Up and<LINE>Resuscitate skills.
+Fitness Charm III
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Attack Charm IV
+Unavailable
+Defense Charm IV
+Defense Charm V
+Windproof Charm IV
+Unavailable
+Blaze Charm IV
+Blaze Charm V
+Flood Charm IV
+Flood Charm V
+Shock Charm IV
+Shock Charm V
+Ironside Charm IV
+Ironside Charm V
+Friendship Charm IV
+Friendship Charm V
+Rally Charm IV
+Rally Charm V
+Botany Charm IV
+Frost Charm IV
+Frost Charm V
+Master's Charm IV
+Unavailable
+Evasion Charm IV
+Unavailable
+Wyrmsbane Charm IV
+Wyrmsbane Charm V
+Unavailable
+Marathon Charm III
+Fitness Charm IV
+Unavailable
+Surge Charm III
+Leaping Charm III
+Mushroom Charm III
+Awakening Charm III
+Handicraft Charm IV
+Unavailable
+Earplugs Charm IV
+Unavailable
+Tremor Charm III
+Unavailable
+Focus Charm III
+Breaker Charm III
+Fury Charm III
+Fury Charm IV
+Unavailable
+Grit Charm III
+Grit Charm IV
+Unavailable
+Power Charm III
+Power Charm IV
+Unavailable
+Challenger Charm III
+Challenger Charm IV
+Unavailable
+Unavailable
+Unavailable
+Impact Charm III
+Critical Charm II
+Unavailable
+Invigorate Charm III
+Phoenix Charm I
+A charm that enhances<LINE>the Coalescence skill.
+Phoenix Charm II
+Unavailable
+Guardian Charm I
+A charm that enhances<LINE>the Offensive Guard skill.
+Guardian Charm II
+Guardian Charm III
+Adamantine Charm
+A charm that enhances<LINE>the Non-elemental Boost<LINE>and Bludgeoner skills.
+Razor Sharp Charm
+A charm that enhances the<LINE>Razor Sharp/Spare Shot skill.
+Sealer's Charm
+A charm that enhances the<LINE>Elderseal Boost and<LINE>Adrenaline skills.
+Gutsy Charm
+A charm that enhances<LINE>the Guts skill.
+Venom Charm IV
+Immobilize Charm IV
+Tranq Charm IV
+Demolition Charm IV
+Normal Shots Charm II
+Penetration Charm II
+Dispersal Charm II
+Performer's Charm II
+Survival Charm I
+A charm that enhances<LINE>the Survival Expert skill.
+Survival Charm II
+Survival Charm III
+Unavailable
+A charm that enhances the<LINE>Aquatic/Polar Mobility skill.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable

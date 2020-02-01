@@ -27,7 +27,7 @@ const CharmTable: React.FC<Props> = ({ charmGroups, ignoreArmors, toggleIgnoreAr
           <td>
             {group}
             <span className="CharmTable-skills">
-              {charm[list[0]].skill.map(v => v.name).join(' ')}
+              {charm[list[0]].skill.map(v => v.name).join(', ')}
             </span>
           </td>
           {list.map((name) =>

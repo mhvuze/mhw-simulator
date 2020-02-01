@@ -1,0 +1,964 @@
+Unavailable
+None.
+Unavailable
+Reduces the number of times<LINE>you take poison damage.
+Unavailable
+Greatly reduces the number of<LINE>times you take poison damage.
+Unavailable
+Prevents poison.
+Unavailable
+Reduces the duration<LINE>of paralysis by 30%.
+Unavailable
+Reduces the duration<LINE>of paralysis by 60%.
+Unavailable
+Prevents paralysis.
+Unavailable
+Reduces the duration<LINE>of sleep by 30%.
+Unavailable
+Reduces the duration<LINE>of sleep by 60%.
+Unavailable
+Prevents sleep.
+Unavailable
+Reduces the duration<LINE>of stun by 60%.
+Unavailable
+Reduces the duration<LINE>of stun by 90%.
+Unavailable
+Prevents stun.
+Unavailable
+Reduces limits on movement<LINE>speed and evasion.
+Unavailable
+Delays blastblight and reduces<LINE>blast damage.
+Unavailable
+Greatly delays blastblight and<LINE>greatly reduces blast damage.
+Unavailable
+Prevents blastblight.
+Unavailable
+Reduces damage while bleeding.
+Unavailable
+Greatly reduces damage while<LINE>bleeding.
+Unavailable
+Prevents bleeding.
+Unavailable
+Reduces the duration of<LINE>Defense Down by 50%.
+Unavailable
+Reduces the duration of<LINE>Defense Down by 75%.
+Unavailable
+Prevents Defense Down.
+Unavailable
+Reduces the duration of<LINE>Resistance Down by 50%.
+Unavailable
+Reduces the duration of<LINE>Resistance Down by 75%.
+Unavailable
+Prevents Resistance Down.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Slightly reduces the effects of<LINE>weak monster roars.
+Unavailable
+Reduces the effects of weak<LINE>monster roars.
+Unavailable
+Nullifies weak monster roars.
+Unavailable
+Nullifies weak monster roars<LINE>and reduces the effects of<LINE>strong monster roars.
+Unavailable
+Nullifies weak and strong<LINE>monster roars.
+Unavailable
+Slightly reduces the effects of<LINE>minor wind pressure.
+Unavailable
+Reduces the effects of minor<LINE>wind pressure.
+Unavailable
+Negates minor wind pressure.
+Unavailable
+Negates minor wind pressure<LINE>and reduces the effects of major<LINE>wind pressure.
+Unavailable
+Negates minor and major wind<LINE>pressure.
+Unavailable
+Nullifies minor ground tremors.
+Unavailable
+Nullifies minor ground tremors<LINE>and reduces the effects of<LINE>major ground tremors.
+Unavailable
+Nullifies minor and major<LINE>ground tremors.
+Unavailable
+Makes slinger dung pods more<LINE>effective at making monsters<LINE>run away.
+Unavailable
+Unavailable
+Unavailable
+Nullifies damage from effluvia and<LINE>reduces damage from acids.
+Unavailable
+Nullifies heat damage.
+Unavailable
+Unavailable
+Unavailable
+Attack +3
+Unavailable
+Attack +6
+Unavailable
+Attack +9
+Unavailable
+Attack +12<LINE>Affinity +5%
+Unavailable
+Attack +15<LINE>Affinity +5%
+Unavailable
+Attack +18<LINE>Affinity +5%
+Unavailable
+Attack +21<LINE>Affinity +5%
+Unavailable
+Defense +5
+Unavailable
+Defense +10
+Unavailable
+Defense +5%<LINE>Bonus: +10
+Unavailable
+Defense +5%<LINE>Bonus: +20<LINE>All Elemental Resistances +3
+Unavailable
+Defense +8%<LINE>Bonus: +20<LINE>All Elemental Resistances +3
+Unavailable
+Defense +8%<LINE>Bonus: +35<LINE>All Elemental Resistances +5
+Unavailable
+Defense +10%<LINE>Bonus: +35<LINE>All Elemental Resistances +5
+Unavailable
+Health +15
+Unavailable
+Health +30
+Unavailable
+Health +50
+Unavailable
+Recovery +10%
+Unavailable
+Recovery +20%
+Unavailable
+Recovery +30%
+Unavailable
+Doubles the speed at which you<LINE>heal recoverable damage.
+Unavailable
+Triples the speed at which you<LINE>heal recoverable damage.
+Unavailable
+Quadruples the speed at which<LINE>you heal recoverable damage.
+Unavailable
+Fire resistance +6
+Unavailable
+Fire resistance +12
+Unavailable
+Fire resistance +20<LINE>Defense +10
+Unavailable
+Water resistance +6
+Unavailable
+Water resistance +12
+Unavailable
+Water resistance +20<LINE>Defense +10
+Unavailable
+Ice resistance +6
+Unavailable
+Ice resistance +12
+Unavailable
+Ice resistance +20<LINE>Defense +10
+Unavailable
+Thunder resistance +6
+Unavailable
+Thunder resistance +12
+Unavailable
+Thunder resistance +20<LINE>Defense +10
+Unavailable
+Dragon resistance +6
+Unavailable
+Dragon resistance +12
+Unavailable
+Dragon resistance +20<LINE>Defense +10
+Unavailable
+Reduces the duration of all<LINE>elemental blights by 50%.
+Unavailable
+Reduces the duration of all<LINE>elemental blights by 75%.
+Unavailable
+Nullifies all elemental blights.
+Unavailable
+Fire attack +30
+Unavailable
+Fire attack +60
+Unavailable
+Fire attack +100
+Unavailable
+Fire attack +5%<LINE>Bonus: +100
+Unavailable
+Fire attack +10%<LINE>Bonus: +100
+Unavailable
+Water attack +30
+Unavailable
+Water attack +60
+Unavailable
+Water attack +100
+Unavailable
+Water attack +5%<LINE>Bonus: +100
+Unavailable
+Water attack +10%<LINE>Bonus: +100
+Unavailable
+Ice attack +30
+Unavailable
+Ice attack +60
+Unavailable
+Ice attack +100
+Unavailable
+Ice attack +5%<LINE>Bonus: +100
+Unavailable
+Ice attack +10%<LINE>Bonus: +100
+Unavailable
+Thunder attack +30
+Unavailable
+Thunder attack +60
+Unavailable
+Thunder attack +100
+Unavailable
+Thunder attack +5%<LINE>Bonus: +100
+Unavailable
+Thunder attack +10%<LINE>Bonus: +100
+Unavailable
+Dragon attack +30
+Unavailable
+Dragon attack +60
+Unavailable
+Dragon attack +100
+Unavailable
+Dragon attack +5%<LINE>Bonus: +100
+Unavailable
+Dragon attack +10%<LINE>Bonus: +100
+Unavailable
+Poison buildup +5%<LINE>Bonus: +10
+Unavailable
+Poison buildup +10%<LINE>Bonus: +10
+Unavailable
+Poison buildup +20%<LINE>Bonus: +10
+Unavailable
+Paralysis buildup +5%<LINE>Bonus: +10
+Unavailable
+Paralysis buildup +10%<LINE>Bonus: +10
+Unavailable
+Paralysis buildup +20%<LINE>Bonus: +10
+Unavailable
+Sleep buildup +5%<LINE>Bonus: +10
+Unavailable
+Sleep buildup +10%<LINE>Bonus: +10
+Unavailable
+Sleep buildup +20%<LINE>Bonus: +10
+Unavailable
+Blast buildup +5%<LINE>Bonus: +10
+Unavailable
+Blast buildup +10%<LINE>Bonus: +10
+Unavailable
+Blast buildup +20%<LINE>Bonus: +10
+Unavailable
+Increases the power of normal<LINE>ammo and normal arrows.
+Unavailable
+Increases the power of piercing<LINE>ammo and Dragon Piercer.
+Unavailable
+Increases the power of spread<LINE>ammo, power shot arrows,<LINE>and Thousand Dragons.
+Unavailable
+Lets you use poison coating.
+Unavailable
+Lets you use paralysis coating.
+Unavailable
+Lets you use sleep coating.
+Unavailable
+Unavailable
+Unavailable
+Lets you use blast coating.
+Unavailable
+Draws out 33% of hidden<LINE>element and expands clip<LINE>size for some ammo.
+Unavailable
+Draws out 66% of hidden<LINE>element and expands clip<LINE>size for many ammo.
+Unavailable
+Draws out 100% of hidden<LINE>element and expands clip<LINE>size for most ammo.
+Unavailable
+Affinity +5%
+Unavailable
+Affinity +10%
+Unavailable
+Affinity +15%
+Unavailable
+Affinity +20%
+Unavailable
+Affinity +25%
+Unavailable
+Affinity +30%
+Unavailable
+Affinity +40%
+Unavailable
+Increases damage dealt by<LINE>critical hits to 30%.
+Unavailable
+Increases damage dealt by<LINE>critical hits to 35%.
+Unavailable
+Increases damage dealt by<LINE>critical hits to 40%.
+Unavailable
+Attacks that hit weak spots have<LINE>10% increased affinity, with an<LINE>extra 5% on wounded parts.
+Unavailable
+Attacks that hit weak spots have<LINE>15% increased affinity, with an<LINE>extra 15% on wounded parts.
+Unavailable
+Attacks that hit weak spots have<LINE>30% increased affinity, with an<LINE>extra 20% on wounded parts.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Increases gauge fill rate by 5%<LINE>and reduces charge times by 5%.
+Unavailable
+Increases gauge fill rate by 10%<LINE>and reduces charge times by 10%.
+Unavailable
+Increases gauge fill rate by 20%<LINE>and reduces charge times by 15%.
+Unavailable
+Slightly increases the duration<LINE>weapons are powered up.
+Unavailable
+Increases the duration weapons<LINE>are powered up.
+Unavailable
+Greatly increases the duration<LINE>weapons are powered up.
+Unavailable
+Weapon sharpness +10
+Unavailable
+Weapon sharpness +20
+Unavailable
+Weapon sharpness +30
+Unavailable
+Weapon sharpness +40
+Unavailable
+Weapon sharpness +50
+Unavailable
+Draw attack affinity +30%
+Unavailable
+Draw attack affinity +60%
+Unavailable
+Draw attack affinity +100%
+Unavailable
+Part damage +10%
+Unavailable
+Part damage +20%
+Unavailable
+Part damage +30%
+Unavailable
+Stun power +20%
+Unavailable
+Stun power +30%
+Unavailable
+Stun power +40%
+Unavailable
+Exhaust power +20%
+Unavailable
+Exhaust power +30%
+Unavailable
+Exhaust power +40%
+Unavailable
+Makes it easier to mount monsters<LINE>and down mounted monsters.
+Unavailable
+Jumping attack power +30%
+Unavailable
+While active, increases affinity<LINE>by 10% and reduces stamina<LINE>depletion by 30%.
+Unavailable
+While active, increases affinity<LINE>by 20% and reduces stamina<LINE>depletion by 30%.
+Unavailable
+While active, increases affinity<LINE>by 30% and reduces stamina<LINE>depletion by 50%.
+Unavailable
+While active, increases affinity<LINE>by 40% and reduces stamina<LINE>depletion by 50%.
+Unavailable
+While active, increases affinity<LINE>by 50% and reduces stamina<LINE>depletion by 50%.
+Unavailable
+While active, grants attack +4<LINE>and increases affinity by 5%.
+Unavailable
+While active, grants attack +8<LINE>and increases affinity by 5%.
+Unavailable
+While active, grants attack +12<LINE>and increases affinity by 7%.
+Unavailable
+While active, grants attack +16<LINE>and increases affinity by 7%.
+Unavailable
+While active, grants attack +20<LINE>and increases affinity by 10%.
+Unavailable
+While active, grants attack +5.
+Unavailable
+While active, grants attack +10.
+Unavailable
+While active, grants attack +20.
+Unavailable
+While active, increases<LINE>defense by 50 points.
+Unavailable
+While active, increases attack<LINE>power by 5% and increases<LINE>defense by 50 points.
+Unavailable
+While active, increases attack<LINE>power by 5% and increases<LINE>defense by 100 points.
+Unavailable
+While active, increases attack<LINE>power by 10% and increases<LINE>defense by 100 points.
+Unavailable
+While active, increases attack<LINE>power by 15% and increases<LINE>defense by 100 points.
+Unavailable
+Increases attack by 10% and<LINE>defense by 15% with each use.
+Unavailable
+While active, grants attack +5.
+Unavailable
+While active, grants attack +10.
+Unavailable
+While active, grants attack +15.
+Unavailable
+While active, grants attack +20.
+Unavailable
+While active, grants attack +25.
+Unavailable
+While active, greatly improves<LINE>evasion invulnerability time and<LINE>reduces stamina depletion.
+Unavailable
+Extends melody effect duration<LINE>and increases health recovery.
+Unavailable
+Loading capacity +1
+Unavailable
+Increases the power of bowgun<LINE>special ammo, Dragon Piercer,<LINE>and Thousand Dragons by 10%.
+Unavailable
+Increases the power of bowgun<LINE>special ammo, Dragon Piercer,<LINE>and Thousand Dragons by 20%.
+Unavailable
+Increases power of each<LINE>attack by 10% and reduces<LINE>Wyvern's Fire cooldown by 15%.
+Unavailable
+Increases power of each<LINE>attack by 20% and reduces<LINE>Wyvern's Fire cooldown by 30%.
+Unavailable
+Increases power of each<LINE>attack by 30% and reduces<LINE>Wyvern's Fire cooldown by 50%.
+Unavailable
+Firepower +50%
+Unavailable
+Firepower +100%
+Unavailable
+Reduces continuous stamina<LINE>depletion by 15%.
+Unavailable
+Reduces continuous stamina<LINE>depletion by 30%.
+Unavailable
+Reduces continuous stamina<LINE>depletion by 50%.
+Unavailable
+Reduces fixed stamina<LINE>depletion by 10%.
+Unavailable
+Reduces fixed stamina<LINE>depletion by 20%.
+Unavailable
+Reduces fixed stamina<LINE>depletion by 30%.
+Unavailable
+Reduces fixed stamina<LINE>depletion by 40%.
+Unavailable
+Reduces fixed stamina<LINE>depletion by 50%.
+Unavailable
+Enables Leap of Faith.
+Unavailable
+Stamina recovery speed +10%
+Unavailable
+Stamina recovery speed +20%
+Unavailable
+Stamina recovery speed +30%
+Unavailable
+Extends the time until your<LINE>stamina cap decreases by 50%.
+Unavailable
+Extends the time until your<LINE>stamina cap decreases by 100%.
+Unavailable
+Prevents your stamina cap<LINE>from decreasing.
+Unavailable
+Very slightly increases<LINE>invulnerability window.
+Unavailable
+Slightly increases<LINE>invulnerability window.
+Unavailable
+Increases invulnerability<LINE>window.
+Unavailable
+Greatly increases<LINE>invulnerability window.
+Unavailable
+Massively increases<LINE>invulnerability window.
+Unavailable
+Slightly extends evasion<LINE>distance.
+Unavailable
+Extends evasion distance.
+Unavailable
+Greatly extends evasion<LINE>distance.
+Unavailable
+Very slightly decreases the<LINE>impact of attacks.
+Unavailable
+Slightly decreases the impact<LINE>of attacks and reduces stamina<LINE>depletion by 15%.
+Unavailable
+Greatly decreases the impact<LINE>of attacks and reduces stamina<LINE>depletion by 15%.
+Unavailable
+Greatly decreases the impact<LINE>of attacks and reduces stamina<LINE>depletion by 30%.
+Unavailable
+Massively decreases the impact<LINE>of attacks and reduces stamina<LINE>depletion by 50%.
+Unavailable
+Slightly increases sheathing<LINE>speed.
+Unavailable
+Moderately increases sheathing<LINE>speed.
+Unavailable
+Greatly increases sheathing<LINE>speed.
+Unavailable
+Items affect nearby allies<LINE>with 33% of their efficacy.
+Unavailable
+Items affect nearby allies<LINE>in a wider radius with 33%<LINE>of their efficacy.
+Unavailable
+Items affect nearby allies<LINE>in a wider radius at 66%<LINE>of their efficacy.
+Unavailable
+Items affect nearby allies<LINE>in a much wider radius with<LINE>66% of their efficacy.
+Unavailable
+Items affect nearby allies<LINE>in a much wider radius with<LINE>full efficacy.
+Unavailable
+Item effect duration +10%
+Unavailable
+Item effect duration +25%
+Unavailable
+Item effect duration +50%
+Unavailable
+Activates 25% of the time.
+Unavailable
+Slightly increases<LINE>item use speed.
+Unavailable
+Moderately increases<LINE>item use speed.
+Unavailable
+Greatly increases<LINE>item use speed.
+Unavailable
+Removes one cycle from<LINE>the sharpening process.
+Unavailable
+Removes two cycles from<LINE>the sharpening process.
+Unavailable
+Removes three cycles from<LINE>the sharpening process.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Explosive power +10%
+Unavailable
+Explosive power +20%
+Unavailable
+Explosive power +30%
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Lets you digest blue<LINE>mushrooms and toadstools.
+Unavailable
+Additionally lets you digest<LINE>nitroshrooms and parashrooms.
+Unavailable
+Additionally lets you digest<LINE>mandragoras, devil's blight,<LINE>and exciteshrooms.
+Unavailable
+Increases the time window for<LINE>reeling in fish, and makes it<LINE>easier to catch large fish.
+Unavailable
+Makes it easier to cook<LINE>well-done steaks.
+Unavailable
+Increases movement speed while<LINE>transporting and reduces downtime<LINE>on landings.
+Unavailable
+Speeds up gathering and prevents<LINE>knockbacks while gathering.
+Unavailable
+One extra honey per gather.
+Unavailable
+Prevents knockback while<LINE>carving.
+Unavailable
+While active, reduces damage<LINE>taken by 15%.
+Unavailable
+While active, reduces damage<LINE>taken by 30%.
+Unavailable
+While active, reduces damage<LINE>taken by 50%.
+Unavailable
+Increases Palico attack power<LINE>and defense by 5%.
+Unavailable
+Increases Palico attack power<LINE>and defense by 10%.
+Unavailable
+Increases Palico attack power<LINE>and defense by 15%.
+Unavailable
+Increases Palico attack power<LINE>and defense by 20%.
+Unavailable
+Increases Palico attack power<LINE>and defense by 25%.
+Unavailable
+One extra consumable herb<LINE>item per gather.
+Unavailable
+One extra consumable herb,<LINE>fruit, nut, or seed item per<LINE>gather.
+Unavailable
+One extra consumable herb,<LINE>fruit, nut, seed, or insect item<LINE>per gather.
+Unavailable
+One extra consumable herb,<LINE>fruit, nut, seed, insect, or<LINE>mushroom item per gather.
+Unavailable
+Allows you to gather one extra<LINE>time from bonepiles.
+Unavailable
+Allows you to gather one extra<LINE>time from bonepiles and special<LINE>item gathering points.
+Unavailable
+Allows you to gather one extra<LINE>time from bonepiles, gathering<LINE>points, and mining outcrops.
+Unavailable
+While active, increases affinity<LINE>by 10%.
+Unavailable
+While active, increases affinity<LINE>by 20%.
+Unavailable
+While active, increases affinity<LINE>by 30%.
+Unavailable
+Increases the loading capacity<LINE>for slinger ammo collected from<LINE>the ground or plants.
+Unavailable
+In addition, increases the<LINE>loading capacity for some slinger<LINE>ammo dropped by monsters.
+Unavailable
+In addition, increases the<LINE>loading capacity for all slinger<LINE>ammo dropped by monsters.
+Unavailable
+Makes it slightly easier for<LINE>monsters to lose sight of you.
+Unavailable
+Makes it moderately easier for<LINE>monsters to lose sight of you.
+Unavailable
+Makes it much easier for<LINE>monsters to lose sight of you.
+Unavailable
+Prevents knockbacks.<LINE>Increases some Kinsect<LINE>extract effects.
+Unavailable
+Prevents knockbacks. Tripping is<LINE>reduced to a knockback. Increases<LINE>some Kinsect extract effects.
+Unavailable
+Prevents knockbacks and<LINE>tripping. Increases some<LINE>Kinsect extract effects.
+Unavailable
+Expands your scoutflies'<LINE>detection range.
+Unavailable
+Increases movement speed<LINE>while crouching.
+Unavailable
+Negates knockback during<LINE>jumps.
+Unavailable
+Interactables restore an<LINE>additional 50 health.
+Unavailable
+Interactables restore an<LINE>additional 80 health.
+Unavailable
+Interactables restore an<LINE>additional 100 health.
+Unavailable
+Prevents lowered movement speed.
+Unavailable
+Increases your evade window and<LINE>prevents lowered movement speed.
+Unavailable
+Greatly increases evade window and<LINE>prevents lowered movement speed.
+Unavailable
+Unavailable
+Unavailable
+Reduces stamina depletion<LINE>while climbing by 50%.
+Unavailable
+Increases the range of<LINE>Flash Pods.
+Unavailable
+Unavailable
+Unavailable
+Speeds up progress on research<LINE>levels and special investigations.
+Unavailable
+Increases the chances of a corpse<LINE>being left behind.
+Unavailable
+Greatly increases the chances of<LINE>a corpse being left behind.
+Unavailable
+Makes it so corpses will<LINE>always be left behind.
+Unavailable
+Reduces effluvial buildup.
+Unavailable
+Greatly reduces effluvial buildup.
+Unavailable
+Prevents effluvial buildup.
+Unavailable
+Increases gauge fill rate<LINE>by 50%.
+Unavailable
+Increases the likelihood of rare<LINE>gathering points respawning.
+Unavailable
+Marks rare sites on the wildlife<LINE>map.
+Unavailable
+Shortens time until reuse by<LINE>10%.
+Unavailable
+Shortens time until reuse by<LINE>20%.
+Unavailable
+Shortens time until reuse by<LINE>30%.
+Unavailable
+Unavailable
+Unavailable
+Increases affinity by 30% for<LINE>a short time after sliding.
+Unavailable
+Boosts Elderseal one level.
+Unavailable
+Discourages monsters from<LINE>engaging you even if you've<LINE>been spotted.
+Unavailable
+Highly discourages monsters<LINE>from engaging you even if you've<LINE>been spotted.
+Unavailable
+Prevents monsters from engaging<LINE>you even if you've been spotted.
+Unavailable
+Unavailable
+Adrenaline
+Temporarily reduces stamina<LINE>depletion when health is at 40%<LINE>or lower.
+Adrenaline
+Temporarily reduces stamina<LINE>depletion when health is at 40%<LINE>or lower.
+Guts
+Above a certain health threshold,<LINE>you withstand an attack that would<LINE>normally cart you (once only).
+Guard Up
+Allows you to guard against<LINE>ordinarily unblockable attacks.
+Punishing Draw
+Adds a stun effect to draw<LINE>attacks and slightly increases<LINE>attack power.
+Punishing Draw
+Adds a stun effect to draw<LINE>attacks and slightly increases<LINE>attack power.
+Razor Sharp/Spare Shot
+Halves sharpness loss. For bows<LINE>and bowguns, shots have a chance<LINE>not to expend coatings or ammo.
+Mind's Eye/Ballistics
+Prevents attacks from being deflected.<LINE>Also shortens the distance before ammo<LINE>and arrows reach maximum power.
+Capture Master
+High chance of increased<LINE>capture rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Capture Master
+High chance of increased<LINE>capture rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Great Luck
+High chance of increased<LINE>quest rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Good Luck
+Good chance of increased<LINE>quest rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Good Luck
+Good chance of increased<LINE>quest rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Carving Master
+Lets you carve one additional<LINE>time. <STYL MOJI_YELLOW_DEFAULT>(No effect when joining<LINE>mid-quest.)</STYL>
+Critical Status
+Increases abnormal status effect<LINE>damage (paralysis, poison, sleep,<LINE>blast) when landing critical hits.
+Critical Element
+Increases elemental damage<LINE>(fire, water, thunder, ice, dragon)<LINE>when landing critical hits.
+Critical Element
+Increases elemental damage<LINE>(fire, water, thunder, ice, dragon)<LINE>when landing critical hits.
+Protective Polish
+Weapon sharpness does not<LINE>decrease for a set time after<LINE>sharpening.
+Bludgeoner
+Raises attack as your weapon loses<LINE>sharpness. Also boosts ranged weapon<LINE>melee attacks and odds of stunning.
+Bludgeoner
+Raises attack as your weapon loses<LINE>sharpness. Also boosts ranged weapon<LINE>melee attacks and odds of stunning.
+Bow Charge Plus
+Increases max bow charge<LINE>level by one.
+Master's Touch
+Prevents your weapon from losing<LINE>sharpness during critical hits.
+Poison Duration Up
+Extends the duration of your<LINE>poison's effect on monsters.
+Non-elemental Boost
+Powers up non-elemental<LINE>weapons you have equipped.
+Stamina Cap Up
+Increases stamina cap.
+Nullify Wind Pressure
+Negates all wind pressure.
+Super Recovery
+Allows recovery to exceed the<LINE>red portion of the health gauge.
+Hasten Recovery
+Regenerates your health as you<LINE>continually attack a monster.<LINE>Recovery varies by weapon.
+Unavailable
+Activates skill effect.
+Unavailable
+Activates skill effect.
+Unavailable
+Enables skill use.
+Unavailable
+Enables skill use.
+Unavailable
+Raises base attack for<LINE>non-elemental weapons.
+Unavailable
+Unavailable
+Unavailable
+Activates skill effect.
+Unavailable
+Activates skill effect.
+Unavailable
+Activates skill effect.
+Stamina Cap Up
+Increases stamina cap.
+Mind's Eye/Ballistics
+Prevents attacks from being deflected.<LINE>Also shortens the distance before ammo<LINE>and arrows reach maximum power.
+Elemental Airborne
+Elemental damage increased for<LINE>jumping attacks.
+Master's Touch
+Prevents your weapon from losing<LINE>sharpness during critical hits.
+Unavailable
+Activates skill effect.
+Unavailable
+Activates skill effect.
+Igni Intensity
+Only those who complete the rigorous<LINE>witcher training are allowed to use<LINE>the powerful magic of the Igni Sign.
+Super Recovery
+Allows recovery to exceed the<LINE>red portion of the health gauge.
+Great Luck
+Often increases the number of rewards<LINE>received at the end of a quest. <STYL MOJI_YELLOW_DEFAULT>(Does<LINE>not work if joining a quest in progress)</STYL>
+Latent Power Secret
+Raises the maximum level<LINE>of the Latent Power skill.
+Unavailable
+While active, increases affinity<LINE>by 50%, reduces stamina<LINE>depletion by 50%. Triggers easier.
+Unavailable
+While active, increases affinity<LINE>by 60%, reduces stamina<LINE>depletion by 50%. Triggers easier.
+Free Meal Secret
+Raises the maximum level<LINE>of the Free Meal skill.
+Unavailable
+Activates 50% of the time.
+Unavailable
+Activates 75% of the time.
+Agitator Secret
+Raises the maximum level<LINE>of the Agitator skill.
+Unavailable
+While active, grants attack +24<LINE>and increases affinity by 15%.
+Unavailable
+While active, grants attack +28<LINE>and increases affinity by 20%.
+Maximum Might Secret
+Raises the maximum level<LINE>of the Maximum Might skill.
+Unavailable
+While active, increases affinity<LINE>by 40%.
+Unavailable
+Increases affinity by 40% as soon<LINE>as the stamina gauge is full.
+Slinger Ammo Secret
+Raises the maximum level<LINE>of the Slinger Capacity skill.
+Unavailable
+Increases the loading capacity<LINE>for slinger ammo collected from<LINE>the ground or plants even more.
+Unavailable
+Increases the loading capacity<LINE>for all slinger ammo.
+Divine Blessing Secret
+Raises the maximum level<LINE>of the Divine Blessing skill.
+Unavailable
+While active, reduces damage<LINE>taken by 60%.
+Unavailable
+While active, reduces damage<LINE>taken by 60%. Skill becomes<LINE>easier to activate as well.
+Gaia's Veil
+While wearing a mantle, gain<LINE>Windproof Lv3, Earplugs Lv3,<LINE>Tremor Res Lv3, and Flinch Free.
+Element Acceleration
+Continually attacking a monster<LINE>activates Free Element/Ammo Up Lv2<LINE>and increases elemental damage.
+Frostcraft
+An aura of frost builds when your<LINE>weapon is sheathed, raising attack.<LINE>Wanes each melee hit or shot fired.
+True Razor Sharp/Spare Shot
+Greatly reduces sharpness loss.<LINE>Bows and bowguns have a chance<LINE>not to expend coatings or ammo.
+True Critical Element
+Greatly increases elemental damage<LINE>(fire, water, thunder, ice, dragon)<LINE>when landing critical hits.
+True Critical Status
+Greatly increases status effect<LINE>damage (paralysis, poison, sleep,<LINE>blast) when landing critical hits.
+Tool Specialist Secret
+Raises the maximum level<LINE>of the Tool Specialist skill.
+Unavailable
+Shortens time until reuse by<LINE>40%.
+Unavailable
+Shortens time until reuse by<LINE>50%.
+Artillery Secret
+Raises the maximum level<LINE>of the Artillery skill.
+Unavailable
+Increases power of each<LINE>attack by 40% and reduces<LINE>Wyvern's Fire cooldown by 60%.
+Unavailable
+Increases power of each<LINE>attack by 50% and reduces<LINE>Wyvern's Fire cooldown by 70%.
+Slugger Secret
+Raises the maximum level<LINE>of the Slugger skill.
+Unavailable
+Stun power +50%
+Unavailable
+Stun power +60%
+Stamina Thief Secret
+Raises the maximum level<LINE>of the Stamina Thief skill.
+Unavailable
+Exhaust power +50%
+Unavailable
+Exhaust power +60%
+Bombardier Secret
+Raises the maximum level<LINE>of the Bombardier skill.
+Unavailable
+Explosive power +40%
+Unavailable
+Explosive power +50%
+Unavailable
+Fire attack +20%<LINE>Bonus: +100
+Unavailable
+Water attack +20%<LINE>Bonus: +100
+Unavailable
+Ice attack +20%<LINE>Bonus: +100
+Unavailable
+Thunder attack +20%<LINE>Bonus: +100
+Unavailable
+Dragon attack +20%<LINE>Bonus: +100
+Unavailable
+Poison buildup +30%<LINE>Bonus: +10
+Unavailable
+Paralysis buildup +30%<LINE>Bonus: +10
+Unavailable
+Sleep buildup +30%<LINE>Bonus: +10
+Unavailable
+Blast buildup +30%<LINE>Bonus: +10
+Unavailable
+Greatly increases the effect<LINE>duration of hunting horn<LINE>melodies.
+Unavailable
+Greatly increases the power of<LINE>normal ammo and normal arrows.
+Unavailable
+Greatly increases the power of<LINE>piercing ammo and Dragon Piercer.
+Unavailable
+Greatly increases the power of<LINE>spread ammo, power shot arrows,<LINE>and Thousand Dragons.
+Unavailable
+Activates skill effect.
+Unavailable
+While active, increases attack<LINE>power by 5%.
+Unavailable
+While active, increases attack<LINE>power by 10%.
+Unavailable
+While active, increases attack<LINE>power by 15%.
+Unavailable
+While active, grants attack +12,<LINE>element attack power +30,<LINE>and status buildup +5%.
+Unavailable
+While active, grants attack +15,<LINE>element attack power +60,<LINE>and status buildup +10%.
+Unavailable
+While active, grants attack +18,<LINE>element attack power +90,<LINE>and status buildup +15%.
+Unavailable
+Activates skill effect.
+True Gaia's Veil
+While wearing a mantle, gain Tremor<LINE>Resistance Lv3, Earplugs Lv5, max<LINE>Windproof, and Flinch Free.
+True Element Acceleration
+Continually attacking a monster<LINE>activates Free Element/Ammo Up Lv3<LINE>and increases elemental damage.
+Critical Status
+Increases abnormal status effect<LINE>damage (paralysis, poison, sleep,<LINE>blast) when landing critical hits.
+Capture Master
+High chance of increased<LINE>capture rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Stamina Cap Up
+Increases stamina cap.
+Poison Duration Up
+Extends the duration of your<LINE>poison's effect on monsters.
+Punishing Draw
+Adds a stun effect to draw<LINE>attacks and slightly increases<LINE>attack power.
+Mind's Eye/Ballistics
+Prevents attacks from being deflected.<LINE>Also shortens the distance before ammo<LINE>and arrows reach maximum power.
+Bow Charge Plus
+Increases max bow charge<LINE>level by one.
+Protective Polish
+Weapon sharpness does not<LINE>decrease for a set time after<LINE>sharpening.
+Guard Up
+Allows you to guard against<LINE>ordinarily unblockable attacks.
+Guts
+Above a certain health threshold,<LINE>you withstand an attack that would<LINE>normally cart you (once only).
+Super Recovery
+Allows recovery to exceed the<LINE>red portion of the health gauge.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Hasten Recovery
+Regenerates your health as you<LINE>continually attack a monster.<LINE>Recovery varies by weapon.
+Great Luck
+High chance of increased<LINE>quest rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Good Luck
+Good chance of increased<LINE>quest rewards. <STYL MOJI_YELLOW_DEFAULT>(No effect<LINE>when joining mid-quest.)</STYL>
+Carving Master
+Lets you carve one additional<LINE>time. <STYL MOJI_YELLOW_DEFAULT>(No effect when joining<LINE>mid-quest.)</STYL>
+Critical Element
+Increases elemental damage<LINE>(fire, water, thunder, ice, dragon)<LINE>when landing critical hits.
+Unavailable
+Unavailable
+Unavailable
+Activates skill effect.
+Unavailable
+Activates skill effect.
+Unavailable
+Activates skill effect.
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Joy's Gift
+Increases odds of getting special<LINE>Holiday Joy rewards.<LINE><STYL MOJI_YELLOW_DEFAULT>(No effect when joining mid-quest.)</STYL>
+Joy's Gratitude
+Greatly increases odds of getting<LINE>special Holiday Joy rewards.<LINE><STYL MOJI_YELLOW_DEFAULT>(No effect when joining mid-quest.)</STYL>
+Gratitude's Gift
+Increases odds of getting special<LINE>Grand Appreciation rewards.<LINE><STYL MOJI_YELLOW_DEFAULT>(No effect when joining mid-quest.)</STYL>
+Gratitude's Blessing
+Greatly increases odds of getting<LINE>special Grand Appreciation rewards.<LINE><STYL MOJI_YELLOW_DEFAULT>(No effect when joining mid-quest.)</STYL>
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable
+Unavailable

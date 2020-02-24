@@ -189,6 +189,7 @@ Guardian α+
 さくらα
 Geralt α
 Ciri α
+Defender α
 Bone α+
 Bone β+
 Alloy α+
@@ -342,16 +343,15 @@ EXゴクオウβ
 EX龍紋α
 EX龍紋β
 Oolong α+
+Astral α+
 EXバヌークα
 Pearlspring α+
 Duffel Penguin Mask α+
 Sealed Dragon Cloth α+
+Wyverian Ears α+
 Acrobat Earrings α+
 Showman Earrings α+
-EXバヌークα
 Buff Body α+
 EXレオンα
 EXクレアα
 EXシールドウィーバー
-Wyverian Ears α+
-Astral α+
